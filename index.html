@@ -1369,6 +1369,54 @@
     @media (prefers-reduced-motion: reduce) {
       .welcome-source-card, .welcome-primary, .welcome-secondary { transition: none; }
     }
+    .listing-focus-pin {
+      --focus-color: #f05b4f;
+      z-index: 20;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      max-width: min(240px, 54vw);
+      pointer-events: none;
+      filter: drop-shadow(0 4px 8px rgba(5, 26, 30, .55));
+    }
+    .listing-focus-pin[data-state="hovered"] { --focus-color: #e99129; }
+    .listing-focus-pin-card {
+      max-width: 100%;
+      padding: 7px 11px 8px;
+      border: 2px solid #fff;
+      border-radius: 11px;
+      background: #173831;
+      color: #fff;
+      text-align: center;
+      line-height: 1.15;
+    }
+    .listing-focus-pin-state {
+      display: block;
+      margin-bottom: 3px;
+      color: #ffe0a0;
+      font-size: 9px;
+      font-weight: 800;
+      letter-spacing: .12em;
+      text-transform: uppercase;
+    }
+    .listing-focus-pin-name {
+      display: block;
+      overflow: hidden;
+      max-width: 210px;
+      font-size: 12px;
+      font-weight: 750;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
+    .listing-focus-pin-stem { width: 3px; height: 14px; background: #fff; }
+    .listing-focus-pin-tip {
+      width: 18px;
+      height: 18px;
+      border: 3px solid #fff;
+      border-radius: 50%;
+      background: var(--focus-color);
+      box-shadow: 0 0 0 3px #173831;
+    }
   </style>
 </head>
 <body>
@@ -2390,6 +2438,43 @@
           map.on('mouseleave', id, () => { map.getCanvas().style.cursor = ''; });
         }
 
+        let hoveredListingNodeId = null;
+        let focusMarker = null;
+        const focusPin = document.createElement('div');
+        focusPin.className = 'listing-focus-pin';
+        focusPin.setAttribute('role', 'img');
+        const focusCard = document.createElement('div');
+        focusCard.className = 'listing-focus-pin-card';
+        const focusState = document.createElement('span');
+        focusState.className = 'listing-focus-pin-state';
+        const focusName = document.createElement('span');
+        focusName.className = 'listing-focus-pin-name';
+        focusCard.append(focusState, focusName);
+        const focusStem = document.createElement('span');
+        focusStem.className = 'listing-focus-pin-stem';
+        const focusTip = document.createElement('span');
+        focusTip.className = 'listing-focus-pin-tip';
+        focusPin.append(focusCard, focusStem, focusTip);
+
+        function updateListingFocusPin() {
+          const hovered = hoveredListingNodeId && listingsByNodeId.get(hoveredListingNodeId);
+          const listing = hovered || (selectedListingNodeId && listingsByNodeId.get(selectedListingNodeId));
+          const point = listing?.mapPoint || {};
+          const longitude = Number(point.longitude), latitude = Number(point.latitude);
+          if (!listing || !Number.isFinite(longitude) || !Number.isFinite(latitude)) {
+            focusMarker?.remove();
+            return;
+          }
+          const state = hovered ? 'hovered' : 'selected';
+          focusPin.dataset.state = state;
+          focusState.textContent = state;
+          focusName.textContent = listing.name || 'Rental property';
+          focusPin.setAttribute('aria-label', `${listing.name || 'Rental property'}: ${state} map location`);
+          if (!focusMarker) focusMarker = new maplibregl.Marker({ element: focusPin, anchor: 'bottom' });
+          focusMarker.setLngLat([longitude, latitude]);
+          if (!focusPin.isConnected) focusMarker.addTo(map);
+        }
+
         function syncMapPaddingToPanel() {
           // The map fills the window, but the desktop panel covers its right edge.
           // Camera padding keeps the geographic center in the uncovered area.
@@ -2401,6 +2486,8 @@
 
         function hidePropertyPanel() {
           selectedListingNodeId = null;
+          hoveredListingNodeId = null;
+          updateListingFocusPin();
           propertyPanelMode = 'list';
           propertyPanel.hidden = true;
           document.body.classList.remove('listings-panel-open');
@@ -2887,6 +2974,8 @@
           if (selectedPopup) selectedPopup.remove();
           selectedPopup = null;
           selectedListingNodeId = null;
+          hoveredListingNodeId = null;
+          updateListingFocusPin();
           propertyPanelMode = 'list';
           propertyPanel.classList.add('list-view');
           listingTools.hidden = false;
@@ -2950,6 +3039,8 @@
 
         function showPropertyPanel(listing) {
           selectedListingNodeId = String(listing.propertyNodeId);
+          hoveredListingNodeId = null;
+          updateListingFocusPin();
           propertyPanelMode = 'details';
           propertyPanel.classList.remove('list-view');
           listingTools.hidden = true;
@@ -3135,6 +3226,8 @@
           const id = String(listing.propertyNodeId || '');
           if (!id) return;
           if (listingMapPreviewTimer !== null) window.clearTimeout(listingMapPreviewTimer);
+          hoveredListingNodeId = id;
+          updateListingFocusPin();
           pendingListingPreviewId = id;
           listingMapPreviewTimer = window.setTimeout(() => {
             listingMapPreviewTimer = null;
@@ -3155,7 +3248,12 @@
         }
 
         function cancelListingMapPreview(listing) {
-          if (pendingListingPreviewId !== String(listing.propertyNodeId || '')) return;
+          const id = String(listing.propertyNodeId || '');
+          if (hoveredListingNodeId === id) {
+            hoveredListingNodeId = null;
+            updateListingFocusPin();
+          }
+          if (pendingListingPreviewId !== id) return;
           pendingListingPreviewId = '';
           if (listingMapPreviewTimer !== null) {
             window.clearTimeout(listingMapPreviewTimer);
@@ -3192,6 +3290,11 @@
         listingsToggle.addEventListener('click', showListingsPanel);
         window.addEventListener('resize', syncMapPaddingToPanel);
         function refreshFilteredListings() {
+          hoveredListingNodeId = null;
+          updateListingFocusPin();
+          pendingListingPreviewId = '';
+          if (listingMapPreviewTimer !== null) window.clearTimeout(listingMapPreviewTimer);
+          listingMapPreviewTimer = null;
           if (propertyPanelMode === 'list') renderListingRows();
           rebuildListingGrid();
           updateListingPins();
