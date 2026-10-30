@@ -3,12 +3,12 @@
   "collection": {
     "source": "Smile Student Living official public availability page",
     "directoryUrl": "https://www.smilestudentliving.com/availability",
-    "capturedOn": "2026-10-14",
+    "capturedOn": "2026-10-30",
     "method": "Paginated public Duda appfolio-listings collection, filtered by the availability widget's Smile UIUC property group; unit listables grouped by published property ID.",
     "buildingCount": 55,
     "advertisedBuildingCount": 55,
-    "advertisedLayoutCount": 139,
-    "sourceListableCount": 140,
+    "advertisedLayoutCount": 137,
+    "sourceListableCount": 138,
     "limitations": "The public collection is an availability-only snapshot, not a full inventory of Smile's unlisted buildings. A zero-rent sublease application is not a rental offer. Published prices may be per person when explicitly stated; otherwise they are labeled monthly without inferring a per-unit basis. Photos are sampled from official URLs. Pins are Smile-provided, not verified footprint centroids.",
     "futureRefreshRequirement": {
       "cadenceHours": 24,
@@ -57,7 +57,7 @@
           "availableTerms": [
             "Aug 17, 2027"
           ],
-          "statusText": "August 2027! Two bed one bath apartment in Gradland. Priced per person. Text to Tour (217) 282-0020"
+          "statusText": "August 2027! Individual leasing available! Two bed one bath apartment in Gradland. Priced per person. Text to Tour (217) 282-0020"
         }
       ],
       "representativeFloorplan": {
@@ -236,40 +236,6 @@
           "bathrooms": 1.0,
           "rent": {
             "perPersonUsd": {
-              "min": 719,
-              "max": 719,
-              "display": "$719"
-            }
-          },
-          "availableTerms": [
-            "Aug 17, 2027"
-          ],
-          "statusText": "August 2027! 2 Bedroom bed 1 bath apartment in Gradland. Priced per person. Text to Tour (217) 858-4790"
-        },
-        {
-          "unitTypeNodeId": "smile:4cba10e8-74b7-4ea7-8a4a-676e3c5663de",
-          "title": "3 Bedroom 1.5 Bath",
-          "bedrooms": 3,
-          "bathrooms": 1.5,
-          "rent": {
-            "perPersonUsd": {
-              "min": 649,
-              "max": 649,
-              "display": "$649"
-            }
-          },
-          "availableTerms": [
-            "Aug 17, 2027"
-          ],
-          "statusText": "August 2027! 3 bed 1.5 bath apartment in Gradland. Priced per person. Text to Tour (217) 858-4790"
-        },
-        {
-          "unitTypeNodeId": "smile:7865094b-f430-4277-99da-f746063a6baa",
-          "title": "3 Bedroom 2 Bath",
-          "bedrooms": 3,
-          "bathrooms": 2.0,
-          "rent": {
-            "perPersonUsd": {
               "min": 699,
               "max": 699,
               "display": "$699"
@@ -278,7 +244,41 @@
           "availableTerms": [
             "Aug 17, 2027"
           ],
-          "statusText": "August 2027! 3 bed 2 bath apartment in Gradland. Priced per person. Text to Tour (217) 858-4790"
+          "statusText": "August 2027! Individual Leasing Available! 2 Bedroom bed 1 bath apartment in Gradland. Priced per person. Text to Tour (217) 858-4790"
+        },
+        {
+          "unitTypeNodeId": "smile:4cba10e8-74b7-4ea7-8a4a-676e3c5663de",
+          "title": "3 Bedroom 1.5 Bath",
+          "bedrooms": 3,
+          "bathrooms": 1.5,
+          "rent": {
+            "perPersonUsd": {
+              "min": 629,
+              "max": 629,
+              "display": "$629"
+            }
+          },
+          "availableTerms": [
+            "Aug 17, 2027"
+          ],
+          "statusText": "August 2027! Individual Leasing Available! 3 bed 1.5 bath apartment in Gradland. Priced per person. Text to Tour (217) 858-4790"
+        },
+        {
+          "unitTypeNodeId": "smile:7865094b-f430-4277-99da-f746063a6baa",
+          "title": "3 Bedroom 2 Bath",
+          "bedrooms": 3,
+          "bathrooms": 2.0,
+          "rent": {
+            "perPersonUsd": {
+              "min": 689,
+              "max": 689,
+              "display": "$689"
+            }
+          },
+          "availableTerms": [
+            "Aug 17, 2027"
+          ],
+          "statusText": "August 2027! Individual Leasing Available! 3 bed 2 bath apartment in Gradland. Priced per person. Text to Tour (217) 858-4790"
         }
       ],
       "representativeFloorplan": {
@@ -363,7 +363,7 @@
           "availableTerms": [
             "Aug 20, 2027"
           ],
-          "statusText": "August 2027! Two bed one bath apartment in Seniorland. Priced per person. Text to Tour (217) 687-1868"
+          "statusText": "August 2027! Individual Leasing Available! Two bed one bath apartment in Seniorland. Priced per person. Text to Tour (217) 687-1868"
         },
         {
           "unitTypeNodeId": "smile:784fdff9-b9ae-4a2d-933f-1b82fd3a81da",
@@ -461,7 +461,7 @@
           "availableTerms": [
             "Aug 17, 2027"
           ],
-          "statusText": "August 2027! Three bed one bath apartment in Gradland. Priced per person. Text to Tour (217) 858-2330"
+          "statusText": "August 2027! Individual Leasing Available! Three bed one bath apartment in Gradland. Priced per person. Text to Tour (217) 858-2330"
         },
         {
           "unitTypeNodeId": "smile:e4830e52-c869-460c-ba4f-746ddc21a0a2",
@@ -478,7 +478,7 @@
           "availableTerms": [
             "Aug 17, 2027"
           ],
-          "statusText": "August 2027! Four bed two bath apartment in Gradland. Priced per person. Text to Tour (217) 858-2330"
+          "statusText": "August 2027! Individual Leasing Available! Four bed two bath apartment in Gradland. Priced per person. Text to Tour (217) 858-2330"
         },
         {
           "unitTypeNodeId": "smile:4d8effee-63a0-4d2a-a8c0-7c4e1c62c11f",
@@ -575,9 +575,9 @@
             }
           },
           "availableTerms": [
-            "Aug 21, 2027"
+            "Aug 17, 2027"
           ],
-          "statusText": "August 2027! two bed one bath apartment in Gradland neighborhood, priced per person. Text to Tour (217) 858-3383"
+          "statusText": "August 2027! Individual leasing available! 2 bed 1 bath apartment in Gradland. Priced per person. Text to Tour (217) 858-3383"
         },
         {
           "unitTypeNodeId": "smile:a8b5b282-913a-432f-9b36-0f24f0dcf0d7",
@@ -592,9 +592,9 @@
             }
           },
           "availableTerms": [
-            "Aug 21, 2027"
+            "Aug 17, 2027"
           ],
-          "statusText": "August 2027! 3 bed 1 bath apartment in Gradland. Priced per person. Text to Tour (217) 858-3383"
+          "statusText": "August 2027! Individual leasing available! 3 bed 1 bath apartment in Gradland. Priced per person. Text to Tour (217) 858-3383"
         },
         {
           "unitTypeNodeId": "smile:67c7eadd-f719-485d-92f6-ea76484ecc6f",
@@ -609,16 +609,16 @@
             }
           },
           "availableTerms": [
-            "Aug 21, 2027"
+            "Aug 17, 2027"
           ],
-          "statusText": "August 2027! 4 bed 2 bath apartment in Gradland. Priced per person. Text to Tour (217) 858-3383"
+          "statusText": "August 2027! Individual leasing available! 4 bed 2 bath apartment in Gradland. Priced per person. Text to Tour (217) 858-3383"
         }
       ],
       "representativeFloorplan": {
         "label": "2 Bedroom 1 Bath - First Floor",
         "bedrooms": 2,
         "bathrooms": 1.0,
-        "availabilityStatus": "Available Aug 21, 2027",
+        "availabilityStatus": "Available Aug 17, 2027",
         "availabilityRows": [],
         "utilitiesIncludedInFee": [
           "Water",
@@ -695,38 +695,21 @@
           "statusText": "August 2027! One bedroom one bathroom apartment in the Engineering District. Priced per person. Text to tour (217) 687-1436"
         },
         {
-          "unitTypeNodeId": "smile:0f445662-ac49-4264-9610-1e1aa3a5d5ca",
-          "title": "2 Bedroom 1 Bath",
-          "bedrooms": 2,
-          "bathrooms": 1.0,
-          "rent": {
-            "perPersonUsd": {
-              "min": 749,
-              "max": 749,
-              "display": "$749"
-            }
-          },
-          "availableTerms": [
-            "Aug 17, 2027"
-          ],
-          "statusText": "August 2027! Two-bedroom one-bathroom apartment in the Engineering District. Priced per person. Text to tour (217) 687-1436"
-        },
-        {
           "unitTypeNodeId": "smile:5ff11cbd-3c98-45fe-96f0-1c277988c063",
           "title": "2 Bedroom 2 Bath",
           "bedrooms": 2,
           "bathrooms": 2.0,
           "rent": {
             "perPersonUsd": {
-              "min": 899,
-              "max": 899,
-              "display": "$899"
+              "min": 889,
+              "max": 889,
+              "display": "$889"
             }
           },
           "availableTerms": [
-            "Aug 17, 2027"
+            "Aug 18, 2027"
           ],
-          "statusText": "August 2027! Two-bedroom two-bathroom apartment in the Engineering District. Priced per person. Text to tour (217) 687-1436"
+          "statusText": "August 2027! Individual Leasing Available! Two-bedroom two-bathroom apartment in the Engineering District. Priced per person. Text to tour (217) 687-1436"
         },
         {
           "unitTypeNodeId": "smile:c7681c7d-2773-47fd-8bb6-3d8ac3318f78",
@@ -741,9 +724,9 @@
             }
           },
           "availableTerms": [
-            "Aug 17, 2027"
+            "Aug 18, 2027"
           ],
-          "statusText": "August 2027! Four-bedroom three-bathroom apartment in the Engineering District. Priced per person. Text to tour (217) 687-1436"
+          "statusText": "August 2027! Individual Leasing Avalible! Four-bedroom three-bathroom apartment in the Engineering District. Priced per person. Text to tour (217) 687-1436"
         }
       ],
       "representativeFloorplan": {
@@ -776,11 +759,11 @@
           "https://images.cdn.appfolio.com/fairlawn/images/37eac12b-8f4b-489a-b58d-3f934cd9aec4/large.png",
           "https://images.cdn.appfolio.com/fairlawn/images/55cc12a5-23da-4626-af64-c90ea6274765/large.jpg",
           "https://images.cdn.appfolio.com/fairlawn/images/9a78138c-3e86-43ea-a776-e2e1e758eaf4/large.jpg",
-          "https://images.cdn.appfolio.com/fairlawn/images/1ee43811-dd98-4f23-b6da-4c60950c25a2/large.png",
-          "https://images.cdn.appfolio.com/fairlawn/images/be8cea15-4826-4bee-ad5d-ac57160ba173/large.jpg",
-          "https://images.cdn.appfolio.com/fairlawn/images/9e3c581a-dcb9-415d-b49b-3b47ea6db25c/large.jpg",
           "https://images.cdn.appfolio.com/fairlawn/images/82dc2fa9-1beb-4cd8-b1d7-db6bdf45570d/large.png",
-          "https://images.cdn.appfolio.com/fairlawn/images/657d10aa-bfcb-4972-a34a-c6328c9b8f79/large.jpg"
+          "https://images.cdn.appfolio.com/fairlawn/images/657d10aa-bfcb-4972-a34a-c6328c9b8f79/large.jpg",
+          "https://images.cdn.appfolio.com/fairlawn/images/433b2015-9857-4e69-bc9d-c4320be5d88f/large.jpg",
+          "https://images.cdn.appfolio.com/fairlawn/images/416ee20d-6ab1-4ef7-b726-b310c9e95c86/large.png",
+          "https://images.cdn.appfolio.com/fairlawn/images/098d0196-6ecb-45fc-8673-e8ebedc17d4e/large.jpg"
         ]
       }
     },
@@ -825,7 +808,7 @@
           "availableTerms": [
             "Aug 17, 2027"
           ],
-          "statusText": "August 2027! Two bed two bath apartment in Gradland neighborhood, priced per person. Text to tour (217) 858-4724"
+          "statusText": "August 2027! Individual Leasing Available! Two bed two bath apartment in Gradland neighborhood, priced per person. Text to tour (217) 858-4724"
         },
         {
           "unitTypeNodeId": "smile:be9874f2-eaa5-465f-ae74-2b86dcd9801b",
@@ -842,7 +825,7 @@
           "availableTerms": [
             "Aug 17, 2027"
           ],
-          "statusText": "August 2027! Four bed two bath apartment in Gradland neighborhood, priced per person. Text to tour (217) 858-4724"
+          "statusText": "August 2027! Individual Leasing Available! Four bed two bath apartment in Gradland neighborhood, priced per person. Text to tour (217) 858-4724"
         }
       ],
       "representativeFloorplan": {
@@ -1030,9 +1013,9 @@
             }
           },
           "availableTerms": [
-            "Aug 17, 2027"
+            "Aug 20, 2027"
           ],
-          "statusText": "August 2027! Two bed one bath apartment in Midtown. Priced per person. Text to tour (217) 687-1299"
+          "statusText": "August 2027! Individual Leasing Available! Two bed one bath apartment in Midtown. Priced per person. Text to tour (217) 687-1299"
         },
         {
           "unitTypeNodeId": "smile:6e60de37-fba3-4abb-8f93-71b8e3c4b274",
@@ -1047,9 +1030,9 @@
             }
           },
           "availableTerms": [
-            "Aug 17, 2027"
+            "Aug 20, 2027"
           ],
-          "statusText": "August 2027! Two bed two bath apartment in Midtown. Priced per person. Text to tour (217) 687-1299"
+          "statusText": "August 2027! Individual Leasing Available! Two bed two bath apartment in Midtown. Priced per person. Text to tour (217) 687-1299"
         },
         {
           "unitTypeNodeId": "smile:308ba4dd-dc1b-426c-be23-62d5cb12988a",
@@ -1064,33 +1047,16 @@
             }
           },
           "availableTerms": [
-            "Aug 17, 2027"
+            "Aug 20, 2027"
           ],
-          "statusText": "August 2027! Three bed two bath apartment in Midtown. Priced per person. Text to tour (217) 687-1299"
-        },
-        {
-          "unitTypeNodeId": "smile:4f523b45-d520-44e3-b27b-73e18063f49c",
-          "title": "4 Bed 2 Bath",
-          "bedrooms": 4,
-          "bathrooms": 2.0,
-          "rent": {
-            "perPersonUsd": {
-              "min": 549,
-              "max": 549,
-              "display": "$549"
-            }
-          },
-          "availableTerms": [
-            "Aug 17, 2027"
-          ],
-          "statusText": "August 2027! Four bed two bath apartment in Midtown. Priced per person. Text to tour (217) 687-1299"
+          "statusText": "August 2027! Individual Leasing Available! Three bed two bath apartment in Midtown. Priced per person. Text to tour (217) 687-1299"
         }
       ],
       "representativeFloorplan": {
         "label": "2 Bed 1 Bath",
         "bedrooms": 2,
         "bathrooms": 1.0,
-        "availabilityStatus": "Available Aug 17, 2027",
+        "availabilityStatus": "Available Aug 20, 2027",
         "availabilityRows": [],
         "utilitiesIncludedInFee": [
           "Water",
@@ -1164,7 +1130,7 @@
           "availableTerms": [
             "Aug 20, 2027"
           ],
-          "statusText": "August 2027! 2 bed 1 bath apartment in Midtown. Priced per person."
+          "statusText": "August 2027-Individual Leasing Available!  2 bed 1 bath apartment in Midtown. Priced per person - Text to Tour 217-292-1992"
         }
       ],
       "representativeFloorplan": {
@@ -1234,15 +1200,15 @@
           "bathrooms": 1.0,
           "rent": {
             "perMonthUsd": {
-              "min": 1230,
-              "max": 1230,
-              "display": "$1,230"
+              "min": 410,
+              "max": 410,
+              "display": "$410"
             }
           },
           "availableTerms": [
             "Aug 20, 2027"
           ],
-          "statusText": "August 2027! 3 bed 1 bath apartment in Midtown. Text to tour (217) 687-1327"
+          "statusText": "August 2027! 3 bed 1 bath apartment in Midtown- Text to tour (217) 687-1327"
         }
       ],
       "representativeFloorplan": {
@@ -1306,15 +1272,15 @@
           "bathrooms": 1.0,
           "rent": {
             "perPersonUsd": {
-              "min": 779,
-              "max": 779,
-              "display": "$779"
+              "min": 749,
+              "max": 749,
+              "display": "$749"
             }
           },
           "availableTerms": [
-            "Aug 21, 2027"
+            "Aug 20, 2027"
           ],
-          "statusText": "August 2027! two bed one bath apartment in Seniorland neighborhood, priced per person. Text to tour (217) 687-1407"
+          "statusText": "August 2027-Individual Leasing Available!  Two bed one bath apartment in Seniorland neighborhood, priced per person. Text to tour (217) 687-1407"
         },
         {
           "unitTypeNodeId": "smile:1d22fb85-aa43-4582-8483-6f3591a6254f",
@@ -1329,16 +1295,16 @@
             }
           },
           "availableTerms": [
-            "Aug 21, 2027"
+            "Aug 20, 2027"
           ],
-          "statusText": "August 2027, four bed three bath apartment in Senior land neighborhood, priced per person. Text to tour 217-687-1407"
+          "statusText": "August 2027-Indiovidual Leasing Available!  Four bed three bath apartment in Senior land neighborhood, priced per person. Text to tour 217-687-1407"
         }
       ],
       "representativeFloorplan": {
         "label": "2 Bedroom",
         "bedrooms": 2,
         "bathrooms": 1.0,
-        "availabilityStatus": "Available Aug 21, 2027",
+        "availabilityStatus": "Available Aug 20, 2027",
         "availabilityRows": [],
         "utilitiesIncludedInFee": [
           "Water",
@@ -1499,16 +1465,16 @@
             }
           },
           "availableTerms": [
-            "Aug 17, 2027"
+            "Aug 20, 2027"
           ],
-          "statusText": "August 2027! Four bed Two bath apartment in Engineering Neighborhood. Priced per person. Text to tour (217) 282-0028"
+          "statusText": "August 2027-Individual Leasing Available! Four bed Two bath apartment in Engineering Neighborhood. Priced per person. Text to tour (217) 282-0028"
         }
       ],
       "representativeFloorplan": {
         "label": "4 Bedroom 2 Bath - Upper Floor",
         "bedrooms": 4,
         "bathrooms": 2.0,
-        "availabilityStatus": "Available Aug 17, 2027",
+        "availabilityStatus": "Available Aug 20, 2027",
         "availabilityRows": [],
         "utilitiesIncludedInFee": [
           "Internet",
@@ -1579,9 +1545,9 @@
             }
           },
           "availableTerms": [
-            "Aug 21, 2027"
+            "Aug 20, 2027"
           ],
-          "statusText": "August 2027! 2 bed 1 bath apartment in Seniorland neighborhood. Priced per person. Text to tour (217) 687-1875"
+          "statusText": "August 2027-Indvidual Leasing Available!  2 bed 1 bath apartment in Seniorland neighborhood. Priced per person. Text to tour (217) 687-1875"
         },
         {
           "unitTypeNodeId": "smile:e8662a05-bb73-4526-9538-0451a6689dd6",
@@ -1590,22 +1556,22 @@
           "bathrooms": 2.0,
           "rent": {
             "perPersonUsd": {
-              "min": 739,
-              "max": 739,
-              "display": "$739"
+              "min": 729,
+              "max": 729,
+              "display": "$729"
             }
           },
           "availableTerms": [
-            "Aug 21, 2027"
+            "Aug 20, 2027"
           ],
-          "statusText": "August 2027! 4 bed 2 bath apartment in Seniorland neighborhood. Priced per person. Text to tour (217) 687-1875"
+          "statusText": "August 2027-Individual Leasing Available!  4 bed 2 bath apartment in Seniorland neighborhood. Priced per person. Text to tour (217) 687-1875"
         }
       ],
       "representativeFloorplan": {
         "label": "2 Bedroom 1 Bath",
         "bedrooms": 2,
         "bathrooms": 1.0,
-        "availabilityStatus": "Available Aug 21, 2027",
+        "availabilityStatus": "Available Aug 20, 2027",
         "availabilityRows": [],
         "utilitiesIncludedInFee": [
           "Water",
@@ -1689,9 +1655,9 @@
           "bathrooms": 1.0,
           "rent": {
             "perMonthUsd": {
-              "min": 1338,
-              "max": 1338,
-              "display": "$1,338"
+              "min": 669,
+              "max": 669,
+              "display": "$669"
             }
           },
           "availableTerms": [
@@ -1706,9 +1672,9 @@
           "bathrooms": 3.0,
           "rent": {
             "perMonthUsd": {
-              "min": 2157,
-              "max": 2157,
-              "display": "$2,157"
+              "min": 719,
+              "max": 719,
+              "display": "$719"
             }
           },
           "availableTerms": [
@@ -1723,9 +1689,9 @@
           "bathrooms": 2.0,
           "rent": {
             "perMonthUsd": {
-              "min": 2196,
-              "max": 2196,
-              "display": "$2,196"
+              "min": 549,
+              "max": 549,
+              "display": "$549"
             }
           },
           "availableTerms": [
@@ -1812,16 +1778,16 @@
             }
           },
           "availableTerms": [
-            "Aug 21, 2027"
+            "Aug 20, 2027"
           ],
-          "statusText": "August 2027! Four bed two bath apartment in Seniorland. Priced per person. Text to tour (217) 687-1248"
+          "statusText": "August 2027-Individual Leasing Available!  Four bed two bath apartment in Seniorland. Priced per person. Text to tour (217) 687-1248"
         }
       ],
       "representativeFloorplan": {
         "label": "4 Bedroom 2 Bath",
         "bedrooms": 4,
         "bathrooms": 2.0,
-        "availabilityStatus": "Available Aug 21, 2027",
+        "availabilityStatus": "Available Aug 20, 2027",
         "availabilityRows": [],
         "utilitiesIncludedInFee": [
           "Water",
@@ -1898,9 +1864,9 @@
             }
           },
           "availableTerms": [
-            "Aug 21, 2027"
+            "Aug 20, 2027"
           ],
-          "statusText": "August 2027! Two-bedroom two-bathroom apartment in Seniorland. Priced per person. Text to tour (217) 858-2370"
+          "statusText": "August 2027-Individual Leasing Available!  Two-bedroom two-bathroom apartment in Seniorland. Priced per person. Text to tour (217) 858-2370"
         },
         {
           "unitTypeNodeId": "smile:fc406477-664a-4b60-8d3a-130428b879d6",
@@ -1909,22 +1875,22 @@
           "bathrooms": 4.0,
           "rent": {
             "perPersonUsd": {
-              "min": 889,
-              "max": 889,
-              "display": "$889"
+              "min": 879,
+              "max": 879,
+              "display": "$879"
             }
           },
           "availableTerms": [
-            "Aug 21, 2027"
+            "Aug 20, 2027"
           ],
-          "statusText": "August 2027! Four-bedroom four-bathroom apartment in Seniorland! Priced per person. Text to tour (217) 858-2370"
+          "statusText": "August 2027-Individual Leasing Available!  Four-bedroom four-bathroom apartment in Seniorland! Priced per person. Text to tour (217) 858-2370"
         }
       ],
       "representativeFloorplan": {
         "label": "2 Bedroom 2 Bath",
         "bedrooms": 2,
         "bathrooms": 2.0,
-        "availabilityStatus": "Available Aug 21, 2027",
+        "availabilityStatus": "Available Aug 20, 2027",
         "availabilityRows": [],
         "utilitiesIncludedInFee": [
           "Water",
@@ -2075,15 +2041,15 @@
           "bathrooms": 2.0,
           "rent": {
             "perPersonUsd": {
-              "min": 929,
-              "max": 929,
-              "display": "$929"
+              "min": 889,
+              "max": 889,
+              "display": "$889"
             }
           },
           "availableTerms": [
             "Aug 17, 2027"
           ],
-          "statusText": "August 2027! Two bed two bath apartment in Gradland neighborhood, priced per person. Text to tour (217) 858-4787"
+          "statusText": "August 2027- Individual Leasing Available!  Two bed two bath apartment in Gradland neighborhood, priced per person. Text to tour (217) 858-4787"
         }
       ],
       "representativeFloorplan": {
@@ -2163,16 +2129,16 @@
             }
           },
           "availableTerms": [
-            "Aug 21, 2027"
+            "Aug 18, 2027"
           ],
-          "statusText": "August 2027! 3 bed 3 bath apartment in Engineering. Priced per person. Text to tour (217) 687-1384"
+          "statusText": "August 2027- Individual Leasing Available! 3 bed 3 bath apartment in Engineering. Priced per person. Text to tour (217) 687-1384"
         }
       ],
       "representativeFloorplan": {
         "label": "3 Bedroom 3 Bath",
         "bedrooms": 3,
         "bathrooms": 3.0,
-        "availabilityStatus": "Available Aug 21, 2027",
+        "availabilityStatus": "Available Aug 18, 2027",
         "availabilityRows": [],
         "utilitiesIncludedInFee": [
           "Water",
@@ -2253,9 +2219,9 @@
           "bathrooms": 1.0,
           "rent": {
             "perMonthUsd": {
-              "min": 1560,
-              "max": 1560,
-              "display": "$1,560"
+              "min": 1349,
+              "max": 1349,
+              "display": "$1,349"
             }
           },
           "availableTerms": [
@@ -2335,9 +2301,9 @@
           "bathrooms": 1.0,
           "rent": {
             "perMonthUsd": {
-              "min": 1499,
-              "max": 1499,
-              "display": "$1,499"
+              "min": 1369,
+              "max": 1369,
+              "display": "$1,369"
             }
           },
           "availableTerms": [
@@ -2369,15 +2335,32 @@
           "bathrooms": 1.0,
           "rent": {
             "perPersonUsd": {
-              "min": 1729,
-              "max": 1729,
-              "display": "$1,729"
+              "min": 1599,
+              "max": 1599,
+              "display": "$1,599"
             }
           },
           "availableTerms": [
             "Aug 17, 2027"
           ],
           "statusText": "August 2027! 1 bed 1 bath apartment in Midtown."
+        },
+        {
+          "unitTypeNodeId": "smile:1aa4a198-fa7d-44db-8e48-2394644b043f",
+          "title": "2 Bedroom - High Floor (6th-7th)",
+          "bedrooms": 2,
+          "bathrooms": 2.0,
+          "rent": {
+            "perPersonUsd": {
+              "min": 1079,
+              "max": 1079,
+              "display": "$1,079"
+            }
+          },
+          "availableTerms": [
+            "Aug 17, 2027"
+          ],
+          "statusText": "August 2027_Individual Leasing Available!  2 bed 2 bath apartment in Midtown. Priced per person."
         },
         {
           "unitTypeNodeId": "smile:df972074-9557-4f36-8d3e-291797fcf184",
@@ -2397,21 +2380,21 @@
           "statusText": "$1,000 Gift Card! 1 Left! PRICE DROP! Available Now, two bed two bath apartment in Midtown neighborhood, priced per person."
         },
         {
-          "unitTypeNodeId": "smile:1aa4a198-fa7d-44db-8e48-2394644b043f",
-          "title": "2 Bedroom - High Floor (6th-7th)",
-          "bedrooms": 2,
-          "bathrooms": 2.0,
+          "unitTypeNodeId": "smile:0b41fdb2-74b6-4118-b5f1-4a86dbc9b9ab",
+          "title": "BTB in a 3x3",
+          "bedrooms": 3,
+          "bathrooms": 3.0,
           "rent": {
             "perPersonUsd": {
-              "min": 1219,
-              "max": 1219,
-              "display": "$1,219"
+              "min": 969,
+              "max": 969,
+              "display": "$969"
             }
           },
           "availableTerms": [
             "Aug 17, 2027"
           ],
-          "statusText": "August 2027! 2 bed 2 bath apartment in Midtown. Priced per person."
+          "statusText": "August 2027-Individual leasing Available!  3 bed 3 bath apartment in Midtown. Priced per person."
         },
         {
           "unitTypeNodeId": "smile:6fb4c3c5-f33e-4882-9529-ab5003dcf2c8",
@@ -2429,23 +2412,6 @@
             "now"
           ],
           "statusText": "$1,000 Gift Card! 2 beds left! Available Now, three bed three bath apartment in Midtown neighborhood, priced per person."
-        },
-        {
-          "unitTypeNodeId": "smile:0b41fdb2-74b6-4118-b5f1-4a86dbc9b9ab",
-          "title": "BTB in a 3x3",
-          "bedrooms": 3,
-          "bathrooms": 3.0,
-          "rent": {
-            "perPersonUsd": {
-              "min": 1079,
-              "max": 1079,
-              "display": "$1,079"
-            }
-          },
-          "availableTerms": [
-            "Aug 17, 2027"
-          ],
-          "statusText": "August 2027! 3 bed 3 bath apartment in Midtown. Priced per person."
         }
       ],
       "representativeFloorplan": {
@@ -2546,7 +2512,7 @@
           "availableTerms": [
             "Aug 20, 2027"
           ],
-          "statusText": "August 2027! 4 bed 2 bath apartment in Midtown. Priced per person,"
+          "statusText": "August 2027- Individual Leasing Available!  4 bed 2 bath apartment in Midtown. Priced per person,"
         },
         {
           "unitTypeNodeId": "smile:3236b874-7fcc-4f92-a8d1-ce53211f1215",
@@ -2608,8 +2574,8 @@
           "https://images.cdn.appfolio.com/fairlawn/images/c526f71d-b176-4440-af58-3352052af063/large.png",
           "https://images.cdn.appfolio.com/fairlawn/images/d5ed3c3d-6624-4a57-a485-fddf326dfbac/large.jpg",
           "https://images.cdn.appfolio.com/fairlawn/images/c0025bd8-6051-4f75-a11f-e990ceb0b72d/large.jpg",
-          "https://images.cdn.appfolio.com/fairlawn/images/8cd78438-4c28-44d5-8177-7a35b4f4f252/large.png",
-          "https://images.cdn.appfolio.com/fairlawn/images/72fbd106-60a3-4b6b-9068-7ca6d0c05b8b/large.jpg"
+          "https://images.cdn.appfolio.com/fairlawn/images/72fbd106-60a3-4b6b-9068-7ca6d0c05b8b/large.jpg",
+          "https://images.cdn.appfolio.com/fairlawn/images/0c295907-1d57-4215-993f-dce91ad71f80/large.jpg"
         ]
       }
     },
@@ -2663,15 +2629,15 @@
           "bathrooms": 1.0,
           "rent": {
             "perPersonUsd": {
-              "min": 769,
-              "max": 769,
-              "display": "$769"
+              "min": 719,
+              "max": 719,
+              "display": "$719"
             }
           },
           "availableTerms": [
-            "Aug 17, 2027"
+            "Aug 20, 2027"
           ],
-          "statusText": "August 2027! two bed one bath apartment in Midtown neighborhood, priced per person. Text to tour 217-687-1534"
+          "statusText": "August 2027-Individual Leasing Available!  two bed one bath apartment in Midtown neighborhood, priced per person. Text to tour 217-687-1534"
         },
         {
           "unitTypeNodeId": "smile:0d0e687e-93ad-469a-9ff7-e764b819b037",
@@ -2686,9 +2652,9 @@
             }
           },
           "availableTerms": [
-            "Aug 17, 2027"
+            "Aug 20, 2027"
           ],
-          "statusText": "August 2027! two bed two bath apartment in Midtown neighborhood, priced per person. Text to tour (217) 687-1534"
+          "statusText": "August 2027-Individual Leasing Available! two bed two bath apartment in Midtown neighborhood, priced per person. Text to tour (217) 687-1534"
         },
         {
           "unitTypeNodeId": "smile:cd6b82f7-8ef1-4952-8966-be13bd3fe7fc",
@@ -2703,26 +2669,9 @@
             }
           },
           "availableTerms": [
-            "Aug 17, 2027"
+            "Aug 20, 2027"
           ],
-          "statusText": "August 2027! three bed two bath apartment in Midtown neighborhood, priced per person. Text to tour (217) 687-1534"
-        },
-        {
-          "unitTypeNodeId": "smile:a0a5426a-267f-4370-8384-18d54e720c46",
-          "title": "4 Bedroom 1.5 Bathroom",
-          "bedrooms": 4,
-          "bathrooms": 1.5,
-          "rent": {
-            "perPersonUsd": {
-              "min": 469,
-              "max": 469,
-              "display": "$469"
-            }
-          },
-          "availableTerms": [
-            "Aug 17, 2027"
-          ],
-          "statusText": "August 2027! four bed one and a half bath apartment in Midtown neighborhood, priced per person. Text to tour (217) 687-1534"
+          "statusText": "August 2027-Individual Leasing Available! three bed two bath apartment in Midtown neighborhood, priced per person. Text to tour (217) 687-1534"
         },
         {
           "unitTypeNodeId": "smile:0257ec82-8dc0-4a09-9646-f27c043c4285",
@@ -2737,9 +2686,9 @@
             }
           },
           "availableTerms": [
-            "Aug 17, 2027"
+            "Aug 20, 2027"
           ],
-          "statusText": "August 2027! four bed two bath apartment in Midtown neighborhood, priced per person. Text to tour (217) 687-1534"
+          "statusText": "August 2027- Individual Leasing Available! four bed two bath apartment in Midtown neighborhood, priced per person. Text to tour (217) 687-1534"
         }
       ],
       "representativeFloorplan": {
@@ -2790,7 +2739,7 @@
     {
       "name": "48 E John",
       "propertyNodeId": "smile:1617",
-      "propertyUrl": "https://www.smilestudentliving.com/listings/detail/58076838-ba20-42c6-b957-6a570839cd94",
+      "propertyUrl": "https://www.smilestudentliving.com/listings/detail/15bd12e1-b550-4948-bd10-b7446b603da6",
       "sourceName": "Smile Student Living",
       "sourceUrl": "https://www.smilestudentliving.com/",
       "sourceLogoUrl": "https://images.cdn.appfolio.com/fairlawn/images/62ce98a0-f77b-4a49-83b5-b4472f7279f4/large.png",
@@ -2814,23 +2763,6 @@
       "availabilityStatus": "advertised",
       "offers": [
         {
-          "unitTypeNodeId": "smile:58076838-ba20-42c6-b957-6a570839cd94",
-          "title": "BTB in a 3x2",
-          "bedrooms": 3,
-          "bathrooms": 2.0,
-          "rent": {
-            "perPersonUsd": {
-              "min": 669,
-              "max": 669,
-              "display": "$669"
-            }
-          },
-          "availableTerms": [
-            "Aug 21, 2027"
-          ],
-          "statusText": "August 2027! Three bed two bath apartment in Seniorland! Priced per person. Text to tour (217) 858-2346"
-        },
-        {
           "unitTypeNodeId": "smile:15bd12e1-b550-4948-bd10-b7446b603da6",
           "title": "BTB in a 3x3",
           "bedrooms": 3,
@@ -2843,40 +2775,35 @@
             }
           },
           "availableTerms": [
-            "Aug 21, 2027"
+            "Aug 20, 2027"
           ],
-          "statusText": "August 2027! Three bed three bath apartment in Seniorland! Priced per person. Text to tour (217) 858-2346"
+          "statusText": "August 2027-Individual leasing Available! Three bed three bath apartment in Seniorland! Priced per person. Text to tour (217) 858-2346"
         }
       ],
       "representativeFloorplan": {
-        "label": "BTB in a 3x2",
+        "label": "BTB in a 3x3",
         "bedrooms": 3,
-        "bathrooms": 2.0,
-        "availabilityStatus": "Available Aug 21, 2027",
+        "bathrooms": 3.0,
+        "availabilityStatus": "Available Aug 20, 2027",
         "availabilityRows": [],
         "utilitiesIncludedInFee": [
-          "Water",
-          "Sewer",
+          "Water & Sewer",
           "Trash Service",
           "Recycling",
           "Internet",
           "Electricity - $40 cap"
         ],
         "amenities": [
-          "Private Patio Or Balcony",
           "24-Hour Emergency Maintenance",
-          "Leased Parking",
-          "Fiber Internet",
-          "Income Requirement Waived for UIUC Students",
-          "Co-Signer Not Required",
+          "Fully furnished including TVs",
+          "Individual Leases Available",
           "Low admin fee or security deposit – you choose!",
-          "Access to The Flamingo (Smile's Fitness Center/Study Rooms/Resident Lounge)"
+          "Roommate Matching Available",
+          "Access to The Flamingo (Smile's Fitness Center/Study Rooms/Resident Lounge)",
+          "Utilities included with one monthly fee"
         ],
         "floorplanImage": null,
         "photoSamples": [
-          "https://images.cdn.appfolio.com/fairlawn/images/39a2d547-8836-4632-b98b-fb169c161fa0/large.png",
-          "https://images.cdn.appfolio.com/fairlawn/images/df5e32f5-5353-4304-83e2-58155873643f/large.jpg",
-          "https://images.cdn.appfolio.com/fairlawn/images/5e497676-26b1-4347-abdf-7e9ad9e8781c/large.jpg",
           "https://images.cdn.appfolio.com/fairlawn/images/ab56b47a-0a66-4950-92fd-1dd9ce5e7fc9/large.png",
           "https://images.cdn.appfolio.com/fairlawn/images/87985d3b-3724-4624-9bc7-ba2d5c77a068/large.jpg",
           "https://images.cdn.appfolio.com/fairlawn/images/81a1f485-70d9-4794-972e-15be0caddff4/large.jpg"
@@ -3406,6 +3333,23 @@
             "now"
           ],
           "statusText": "$1,000 Gift Card!2 left! Available Now, one bed one bath apartment in Midtown neighborhood, priced per person. Text to tour 217-687-1988"
+        },
+        {
+          "unitTypeNodeId": "smile:651d181e-e658-4170-8991-4d43b9d22f10",
+          "title": "3 Bedroom 3 Bath",
+          "bedrooms": 3,
+          "bathrooms": 3.0,
+          "rent": {
+            "perPersonUsd": {
+              "min": 780,
+              "max": 780,
+              "display": "$780"
+            }
+          },
+          "availableTerms": [
+            "Aug 20, 2027"
+          ],
+          "statusText": "August 2027- Individual Leasing Available! 3 bed 3 bath apartment in Midtown. Priced per person. Text to tour (217) 687-1988"
         }
       ],
       "representativeFloorplan": {
@@ -3434,9 +3378,12 @@
         ],
         "floorplanImage": null,
         "photoSamples": [
-          "https://images.cdn.appfolio.com/fairlawn/images/8315cee6-8645-4915-a6fe-1a24746c98b4/large.png",
           "https://images.cdn.appfolio.com/fairlawn/images/5ded74d9-824c-422a-8bc8-4eb043a72c0f/large.jpg",
-          "https://images.cdn.appfolio.com/fairlawn/images/92cf45e8-7080-432a-8d62-e49e134a6e81/large.jpg"
+          "https://images.cdn.appfolio.com/fairlawn/images/92cf45e8-7080-432a-8d62-e49e134a6e81/large.jpg",
+          "https://images.cdn.appfolio.com/fairlawn/images/70023ea1-97bc-4776-a2c0-33b37adbc368/large.jpg",
+          "https://images.cdn.appfolio.com/fairlawn/images/976917a8-adf2-4309-b11d-912749c9b52a/large.png",
+          "https://images.cdn.appfolio.com/fairlawn/images/5ae6ee25-f488-432f-a748-6b7062742842/large.jpg",
+          "https://images.cdn.appfolio.com/fairlawn/images/2b47a811-e849-4587-9edb-8d6c1eec9d8b/large.jpg"
         ]
       }
     },
@@ -3557,16 +3504,16 @@
             }
           },
           "availableTerms": [
-            "Aug 14, 2027"
+            "Aug 18, 2027"
           ],
-          "statusText": "August 2027! Two-bedroom one-bathroom apartment in the Engineering District. Priced per person. Text to tour (217) 282-0025"
+          "statusText": "August 2027-Individual Leasing Available!  Two-bedroom one-bathroom apartment in the Engineering District. Priced per person. Text to tour (217) 282-0025"
         }
       ],
       "representativeFloorplan": {
         "label": "2 Bedroom 1 Bath - Renovated First Floor",
         "bedrooms": 2,
         "bathrooms": 1.0,
-        "availabilityStatus": "Available Aug 14, 2027",
+        "availabilityStatus": "Available Aug 18, 2027",
         "availabilityRows": [],
         "utilitiesIncludedInFee": [
           "Sewer",
@@ -3696,6 +3643,132 @@
           "https://images.cdn.appfolio.com/fairlawn/images/89f84c2f-fdbb-4e34-ad91-5c7ae8ea8b33/large.png",
           "https://images.cdn.appfolio.com/fairlawn/images/d5f4d3f1-094a-40c2-aeb3-8cd62d50052b/large.jpg",
           "https://images.cdn.appfolio.com/fairlawn/images/5f9a63dd-32ad-43bd-89df-3d7560822df1/large.jpg"
+        ]
+      }
+    },
+    {
+      "name": "511 E White",
+      "propertyNodeId": "smile:6210",
+      "propertyUrl": "https://www.smilestudentliving.com/listings/detail/a77bc62d-2d02-4f8d-82a8-be36226b37a3",
+      "sourceName": "Smile Student Living",
+      "sourceUrl": "https://www.smilestudentliving.com/",
+      "sourceLogoUrl": "https://images.cdn.appfolio.com/fairlawn/images/62ce98a0-f77b-4a49-83b5-b4472f7279f4/large.png",
+      "source": {
+        "assetHosts": [
+          "cdn.appfolio.com"
+        ]
+      },
+      "address": {
+        "street": "511 E White",
+        "locality": "Champaign",
+        "region": "IL",
+        "postalCode": "61820",
+        "source": "Smile public AppFolio availability collection"
+      },
+      "mapPoint": {
+        "latitude": 40.1142083,
+        "longitude": -88.2306933,
+        "source": "Smile published property latitude/longitude"
+      },
+      "availabilityStatus": "advertised",
+      "offers": [
+        {
+          "unitTypeNodeId": "smile:a77bc62d-2d02-4f8d-82a8-be36226b37a3",
+          "title": "1 Bedroom",
+          "bedrooms": 1,
+          "bathrooms": 1.0,
+          "rent": {
+            "perMonthUsd": {
+              "min": 1650,
+              "max": 1650,
+              "display": "$1,650"
+            }
+          },
+          "availableTerms": [
+            "Aug 20, 2027"
+          ],
+          "statusText": "LIVE BRAND NEW August 2027 511 E White 1 Bedroom 1 Bathroom Apartment. Limited time only $250 Giftcard!*"
+        },
+        {
+          "unitTypeNodeId": "smile:f4f24c04-af30-459b-b0eb-7603ac045178",
+          "title": "2 Bedroom",
+          "bedrooms": 2,
+          "bathrooms": 2.0,
+          "rent": {
+            "perPersonUsd": {
+              "min": 1220,
+              "max": 1220,
+              "display": "$1,220"
+            }
+          },
+          "availableTerms": [
+            "Aug 20, 2027"
+          ],
+          "statusText": "LIVE BRAND NEW August 2027 511 E White 2 Bedroom 2 Bathroom Apartment. Limited time only $250 Giftcard!*"
+        },
+        {
+          "unitTypeNodeId": "smile:93607926-cf50-4e93-81e3-910ade0ec623",
+          "title": "3 Bedroom",
+          "bedrooms": 3,
+          "bathrooms": 3.0,
+          "rent": {
+            "perPersonUsd": {
+              "min": 1020,
+              "max": 1020,
+              "display": "$1,020"
+            }
+          },
+          "availableTerms": [
+            "Aug 20, 2027"
+          ],
+          "statusText": "LIVE BRAND NEW August 2027 511 E White 3 Bedroom 3 Bathroom Apartment. Limited time only $250 Giftcard!*"
+        },
+        {
+          "unitTypeNodeId": "smile:09129911-a415-4949-9ffa-1517b8baa21a",
+          "title": "4 Bedroom",
+          "bedrooms": 4,
+          "bathrooms": 4.0,
+          "rent": {
+            "perPersonUsd": {
+              "min": 950,
+              "max": 950,
+              "display": "$950"
+            }
+          },
+          "availableTerms": [
+            "Aug 20, 2027"
+          ],
+          "statusText": "LIVE BRAND NEW August 2027 511 E White 4 Bedroom 4 Bathroom Apartment. Limited time only $250 Giftcard!*"
+        }
+      ],
+      "representativeFloorplan": {
+        "label": "1 Bedroom",
+        "bedrooms": 1,
+        "bathrooms": 1.0,
+        "availabilityStatus": "Available Aug 20, 2027",
+        "availabilityRows": [],
+        "utilitiesIncludedInFee": [
+          "Internet",
+          "Water",
+          "Sewer",
+          "Trash Service"
+        ],
+        "amenities": [
+          "24-Hour Emergency Maintenance",
+          "Income Requirement Waived for UIUC Students",
+          "Low Admin Fee",
+          "Deferred Rent or Guarantor - You Choose!"
+        ],
+        "floorplanImage": null,
+        "photoSamples": [
+          "https://images.cdn.appfolio.com/fairlawn/images/7a375b0a-c2f2-47b0-8d79-c7100b9c9a50/large.png",
+          "https://images.cdn.appfolio.com/fairlawn/images/3cd958da-f534-49e3-b473-8aafe8263057/large.png",
+          "https://images.cdn.appfolio.com/fairlawn/images/b93e3989-f73e-4dac-a361-b8c82c227204/large.png",
+          "https://images.cdn.appfolio.com/fairlawn/images/ac60677f-5ab6-4593-9df6-7de6f11337b0/large.png",
+          "https://images.cdn.appfolio.com/fairlawn/images/92d9bd97-58d4-48ac-a1c9-5a91d45fb457/large.png",
+          "https://images.cdn.appfolio.com/fairlawn/images/5bc5ade6-f4c3-4e44-9740-51e0312c4e46/large.png",
+          "https://images.cdn.appfolio.com/fairlawn/images/33245260-e526-45cc-8087-cd8b1915a1ab/large.png",
+          "https://images.cdn.appfolio.com/fairlawn/images/c166bdb8-e58a-4845-bc32-84a19d335382/large.png"
         ]
       }
     },
@@ -3830,13 +3903,13 @@
           "bathrooms": 1.0,
           "rent": {
             "perPersonUsd": {
-              "min": 1239,
-              "max": 1239,
-              "display": "$1,239"
+              "min": 1249,
+              "max": 1249,
+              "display": "$1,249"
             }
           },
           "availableTerms": [
-            "Aug 21, 2027"
+            "Aug 20, 2027"
           ],
           "statusText": "August 2027! One bed one bath apartment in Seniorland. Priced per person. Text to tour (217) 292-1990"
         },
@@ -3847,15 +3920,15 @@
           "bathrooms": 1.0,
           "rent": {
             "perPersonUsd": {
-              "min": 739,
-              "max": 739,
-              "display": "$739"
+              "min": 749,
+              "max": 749,
+              "display": "$749"
             }
           },
           "availableTerms": [
-            "Aug 21, 2027"
+            "Aug 20, 2027"
           ],
-          "statusText": "August 2027! Two bed one bath apartment in Seniorland. Priced per person. Text to tour (217) 292-1990"
+          "statusText": "August 2027-Individual Leasing Available! Two bed one bath apartment in Seniorland. Priced per person. Text to tour (217) 292-1990"
         },
         {
           "unitTypeNodeId": "smile:8a461701-a4b4-4cd9-99e4-83c97cf8fcb2",
@@ -3870,33 +3943,16 @@
             }
           },
           "availableTerms": [
-            "Aug 21, 2027"
+            "Aug 20, 2027"
           ],
-          "statusText": "August 2027! Two bed two bath apartment in Seniorland. Priced per person."
-        },
-        {
-          "unitTypeNodeId": "smile:82c949af-e43f-4b0a-a47d-2143ed570729",
-          "title": "4 x 2",
-          "bedrooms": 4,
-          "bathrooms": 2.0,
-          "rent": {
-            "perPersonUsd": {
-              "min": 599,
-              "max": 599,
-              "display": "$599"
-            }
-          },
-          "availableTerms": [
-            "Aug 21, 2027"
-          ],
-          "statusText": "August 2027! Four bed two bath apartment in Seniorland. Priced per person. Text to tour (217) 292-1990"
+          "statusText": "August 2027-Individual Leasing Available!  Two bed two bath apartment in Seniorland. Priced per person."
         }
       ],
       "representativeFloorplan": {
         "label": "1 x 1",
         "bedrooms": 1,
         "bathrooms": 1.0,
-        "availabilityStatus": "Available Aug 21, 2027",
+        "availabilityStatus": "Available Aug 20, 2027",
         "availabilityRows": [],
         "utilitiesIncludedInFee": [
           "Water",
@@ -3966,13 +4022,13 @@
           "bathrooms": 1.0,
           "rent": {
             "perPersonUsd": {
-              "min": 1339,
-              "max": 1339,
-              "display": "$1,339"
+              "min": 1299,
+              "max": 1299,
+              "display": "$1,299"
             }
           },
           "availableTerms": [
-            "Aug 21, 2027"
+            "Aug 20, 2027"
           ],
           "statusText": "August 2027. One bed one bath apartment in Seniorland neighborhood, priced per person. Text to tour 217-687-1412"
         },
@@ -3989,9 +4045,9 @@
             }
           },
           "availableTerms": [
-            "Aug 21, 2027"
+            "Aug 20, 2027"
           ],
-          "statusText": "August 2027 Two bed one bath apartment in Seniorland neighborhood, priced per person. Text to tour 217-687-1412"
+          "statusText": "August 2027-Individual Leasing Available!  Two bed one bath apartment in Seniorland neighborhood, priced per person. Text to tour 217-687-1412"
         },
         {
           "unitTypeNodeId": "smile:ab6a3562-1918-4f77-8176-d5ba48707cff",
@@ -4006,9 +4062,9 @@
             }
           },
           "availableTerms": [
-            "Aug 21, 2027"
+            "Aug 20, 2027"
           ],
-          "statusText": "August 2027 Two bed two bath apartment in Seniorland neighborhood, priced per person. Text to tour 217-687-1412"
+          "statusText": "August 2027-Individual Leasing Avaliblie! Two bed two bath apartment in Seniorland neighborhood, priced per person. Text to tour 217-687-1412"
         },
         {
           "unitTypeNodeId": "smile:177fc377-2f68-4502-8f55-e3ffbd64755f",
@@ -4017,22 +4073,22 @@
           "bathrooms": 2.0,
           "rent": {
             "perPersonUsd": {
-              "min": 619,
-              "max": 619,
-              "display": "$619"
+              "min": 609,
+              "max": 609,
+              "display": "$609"
             }
           },
           "availableTerms": [
-            "Aug 21, 2027"
+            "Aug 20, 2027"
           ],
-          "statusText": "August 2027! Four bed two bath apartment in Seniorland neighborhood, priced per person. Text to tour 217-687-1412"
+          "statusText": "August 2027-Individual Leasing Available! Four bed two bath apartment in Seniorland neighborhood, priced per person. Text to tour 217-687-1412"
         }
       ],
       "representativeFloorplan": {
         "label": "1 Bedroom 1 Bath",
         "bedrooms": 1,
         "bathrooms": 1.0,
-        "availabilityStatus": "Available Aug 21, 2027",
+        "availabilityStatus": "Available Aug 20, 2027",
         "availabilityRows": [],
         "utilitiesIncludedInFee": [
           "Internet",
@@ -4066,106 +4122,6 @@
           "https://images.cdn.appfolio.com/fairlawn/images/c65b2ce3-f075-4cc5-8260-3d9f4f51445b/large.jpg",
           "https://images.cdn.appfolio.com/fairlawn/images/fef8a90c-4867-4e83-bbd0-74b81ca15d34/large.png",
           "https://images.cdn.appfolio.com/fairlawn/images/75a21a28-6665-4b61-b84a-7f2db6e78391/large.png"
-        ]
-      }
-    },
-    {
-      "name": "601 W Green Street",
-      "propertyNodeId": "smile:1425",
-      "propertyUrl": "https://www.smilestudentliving.com/listings/detail/7efa779a-7821-4816-bbe0-4cfd7c06f878",
-      "sourceName": "Smile Student Living",
-      "sourceUrl": "https://www.smilestudentliving.com/",
-      "sourceLogoUrl": "https://images.cdn.appfolio.com/fairlawn/images/62ce98a0-f77b-4a49-83b5-b4472f7279f4/large.png",
-      "source": {
-        "assetHosts": [
-          "cdn.appfolio.com"
-        ]
-      },
-      "address": {
-        "street": "601 W Green Street",
-        "locality": "Urbana",
-        "region": "IL",
-        "postalCode": "61801",
-        "source": "Smile public AppFolio availability collection"
-      },
-      "mapPoint": {
-        "latitude": 40.1104258,
-        "longitude": -88.2147526,
-        "source": "Smile published property latitude/longitude"
-      },
-      "availabilityStatus": "advertised",
-      "offers": [
-        {
-          "unitTypeNodeId": "smile:7efa779a-7821-4816-bbe0-4cfd7c06f878",
-          "title": "3 Bedroom 2 Bath",
-          "bedrooms": 3,
-          "bathrooms": 2.0,
-          "rent": {
-            "perPersonUsd": {
-              "min": 599,
-              "max": 599,
-              "display": "$599"
-            }
-          },
-          "availableTerms": [
-            "Aug 17, 2027"
-          ],
-          "statusText": "August 2027! three bed two bath apartment in Art District Neighborhood. Priced per Person. Text to tour (708) 627-9149"
-        },
-        {
-          "unitTypeNodeId": "smile:38cee4eb-f57e-45ad-a0be-f965026a974b",
-          "title": "4 Bedroom 2 Bath",
-          "bedrooms": 4,
-          "bathrooms": 2.0,
-          "rent": {
-            "perPersonUsd": {
-              "min": 519,
-              "max": 519,
-              "display": "$519"
-            }
-          },
-          "availableTerms": [
-            "Aug 17, 2027"
-          ],
-          "statusText": "August 2027! Four bed two bath apartment in Art District Neighborhood. Priced per person. Text to tour (708) 627-9149"
-        }
-      ],
-      "representativeFloorplan": {
-        "label": "3 Bedroom 2 Bath",
-        "bedrooms": 3,
-        "bathrooms": 2.0,
-        "availabilityStatus": "Available Aug 17, 2027",
-        "availabilityRows": [],
-        "utilitiesIncludedInFee": [
-          "Internet",
-          "Trash Service",
-          "Recycling",
-          "Water",
-          "Sewer",
-          "Electricity - $40 allowance per lessee per month"
-        ],
-        "amenities": [
-          "Washer & Dryer",
-          "24-Hour Emergency Maintenance",
-          "Granite Countertops",
-          "Downtown Urbana",
-          "Leased Parking",
-          "Fully Furnished",
-          "Fiber Internet",
-          "Plank Flooring",
-          "Income Requirement Waived for UIUC Students",
-          "Co-Signer Not Required",
-          "Limited Access Building",
-          "Access to The Flamingo (Smile's Fitness Center/Study Rooms/Resident Lounge)"
-        ],
-        "floorplanImage": null,
-        "photoSamples": [
-          "https://images.cdn.appfolio.com/fairlawn/images/b71b4267-d993-40b7-b886-cf22d82031ba/large.png",
-          "https://images.cdn.appfolio.com/fairlawn/images/7d35d055-6cfb-4572-bf50-35268e2d4a79/large.jpg",
-          "https://images.cdn.appfolio.com/fairlawn/images/3a52a74b-2ea2-44dd-82aa-282c1a609058/large.jpg",
-          "https://images.cdn.appfolio.com/fairlawn/images/8081de17-eda7-438c-b56c-080577b74552/large.png",
-          "https://images.cdn.appfolio.com/fairlawn/images/c7695b01-9c27-4876-8cb1-f38396ca7723/large.jpg",
-          "https://images.cdn.appfolio.com/fairlawn/images/1b0cdf65-3662-487b-a821-7f919e9aed75/large.jpg"
         ]
       }
     },
@@ -4225,9 +4181,9 @@
             }
           },
           "availableTerms": [
-            "Aug 14, 2027"
+            "Aug 16, 2027"
           ],
-          "statusText": "August 2027! Four bed two bath apartment in Engineering District. Priced per person. Text to tour (217) 687-1542"
+          "statusText": "August 2027-Individual Leasing Available! Four bed two bath apartment in Engineering District. Priced per person. Text to tour (217) 687-1542"
         },
         {
           "unitTypeNodeId": "smile:5fb42096-115f-476a-b6fd-9055ec99fa59",
@@ -4242,9 +4198,9 @@
             }
           },
           "availableTerms": [
-            "Aug 14, 2027"
+            "Aug 16, 2027"
           ],
-          "statusText": "August 2027! Four bed three bath apartment in Engineering District. Priced per person. Text to tour (217) 687-1542"
+          "statusText": "August 2027-Individual Leasing Available! Four bed three bath apartment in Engineering District. Priced per person. Text to tour (217) 687-1542"
         }
       ],
       "representativeFloorplan": {
@@ -4321,9 +4277,9 @@
           "bathrooms": 1.0,
           "rent": {
             "perPersonUsd": {
-              "min": 2119,
-              "max": 2119,
-              "display": "$2,119"
+              "min": 1929,
+              "max": 1929,
+              "display": "$1,929"
             }
           },
           "availableTerms": [
@@ -4355,9 +4311,9 @@
           "bathrooms": 2.0,
           "rent": {
             "perPersonUsd": {
-              "min": 1379,
-              "max": 1379,
-              "display": "$1,379"
+              "min": 1309,
+              "max": 1309,
+              "display": "$1,309"
             }
           },
           "availableTerms": [
@@ -4389,9 +4345,9 @@
           "bathrooms": 3.0,
           "rent": {
             "perPersonUsd": {
-              "min": 1279,
-              "max": 1279,
-              "display": "$1,279"
+              "min": 1119,
+              "max": 1119,
+              "display": "$1,119"
             }
           },
           "availableTerms": [
@@ -4423,9 +4379,9 @@
           "bathrooms": 4.0,
           "rent": {
             "perPersonUsd": {
-              "min": 1129,
-              "max": 1129,
-              "display": "$1,129"
+              "min": 1019,
+              "max": 1019,
+              "display": "$1,019"
             }
           },
           "availableTerms": [
@@ -4440,9 +4396,9 @@
           "bathrooms": 1.0,
           "rent": {
             "perPersonUsd": {
-              "min": 1729,
-              "max": 1729,
-              "display": "$1,729"
+              "min": 1719,
+              "max": 1719,
+              "display": "$1,719"
             }
           },
           "availableTerms": [
@@ -4524,15 +4480,15 @@
           "bathrooms": 2.0,
           "rent": {
             "perPersonUsd": {
-              "min": 959,
-              "max": 959,
-              "display": "$959"
+              "min": 979,
+              "max": 979,
+              "display": "$979"
             }
           },
           "availableTerms": [
-            "Aug 17, 2027"
+            "Aug 18, 2027"
           ],
-          "statusText": "August 2027! Two bed two bath apartment in Engingeering District. Priced per person. Text to tour (217) 687-1842"
+          "statusText": "August 2027-Individual Leasing Available! Two bed two bath apartment in Engingeering District. Priced per person. Text to tour (217) 687-1842"
         },
         {
           "unitTypeNodeId": "smile:cc4cb26b-b649-4c65-946f-3f756f11aaab",
@@ -4547,16 +4503,16 @@
             }
           },
           "availableTerms": [
-            "Aug 17, 2027"
+            "Aug 18, 2027"
           ],
-          "statusText": "August 2027! Three bed two bath apartment in Engineering District. Priced per person. Text to tour (217) 687-1842"
+          "statusText": "August 2027-Individual Leasing Available! Three bed two bath apartment in Engineering District. Priced per person. Text to tour (217) 687-1842"
         }
       ],
       "representativeFloorplan": {
         "label": "2 Bedroom 2 Bath",
         "bedrooms": 2,
         "bathrooms": 2.0,
-        "availabilityStatus": "Available Aug 17, 2027",
+        "availabilityStatus": "Available Aug 18, 2027",
         "availabilityRows": [],
         "utilitiesIncludedInFee": [
           "Internet",
@@ -4633,7 +4589,7 @@
           "availableTerms": [
             "Aug 19, 2027"
           ],
-          "statusText": "August 2027! 2 bed 1 bath apartment in Quad View. Priced per person."
+          "statusText": "August 2027-Individual Leasing Available!  2 bed 1 bath apartment in Quad View. Priced per person."
         },
         {
           "unitTypeNodeId": "smile:8aa0338f-f838-460a-a0f2-b41221e083c2",
@@ -4667,7 +4623,7 @@
           "availableTerms": [
             "Aug 19, 2027"
           ],
-          "statusText": "August 2027! 2 bed 2 bath apartment in Quad View. Priced per person. Text to tour 2176871333"
+          "statusText": "August 2027-Individual Leasing Available!  2 bed 2 bath apartment in Quad View. Priced per person. Text to tour 2176871333"
         },
         {
           "unitTypeNodeId": "smile:45437575-688e-405d-8790-11843c20260d",
@@ -4701,7 +4657,7 @@
           "availableTerms": [
             "Aug 19, 2027"
           ],
-          "statusText": "August 2027! Three bed two bath apartment in the Quadview neighborhood. Priced per person."
+          "statusText": "August 2027-Individual Leasing Available! Three bed two bath apartment in the Quadview neighborhood. Priced per person."
         },
         {
           "unitTypeNodeId": "smile:ad55a4f9-d94d-4bca-8be8-338672231a3e",
@@ -4718,7 +4674,7 @@
           "availableTerms": [
             "Aug 19, 2027"
           ],
-          "statusText": "August 2027! 3 bed 3 bath apartment in Quad View. Priced per person. Text to tour 2176871333"
+          "statusText": "August 2027-Indivdual leasing Available!  3 bed 3 bath apartment in Quad View. Priced per person. Text to tour 2176871333"
         },
         {
           "unitTypeNodeId": "smile:b0f4790e-15de-4980-bf34-013eeb2e2e2f",
@@ -4735,7 +4691,7 @@
           "availableTerms": [
             "Aug 19, 2027"
           ],
-          "statusText": "August 2027! 4 bed 2 bath apartment in Quad View. Priced per person. Text to tour 2176871333"
+          "statusText": "August 2027-Individual Leasing Available!  4 bed 2 bath apartment in Quad View. Priced per person. Text to tour 2176871333"
         },
         {
           "unitTypeNodeId": "smile:80ab1680-82f8-4f79-b7fa-628e2e6bdf26",
@@ -4744,15 +4700,15 @@
           "bathrooms": 3.0,
           "rent": {
             "perPersonUsd": {
-              "min": 929,
-              "max": 929,
-              "display": "$929"
+              "min": 949,
+              "max": 949,
+              "display": "$949"
             }
           },
           "availableTerms": [
             "Aug 19, 2027"
           ],
-          "statusText": "August 2027! 4 bed 3 bath apartment in Quad View. Priced per person. Text to tour 2176871333"
+          "statusText": "August 2027-Indvidual Leasing Available!  4 bed 3 bath apartment in Quad View. Priced per person. Text to tour 2176871333"
         }
       ],
       "representativeFloorplan": {
@@ -4825,9 +4781,9 @@
           "bathrooms": 1.0,
           "rent": {
             "perPersonUsd": {
-              "min": 1319,
-              "max": 1319,
-              "display": "$1,319"
+              "min": 1329,
+              "max": 1329,
+              "display": "$1,329"
             }
           },
           "availableTerms": [
@@ -4859,15 +4815,15 @@
           "bathrooms": 2.0,
           "rent": {
             "perPersonUsd": {
-              "min": 889,
-              "max": 889,
-              "display": "$889"
+              "min": 829,
+              "max": 829,
+              "display": "$829"
             }
           },
           "availableTerms": [
             "Aug 17, 2027"
           ],
-          "statusText": "August 2027! Two bed two bath apartment in Art District. Priced per person. Text to tour (217) 292-8051"
+          "statusText": "August 2027-Individual Leasing Avaliblie! Two bed two bath apartment in Art District. Priced per person. Text to tour (217) 292-8051"
         }
       ],
       "representativeFloorplan": {
@@ -4962,9 +4918,9 @@
           "bathrooms": 1.0,
           "rent": {
             "perPersonUsd": {
-              "min": 1089,
-              "max": 1089,
-              "display": "$1,089"
+              "min": 1049,
+              "max": 1049,
+              "display": "$1,049"
             }
           },
           "availableTerms": [
@@ -5054,16 +5010,16 @@
             }
           },
           "availableTerms": [
-            "Aug 14, 2027"
+            "Aug 16, 2027"
           ],
-          "statusText": "August 2027! Four bed two bath apartment in Seniorland neighborhood, priced per person. Text to tour 2176871422"
+          "statusText": "August 2027-Individual Leasing Avaliblie! Four bed two bath apartment in Seniorland neighborhood, priced per person. Text to tour 2176871422"
         }
       ],
       "representativeFloorplan": {
         "label": "4 Bedroom 2 Bath - First Floor",
         "bedrooms": 4,
         "bathrooms": 2.0,
-        "availabilityStatus": "Available Aug 14, 2027",
+        "availabilityStatus": "Available Aug 16, 2027",
         "availabilityRows": [],
         "utilitiesIncludedInFee": [
           "Water",
@@ -5137,7 +5093,7 @@
           "availableTerms": [
             "Aug 17, 2027"
           ],
-          "statusText": "August 2027. Four bed one and a half bath in Gradland neighborhood, priced per person. Text to tour 217-858-2280"
+          "statusText": "August 2027-Individuyal Leasing Available!  Four bed one and a half bath in Gradland neighborhood, priced per person. Text to tour 217-858-2280"
         },
         {
           "unitTypeNodeId": "smile:360db0e4-3cd7-48fc-8385-61587b929f51",
@@ -5154,7 +5110,7 @@
           "availableTerms": [
             "Aug 17, 2027"
           ],
-          "statusText": "August 2027! Four bed two bath apartment in Gradland neighborhood, priced per person. Text to tour 217-858-2280"
+          "statusText": "August 2027-Individual Leasing Available!  Four bed two bath apartment in Gradland neighborhood, priced per person. Text to tour 217-858-2280"
         }
       ],
       "representativeFloorplan": {
@@ -5237,7 +5193,7 @@
           "availableTerms": [
             "Aug 17, 2027"
           ],
-          "statusText": "August 2027! Two bed one bath apartment in Gradland neighborhood, priced per person. Text to tour 2178631339"
+          "statusText": "August 2027-Individual Leasing Available!  Two bed one bath apartment in Gradland neighborhood, priced per person. Text to tour 2178631339"
         },
         {
           "unitTypeNodeId": "smile:c0d30970-883d-4438-9370-b2f2218ea454",
@@ -5254,7 +5210,7 @@
           "availableTerms": [
             "Aug 17, 2027"
           ],
-          "statusText": "August 2027! Four bed one and a half bath apartment in Gradland neighborhood, priced per person. Text to tour 2178631339"
+          "statusText": "August 2027-Individual Leasing Available!  Four bed one and a half bath apartment in Gradland neighborhood, priced per person. Text to tour 2178631339"
         },
         {
           "unitTypeNodeId": "smile:899646af-4239-4a82-ac7b-082ad48147c5",
@@ -5271,7 +5227,7 @@
           "availableTerms": [
             "Aug 17, 2027"
           ],
-          "statusText": "August 2027. Four bed two bath apartment in Gradland neighborhood, priced per person. Text to tour 217-863-1339"
+          "statusText": "1 Female Space Left! August 2027. Four bed two bath apartment in Gradland neighborhood, priced per person. Text to tour 217-863-1339"
         }
       ],
       "representativeFloorplan": {
@@ -5364,15 +5320,15 @@
           "bathrooms": 3.0,
           "rent": {
             "perPersonUsd": {
-              "min": 809,
-              "max": 809,
-              "display": "$809"
+              "min": 789,
+              "max": 789,
+              "display": "$789"
             }
           },
           "availableTerms": [
             "Aug 17, 2027"
           ],
-          "statusText": "August 2027! three bed three bath apartment in Art District neighborhood, priced per person. Text to tour (217) 393-8960"
+          "statusText": "August 2027_individual Leasing Available!  Three bed three bath apartment in Art District neighborhood, priced per person. Text to tour (217) 393-8960"
         }
       ],
       "representativeFloorplan": {
@@ -5458,7 +5414,7 @@
           "availableTerms": [
             "Aug 17, 2027"
           ],
-          "statusText": "August 2027! two bed one bath apartment in Gradland neighborhood, priced per person. Text to tour (217) 863-1312"
+          "statusText": "August 2027-Individual Leasing Available!  Two bed one bath apartment in Gradland neighborhood, priced per person. Text to tour (217) 863-1312"
         },
         {
           "unitTypeNodeId": "smile:bb69b6e5-57e3-437b-a8f5-28ab2d91d8c3",
@@ -5475,7 +5431,7 @@
           "availableTerms": [
             "Aug 17, 2027"
           ],
-          "statusText": "August 2027! three bed one bath apartment in Gradland Neighborhood, priced per person. Text to tour (217) 863-1312"
+          "statusText": "August 2027-Individual Leasing Available!  three bed one bath apartment in Gradland Neighborhood, priced per person. Text to tour (217) 863-1312"
         }
       ],
       "representativeFloorplan": {
@@ -5556,9 +5512,9 @@
             }
           },
           "availableTerms": [
-            "Aug 21, 2027"
+            "Aug 20, 2027"
           ],
-          "statusText": "August 2027! Three bed two-and-a-half-bathroom apartment in Seniorland. Priced per person. Text to tour (217) 687-1492"
+          "statusText": "August 2027-Individual Leasing Available!  Three bed two-and-a-half-bathroom apartment in Seniorland. Priced per person. Text to tour (217) 687-1492"
         },
         {
           "unitTypeNodeId": "smile:5d32145f-a3ae-4e36-afc8-53e9fe13c459",
@@ -5573,16 +5529,16 @@
             }
           },
           "availableTerms": [
-            "Aug 21, 2027"
+            "Aug 20, 2027"
           ],
-          "statusText": "August 2027! Three-bedroom three-bathroom apartment in Seniorland. Priced per person. Text to tour (217) 687-1492"
+          "statusText": "August 2027-Individual Leasing Available!  Three-bedroom three-bathroom apartment in Seniorland. Priced per person. Text to tour (217) 687-1492"
         }
       ],
       "representativeFloorplan": {
         "label": "3 Bedroom 2.5 Bath",
         "bedrooms": 3,
         "bathrooms": 2.5,
-        "availabilityStatus": "Available Aug 21, 2027",
+        "availabilityStatus": "Available Aug 20, 2027",
         "availabilityRows": [],
         "utilitiesIncludedInFee": [
           "Water",
@@ -5691,7 +5647,7 @@
           "availableTerms": [
             "Aug 17, 2027"
           ],
-          "statusText": "August 2027! 4bed 2 bath apartment in Art District. Priced per person. Text to tour (217) 858-4815"
+          "statusText": "August 2027! 4 bed 2 bath apartment in Art District. Priced per person. Text to tour (217) 858-4815"
         }
       ],
       "representativeFloorplan": {
@@ -5885,15 +5841,15 @@
           "bathrooms": 2.5,
           "rent": {
             "perPersonUsd": {
-              "min": 689,
-              "max": 689,
-              "display": "$689"
+              "min": 699,
+              "max": 699,
+              "display": "$699"
             }
           },
           "availableTerms": [
-            "Aug 21, 2027"
+            "Aug 20, 2027"
           ],
-          "statusText": "August 2027! 3 bed 2.5 bath apartment in Seniorland. Priced per person. Text to tour (217) 858-2278"
+          "statusText": "August 2027-Individual leasing Available!  3 bed 2.5 bath apartment in Seniorland. Priced per person. Text to tour (217) 858-2278"
         },
         {
           "unitTypeNodeId": "smile:63b8cb0c-572d-47ca-8cd2-0949f53b7218",
@@ -5902,22 +5858,22 @@
           "bathrooms": 3.0,
           "rent": {
             "perPersonUsd": {
-              "min": 729,
-              "max": 729,
-              "display": "$729"
+              "min": 739,
+              "max": 739,
+              "display": "$739"
             }
           },
           "availableTerms": [
-            "Aug 21, 2027"
+            "Aug 20, 2027"
           ],
-          "statusText": "August 2027! 3 bed 3 bath apartment in Seniorland. Priced per person. Text to tour (217) 858-2278"
+          "statusText": "August 202-Individual Leasing Available! 3 bed 3 bath apartment in Seniorland. Priced per person. Text to tour (217) 858-2278"
         }
       ],
       "representativeFloorplan": {
         "label": "3 Bedroom 2.5 Bath",
         "bedrooms": 3,
         "bathrooms": 2.5,
-        "availabilityStatus": "Available Aug 21, 2027",
+        "availabilityStatus": "Available Aug 20, 2027",
         "availabilityRows": [],
         "utilitiesIncludedInFee": [
           "Water",

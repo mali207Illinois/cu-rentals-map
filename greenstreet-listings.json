@@ -3,11 +3,11 @@
   "collection": {
     "source": "Green Street Realty official public website",
     "directoryUrl": "https://www.greenstrealty.com/properties",
-    "capturedOn": "2026-10-14",
+    "capturedOn": "2026-10-30",
     "method": "Embedded public property-info-json records on the property directory page.",
     "buildingCount": 248,
-    "advertisedBuildingCount": 149,
-    "advertisedLayoutCount": 332,
+    "advertisedBuildingCount": 145,
+    "advertisedLayoutCount": 306,
     "limitations": "Directory plans are published floor-plan offers, not live unit inventory. Leased and past-dated plans are not marked available. Coordinates are realtor-provided pins, not verified footprint centroids.",
     "futureRefreshRequirement": {
       "cadenceHours": 24,
@@ -46,28 +46,6 @@
               "min": 1800,
               "max": 1800,
               "display": "$1,800"
-            }
-          },
-          "availableTerms": [
-            "August 2027"
-          ],
-          "statusText": ""
-        },
-        {
-          "unitTypeNodeId": "gsr:375:2",
-          "title": "2 Bedroom",
-          "bedrooms": 2,
-          "bathrooms": 2,
-          "rent": {
-            "perUnitUsd": {
-              "min": 2300,
-              "max": 2300,
-              "display": "$2,300"
-            },
-            "perPersonUsd": {
-              "min": 1150,
-              "max": 1150,
-              "display": "$1,150"
             }
           },
           "availableTerms": [
@@ -342,14 +320,14 @@
       "offers": [
         {
           "unitTypeNodeId": "gsr:302:2",
-          "title": "1 Bedroom with Bonus Room",
+          "title": "1 Bedroom with Bonus Room avail now thru July",
           "bedrooms": 1,
           "bathrooms": 1,
           "rent": {
             "perUnitUsd": {
-              "min": 1350,
-              "max": 1395,
-              "display": "$1,350–$1,395"
+              "min": 1250,
+              "max": 1250,
+              "display": "$1,250"
             }
           },
           "availableTerms": [
@@ -359,19 +337,19 @@
         },
         {
           "unitTypeNodeId": "gsr:302:3",
-          "title": "2 Bedroom",
+          "title": "2 Bedroom avail now through July",
           "bedrooms": 2,
           "bathrooms": 1,
           "rent": {
             "perUnitUsd": {
-              "min": 1350,
-              "max": 1395,
-              "display": "$1,350–$1,395"
+              "min": 1300,
+              "max": 1300,
+              "display": "$1,300"
             },
             "perPersonUsd": {
-              "min": 675,
-              "max": 697.5,
-              "display": "$675–$697.5"
+              "min": 650,
+              "max": 650,
+              "display": "$650"
             }
           },
           "availableTerms": [
@@ -381,7 +359,7 @@
         }
       ],
       "representativeFloorplan": {
-        "label": "1 Bedroom with Bonus Room",
+        "label": "1 Bedroom with Bonus Room avail now thru July",
         "bedrooms": 1,
         "bathrooms": 1,
         "availabilityStatus": "Available Now",
@@ -657,19 +635,19 @@
         },
         {
           "unitTypeNodeId": "gsr:196:4",
-          "title": "2 Bedroom (Available Now)",
+          "title": "2 Bedroom (Available Now thru July 27 discounted price))",
           "bedrooms": 2,
           "bathrooms": 2,
           "rent": {
             "perUnitUsd": {
-              "min": 1500,
-              "max": 1500,
-              "display": "$1,500"
+              "min": 1400,
+              "max": 1400,
+              "display": "$1,400"
             },
             "perPersonUsd": {
-              "min": 750,
-              "max": 750,
-              "display": "$750"
+              "min": 700,
+              "max": 700,
+              "display": "$700"
             }
           },
           "availableTerms": [
@@ -1417,28 +1395,6 @@
           "statusText": ""
         },
         {
-          "unitTypeNodeId": "gsr:132:4",
-          "title": "3 Bedroom",
-          "bedrooms": 3,
-          "bathrooms": 2,
-          "rent": {
-            "perUnitUsd": {
-              "min": 3000,
-              "max": 3050,
-              "display": "$3,000–$3,050"
-            },
-            "perPersonUsd": {
-              "min": 1000,
-              "max": 1016.66,
-              "display": "$1,000–$1,016.66"
-            }
-          },
-          "availableTerms": [
-            "August 2027"
-          ],
-          "statusText": ""
-        },
-        {
           "unitTypeNodeId": "gsr:132:5",
           "title": "2 Bedroom (Available Now)",
           "bedrooms": 2,
@@ -1692,28 +1648,6 @@
               "min": 1600,
               "max": 1625,
               "display": "$1,600–$1,625"
-            }
-          },
-          "availableTerms": [
-            "August 2027"
-          ],
-          "statusText": ""
-        },
-        {
-          "unitTypeNodeId": "gsr:158:3",
-          "title": "2 Bedroom",
-          "bedrooms": 2,
-          "bathrooms": 2,
-          "rent": {
-            "perUnitUsd": {
-              "min": 2400,
-              "max": 2600,
-              "display": "$2,400–$2,600"
-            },
-            "perPersonUsd": {
-              "min": 1200,
-              "max": 1300,
-              "display": "$1,200–$1,300"
             }
           },
           "availableTerms": [
@@ -2583,50 +2517,6 @@
             "August 2027"
           ],
           "statusText": ""
-        },
-        {
-          "unitTypeNodeId": "gsr:151:3",
-          "title": "3 Bedroom",
-          "bedrooms": 3,
-          "bathrooms": 2,
-          "rent": {
-            "perUnitUsd": {
-              "min": 2400,
-              "max": 2400,
-              "display": "$2,400"
-            },
-            "perPersonUsd": {
-              "min": 800,
-              "max": 800,
-              "display": "$800"
-            }
-          },
-          "availableTerms": [
-            "August 2027"
-          ],
-          "statusText": ""
-        },
-        {
-          "unitTypeNodeId": "gsr:151:4",
-          "title": "4 Bedroom",
-          "bedrooms": 4,
-          "bathrooms": 2,
-          "rent": {
-            "perUnitUsd": {
-              "min": 2400,
-              "max": 2800,
-              "display": "$2,400–$2,800"
-            },
-            "perPersonUsd": {
-              "min": 600,
-              "max": 700,
-              "display": "$600–$700"
-            }
-          },
-          "availableTerms": [
-            "August 2027"
-          ],
-          "statusText": ""
         }
       ],
       "representativeFloorplan": {
@@ -2728,50 +2618,6 @@
               "min": 1250,
               "max": 1250,
               "display": "$1,250"
-            }
-          },
-          "availableTerms": [
-            "August 2027"
-          ],
-          "statusText": ""
-        },
-        {
-          "unitTypeNodeId": "gsr:380:5",
-          "title": "4 Bedroom/2 Bathroom",
-          "bedrooms": 4,
-          "bathrooms": 2,
-          "rent": {
-            "perUnitUsd": {
-              "min": 3900,
-              "max": 4200,
-              "display": "$3,900–$4,200"
-            },
-            "perPersonUsd": {
-              "min": 975,
-              "max": 1050,
-              "display": "$975–$1,050"
-            }
-          },
-          "availableTerms": [
-            "August 2027"
-          ],
-          "statusText": ""
-        },
-        {
-          "unitTypeNodeId": "gsr:380:6",
-          "title": "4 Bedroom/4 Bathroom",
-          "bedrooms": 4,
-          "bathrooms": 4,
-          "rent": {
-            "perUnitUsd": {
-              "min": 4200,
-              "max": 4200,
-              "display": "$4,200"
-            },
-            "perPersonUsd": {
-              "min": 1050,
-              "max": 1050,
-              "display": "$1,050"
             }
           },
           "availableTerms": [
@@ -3806,28 +3652,6 @@
           "statusText": ""
         },
         {
-          "unitTypeNodeId": "gsr:143:2",
-          "title": "2 Bedroom",
-          "bedrooms": 2,
-          "bathrooms": 1,
-          "rent": {
-            "perUnitUsd": {
-              "min": 1325,
-              "max": 1325,
-              "display": "$1,325"
-            },
-            "perPersonUsd": {
-              "min": 662.5,
-              "max": 662.5,
-              "display": "$662.5"
-            }
-          },
-          "availableTerms": [
-            "August 2027"
-          ],
-          "statusText": ""
-        },
-        {
           "unitTypeNodeId": "gsr:143:3",
           "title": "1 Bedroom (Available Now)",
           "bedrooms": 1,
@@ -4252,23 +4076,6 @@
               "min": 750,
               "max": 825,
               "display": "$750–$825"
-            }
-          },
-          "availableTerms": [
-            "August 2027"
-          ],
-          "statusText": ""
-        },
-        {
-          "unitTypeNodeId": "gsr:17:2",
-          "title": "1 Bedroom",
-          "bedrooms": 1,
-          "bathrooms": 1,
-          "rent": {
-            "perUnitUsd": {
-              "min": 750,
-              "max": 750,
-              "display": "$750"
             }
           },
           "availableTerms": [
@@ -5625,19 +5432,19 @@
       "offers": [
         {
           "unitTypeNodeId": "gsr:160:1",
-          "title": "2 Bedroom",
+          "title": "2 Bedroom avail now",
           "bedrooms": 2,
           "bathrooms": 2,
           "rent": {
             "perUnitUsd": {
-              "min": 1800,
-              "max": 1800,
-              "display": "$1,800"
+              "min": 1595,
+              "max": 1595,
+              "display": "$1,595"
             },
             "perPersonUsd": {
-              "min": 900,
-              "max": 900,
-              "display": "$900"
+              "min": 797.5,
+              "max": 797.5,
+              "display": "$797.5"
             }
           },
           "availableTerms": [
@@ -5647,7 +5454,7 @@
         }
       ],
       "representativeFloorplan": {
-        "label": "2 Bedroom",
+        "label": "2 Bedroom avail now",
         "bedrooms": 2,
         "bathrooms": 2,
         "availabilityStatus": "Available Now",
@@ -8785,6 +8592,28 @@
             "Available Now"
           ],
           "statusText": ""
+        },
+        {
+          "unitTypeNodeId": "gsr:383:5",
+          "title": "1 bed avail now through July 27",
+          "bedrooms": 1,
+          "bathrooms": 1,
+          "rent": {
+            "perUnitUsd": {
+              "min": 1250,
+              "max": 1250,
+              "display": "$1,250"
+            },
+            "perPersonUsd": {
+              "min": 1250,
+              "max": 1250,
+              "display": "$1,250"
+            }
+          },
+          "availableTerms": [
+            "Available Now"
+          ],
+          "statusText": ""
         }
       ],
       "representativeFloorplan": {
@@ -9558,28 +9387,6 @@
       "availabilityStatus": "advertised",
       "offers": [
         {
-          "unitTypeNodeId": "gsr:335:1",
-          "title": "3 Bedroom",
-          "bedrooms": 3,
-          "bathrooms": 1,
-          "rent": {
-            "perUnitUsd": {
-              "min": 2000,
-              "max": 2000,
-              "display": "$2,000"
-            },
-            "perPersonUsd": {
-              "min": 666.67,
-              "max": 666.67,
-              "display": "$666.67"
-            }
-          },
-          "availableTerms": [
-            "August 2027"
-          ],
-          "statusText": ""
-        },
-        {
           "unitTypeNodeId": "gsr:335:2",
           "title": "4 Bedroom - Layout A",
           "bedrooms": 4,
@@ -9625,8 +9432,8 @@
         }
       ],
       "representativeFloorplan": {
-        "label": "3 Bedroom",
-        "bedrooms": 3,
+        "label": "4 Bedroom - Layout A",
+        "bedrooms": 4,
         "bathrooms": 1,
         "availabilityStatus": "August 2027",
         "availabilityRows": [],
@@ -9864,28 +9671,6 @@
               "min": 1150,
               "max": 1150,
               "display": "$1,150"
-            },
-            "perPersonUsd": {
-              "min": 575,
-              "max": 575,
-              "display": "$575"
-            }
-          },
-          "availableTerms": [
-            "August 2027"
-          ],
-          "statusText": ""
-        },
-        {
-          "unitTypeNodeId": "gsr:43:4",
-          "title": "3 Bedroom - Remodeled",
-          "bedrooms": 3,
-          "bathrooms": 1.5,
-          "rent": {
-            "perUnitUsd": {
-              "min": 1725,
-              "max": 1750,
-              "display": "$1,725–$1,750"
             },
             "perPersonUsd": {
               "min": 575,
@@ -10275,40 +10060,17 @@
         "longitude": -88.310377,
         "source": "Green Street Realty published latitude/longitude"
       },
-      "availabilityStatus": "advertised",
-      "offers": [
-        {
-          "unitTypeNodeId": "gsr:154:4",
-          "title": "2 Bedroom (Available Now)",
-          "bedrooms": 2,
-          "bathrooms": 2,
-          "rent": {
-            "perUnitUsd": {
-              "min": 1675,
-              "max": 1750,
-              "display": "$1,675–$1,750"
-            },
-            "perPersonUsd": {
-              "min": 837.5,
-              "max": 875,
-              "display": "$837.5–$875"
-            }
-          },
-          "availableTerms": [
-            "Available Now"
-          ],
-          "statusText": ""
-        }
-      ],
+      "availabilityStatus": "not_advertised",
+      "offers": [],
       "representativeFloorplan": {
-        "label": "2 Bedroom (Available Now)",
-        "bedrooms": 2,
-        "bathrooms": 2,
-        "availabilityStatus": "Available Now",
+        "label": "1 Bedroom",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "availabilityStatus": "Leased",
         "availabilityRows": [],
         "utilitiesIncludedInFee": [],
         "amenities": [],
-        "floorplanImage": null,
+        "floorplanImage": "https://www.greenstrealty.com/image/11460/900",
         "photoSamples": [
           "https://www.greenstrealty.com/image/14783/900",
           "https://www.greenstrealty.com/image/12664/900",
@@ -10378,40 +10140,17 @@
         "longitude": -88.3115651,
         "source": "Green Street Realty published latitude/longitude"
       },
-      "availabilityStatus": "advertised",
-      "offers": [
-        {
-          "unitTypeNodeId": "gsr:155:4",
-          "title": "2 Bedroom (Available Now)",
-          "bedrooms": 2,
-          "bathrooms": 2,
-          "rent": {
-            "perUnitUsd": {
-              "min": 1675,
-              "max": 1675,
-              "display": "$1,675"
-            },
-            "perPersonUsd": {
-              "min": 837.5,
-              "max": 837.5,
-              "display": "$837.5"
-            }
-          },
-          "availableTerms": [
-            "Available Now"
-          ],
-          "statusText": ""
-        }
-      ],
+      "availabilityStatus": "not_advertised",
+      "offers": [],
       "representativeFloorplan": {
-        "label": "2 Bedroom (Available Now)",
-        "bedrooms": 2,
-        "bathrooms": 2,
-        "availabilityStatus": "Available Now",
+        "label": "1 Bedroom/1 Bathroom",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "availabilityStatus": "Leased",
         "availabilityRows": [],
         "utilitiesIncludedInFee": [],
         "amenities": [],
-        "floorplanImage": null,
+        "floorplanImage": "https://www.greenstrealty.com/image/13222/900",
         "photoSamples": [
           "https://www.greenstrealty.com/image/13390/900",
           "https://www.greenstrealty.com/image/13267/900",
@@ -10517,14 +10256,19 @@
         },
         {
           "unitTypeNodeId": "gsr:149:6",
-          "title": "1 Bedroom - 402 & 408 W. Church (Available Now)",
+          "title": "1 Bedroom - 402 & 408 W. Church (Available Now-July)",
           "bedrooms": 1,
           "bathrooms": 1,
           "rent": {
             "perUnitUsd": {
-              "min": 1350,
-              "max": 1350,
-              "display": "$1,350"
+              "min": 1250,
+              "max": 1250,
+              "display": "$1,250"
+            },
+            "perPersonUsd": {
+              "min": 1250,
+              "max": 1250,
+              "display": "$1,250"
             }
           },
           "availableTerms": [
@@ -11118,28 +10862,6 @@
             "Available Now"
           ],
           "statusText": ""
-        },
-        {
-          "unitTypeNodeId": "gsr:381:4",
-          "title": "4 Bedroom/2 Bathroom",
-          "bedrooms": 4,
-          "bathrooms": 2,
-          "rent": {
-            "perUnitUsd": {
-              "min": 3350,
-              "max": 3350,
-              "display": "$3,350"
-            },
-            "perPersonUsd": {
-              "min": 837.5,
-              "max": 837.5,
-              "display": "$837.5"
-            }
-          },
-          "availableTerms": [
-            "August 2027"
-          ],
-          "statusText": ""
         }
       ],
       "representativeFloorplan": {
@@ -11541,28 +11263,6 @@
             "August 2027"
           ],
           "statusText": ""
-        },
-        {
-          "unitTypeNodeId": "gsr:52:2",
-          "title": "16 Bedroom",
-          "bedrooms": "5+",
-          "bathrooms": "5+",
-          "rent": {
-            "perUnitUsd": {
-              "min": 14400,
-              "max": 14400,
-              "display": "$14,400"
-            },
-            "perPersonUsd": {
-              "min": 900,
-              "max": 900,
-              "display": "$900"
-            }
-          },
-          "availableTerms": [
-            "August 2027"
-          ],
-          "statusText": ""
         }
       ],
       "representativeFloorplan": {
@@ -11795,28 +11495,6 @@
           "statusText": ""
         },
         {
-          "unitTypeNodeId": "gsr:280:4",
-          "title": "4 Bedroom",
-          "bedrooms": 4,
-          "bathrooms": 2,
-          "rent": {
-            "perUnitUsd": {
-              "min": 2800,
-              "max": 2800,
-              "display": "$2,800"
-            },
-            "perPersonUsd": {
-              "min": 700,
-              "max": 700,
-              "display": "$700"
-            }
-          },
-          "availableTerms": [
-            "August 2027"
-          ],
-          "statusText": ""
-        },
-        {
           "unitTypeNodeId": "gsr:280:5",
           "title": "2 Bedroom (Available Now)",
           "bedrooms": 2,
@@ -11882,36 +11560,13 @@
         "longitude": -88.2311302,
         "source": "Green Street Realty published latitude/longitude"
       },
-      "availabilityStatus": "advertised",
-      "offers": [
-        {
-          "unitTypeNodeId": "gsr:354:2",
-          "title": "2 Bedroom",
-          "bedrooms": 2,
-          "bathrooms": 1,
-          "rent": {
-            "perUnitUsd": {
-              "min": 1550,
-              "max": 1550,
-              "display": "$1,550"
-            },
-            "perPersonUsd": {
-              "min": 775,
-              "max": 775,
-              "display": "$775"
-            }
-          },
-          "availableTerms": [
-            "August 2027"
-          ],
-          "statusText": ""
-        }
-      ],
+      "availabilityStatus": "not_advertised",
+      "offers": [],
       "representativeFloorplan": {
-        "label": "2 Bedroom",
-        "bedrooms": 2,
+        "label": "1 Bedroom",
+        "bedrooms": 1,
         "bathrooms": 1,
-        "availabilityStatus": "August 2027",
+        "availabilityStatus": "Leased",
         "availabilityRows": [],
         "utilitiesIncludedInFee": [],
         "amenities": [
@@ -11960,50 +11615,6 @@
               "min": 1050,
               "max": 1350,
               "display": "$1,050–$1,350"
-            }
-          },
-          "availableTerms": [
-            "August 2027"
-          ],
-          "statusText": ""
-        },
-        {
-          "unitTypeNodeId": "gsr:55:4",
-          "title": "3 Bedroom",
-          "bedrooms": 3,
-          "bathrooms": 2,
-          "rent": {
-            "perUnitUsd": {
-              "min": 2600,
-              "max": 2600,
-              "display": "$2,600"
-            },
-            "perPersonUsd": {
-              "min": 866.66,
-              "max": 866.66,
-              "display": "$866.66"
-            }
-          },
-          "availableTerms": [
-            "August 2027"
-          ],
-          "statusText": ""
-        },
-        {
-          "unitTypeNodeId": "gsr:55:5",
-          "title": "4 Bedroom",
-          "bedrooms": 4,
-          "bathrooms": 2,
-          "rent": {
-            "perUnitUsd": {
-              "min": 2600,
-              "max": 2600,
-              "display": "$2,600"
-            },
-            "perPersonUsd": {
-              "min": 650,
-              "max": 650,
-              "display": "$650"
             }
           },
           "availableTerms": [
@@ -12202,19 +11813,19 @@
         },
         {
           "unitTypeNodeId": "gsr:57:2",
-          "title": "2 Bedroom (Available Now)",
+          "title": "2 Bedroom (Available Now thru July discounted price)",
           "bedrooms": 2,
           "bathrooms": 2,
           "rent": {
             "perUnitUsd": {
-              "min": 1450,
-              "max": 1450,
-              "display": "$1,450"
+              "min": 1400,
+              "max": 1400,
+              "display": "$1,400"
             },
             "perPersonUsd": {
-              "min": 725,
-              "max": 725,
-              "display": "$725"
+              "min": 700,
+              "max": 700,
+              "display": "$700"
             }
           },
           "availableTerms": [
@@ -12974,45 +12585,6 @@
           },
           "availableTerms": [
             "August 2027"
-          ],
-          "statusText": ""
-        },
-        {
-          "unitTypeNodeId": "gsr:13:4",
-          "title": "4 Bedroom",
-          "bedrooms": 4,
-          "bathrooms": 4,
-          "rent": {
-            "perUnitUsd": {
-              "min": 3600,
-              "max": 3600,
-              "display": "$3,600"
-            },
-            "perPersonUsd": {
-              "min": 900,
-              "max": 900,
-              "display": "$900"
-            }
-          },
-          "availableTerms": [
-            "August 2027"
-          ],
-          "statusText": ""
-        },
-        {
-          "unitTypeNodeId": "gsr:13:5",
-          "title": "2 Bedroom - Girl Roommate Match",
-          "bedrooms": 2,
-          "bathrooms": 2,
-          "rent": {
-            "perPersonUsd": {
-              "min": 1000,
-              "max": 1000,
-              "display": "$1,000"
-            }
-          },
-          "availableTerms": [
-            "Available Now"
           ],
           "statusText": ""
         }
@@ -14011,58 +13583,13 @@
         "longitude": -88.2291353,
         "source": "Green Street Realty published latitude/longitude"
       },
-      "availabilityStatus": "advertised",
-      "offers": [
-        {
-          "unitTypeNodeId": "gsr:277:1",
-          "title": "2 Bed/1 Bath",
-          "bedrooms": 2,
-          "bathrooms": 1,
-          "rent": {
-            "perUnitUsd": {
-              "min": 2050,
-              "max": 2050,
-              "display": "$2,050"
-            },
-            "perPersonUsd": {
-              "min": 1025,
-              "max": 1025,
-              "display": "$1,025"
-            }
-          },
-          "availableTerms": [
-            "August 2027"
-          ],
-          "statusText": ""
-        },
-        {
-          "unitTypeNodeId": "gsr:277:2",
-          "title": "2 Bedroom/2 Bath",
-          "bedrooms": 2,
-          "bathrooms": 2,
-          "rent": {
-            "perUnitUsd": {
-              "min": 2050,
-              "max": 2050,
-              "display": "$2,050"
-            },
-            "perPersonUsd": {
-              "min": 1025,
-              "max": 1025,
-              "display": "$1,025"
-            }
-          },
-          "availableTerms": [
-            "August 2027"
-          ],
-          "statusText": ""
-        }
-      ],
+      "availabilityStatus": "not_advertised",
+      "offers": [],
       "representativeFloorplan": {
         "label": "2 Bed/1 Bath",
         "bedrooms": 2,
         "bathrooms": 1,
-        "availabilityStatus": "August 2027",
+        "availabilityStatus": "Leased",
         "availabilityRows": [],
         "utilitiesIncludedInFee": [],
         "amenities": [
@@ -14618,28 +14145,6 @@
       "availabilityStatus": "advertised",
       "offers": [
         {
-          "unitTypeNodeId": "gsr:270:1",
-          "title": "2 Bedroom",
-          "bedrooms": 2,
-          "bathrooms": 1,
-          "rent": {
-            "perUnitUsd": {
-              "min": 1425,
-              "max": 1425,
-              "display": "$1,425"
-            },
-            "perPersonUsd": {
-              "min": 712.5,
-              "max": 712.5,
-              "display": "$712.5"
-            }
-          },
-          "availableTerms": [
-            "August 2027"
-          ],
-          "statusText": ""
-        },
-        {
           "unitTypeNodeId": "gsr:270:2",
           "title": "4 Bedroom",
           "bedrooms": 4,
@@ -14663,9 +14168,9 @@
         }
       ],
       "representativeFloorplan": {
-        "label": "2 Bedroom",
-        "bedrooms": 2,
-        "bathrooms": 1,
+        "label": "4 Bedroom",
+        "bedrooms": 4,
+        "bathrooms": 2,
         "availabilityStatus": "August 2027",
         "availabilityRows": [],
         "utilitiesIncludedInFee": [],
@@ -15487,23 +14992,6 @@
       "availabilityStatus": "advertised",
       "offers": [
         {
-          "unitTypeNodeId": "gsr:279:1",
-          "title": "Studio",
-          "bedrooms": 0,
-          "bathrooms": 1,
-          "rent": {
-            "perUnitUsd": {
-              "min": 850,
-              "max": 850,
-              "display": "$850"
-            }
-          },
-          "availableTerms": [
-            "August 2027"
-          ],
-          "statusText": ""
-        },
-        {
           "unitTypeNodeId": "gsr:279:2",
           "title": "2 Bed/1 Bath",
           "bedrooms": 2,
@@ -15549,8 +15037,8 @@
         }
       ],
       "representativeFloorplan": {
-        "label": "Studio",
-        "bedrooms": 0,
+        "label": "2 Bed/1 Bath",
+        "bedrooms": 2,
         "bathrooms": 1,
         "availabilityStatus": "August 2027",
         "availabilityRows": [],
@@ -16590,28 +16078,6 @@
             "August 2027"
           ],
           "statusText": ""
-        },
-        {
-          "unitTypeNodeId": "gsr:136:3",
-          "title": "4 Bedroom",
-          "bedrooms": 4,
-          "bathrooms": 1,
-          "rent": {
-            "perUnitUsd": {
-              "min": 1800,
-              "max": 1800,
-              "display": "$1,800"
-            },
-            "perPersonUsd": {
-              "min": 450,
-              "max": 450,
-              "display": "$450"
-            }
-          },
-          "availableTerms": [
-            "August 2027"
-          ],
-          "statusText": ""
         }
       ],
       "representativeFloorplan": {
@@ -16880,28 +16346,6 @@
               "min": 700,
               "max": 700,
               "display": "$700"
-            }
-          },
-          "availableTerms": [
-            "August 2027"
-          ],
-          "statusText": ""
-        },
-        {
-          "unitTypeNodeId": "gsr:343:4",
-          "title": "5 Bedroom/2 Bath",
-          "bedrooms": "5+",
-          "bathrooms": 2,
-          "rent": {
-            "perUnitUsd": {
-              "min": 3100,
-              "max": 3100,
-              "display": "$3,100"
-            },
-            "perPersonUsd": {
-              "min": 620,
-              "max": 620,
-              "display": "$620"
             }
           },
           "availableTerms": [
