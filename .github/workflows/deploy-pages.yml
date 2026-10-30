@@ -11,7 +11,7 @@ permissions:
   id-token: write
 
 concurrency:
-  group: pages
+  group: rent-map-deploy
   cancel-in-progress: false
 
 jobs:
