@@ -1,0 +1,939 @@
+{
+  "schemaVersion": 1,
+  "collection": {
+    "source": "Bankier Apartments official public availability directory",
+    "directoryUrl": "https://bankierapartments.com/properties/",
+    "capturedOn": "2026-10-30",
+    "method": "The default public property-search response linked from Bankier's directory form.",
+    "buildingCount": 13,
+    "advertisedBuildingCount": 13,
+    "advertisedLayoutCount": 13,
+    "directoryResultCount": 13,
+    "limitations": "The directory gives aggregate rent and bedroom/bathroom ranges per property, not unit-level floor plans or exact future availability dates. Its coordinates are realtor-published pins, not verified footprint centroids. Prices are shown as monthly directory rent ranges.",
+    "futureRefreshRequirement": {
+      "cadenceHours": 24,
+      "implemented": false
+    }
+  },
+  "properties": [
+    {
+      "name": "112 E. Green St",
+      "propertyNodeId": "bankier:6971",
+      "propertyUrl": "https://www.112bankierapartments.com/",
+      "sourceName": "Bankier Apartments",
+      "sourceUrl": "https://bankierapartments.com/",
+      "sourceLogoUrl": "https://bankierapartments.com/wp-content/uploads/2022/05/Bankier_Logo_Med_Green_RGB-1.png",
+      "source": {
+        "assetHosts": [
+          "bankierapartments.com",
+          "112bankierapartments.com"
+        ]
+      },
+      "address": {
+        "street": "112 E. Green St",
+        "locality": "Champaign",
+        "region": "IL",
+        "postalCode": "61820",
+        "source": "Bankier public property-search card"
+      },
+      "mapPoint": {
+        "latitude": 40.110433,
+        "longitude": -88.237485,
+        "source": "Bankier public property-search coordinates"
+      },
+      "availabilityStatus": "advertised",
+      "offers": [
+        {
+          "unitTypeNodeId": "bankier:6971:public-range",
+          "title": "Published availability range",
+          "bedrooms": "2–4",
+          "bathrooms": "1–2",
+          "rent": {
+            "perMonthUsd": {
+              "min": 3100,
+              "max": 3100,
+              "display": "$3,100"
+            }
+          },
+          "availableTerms": [
+            "Available now"
+          ],
+          "statusText": "Listed for immediate availability"
+        }
+      ],
+      "representativeFloorplan": {
+        "label": "Published availability range",
+        "bedrooms": "2–4",
+        "bathrooms": "1–2",
+        "availabilityStatus": "Listed for immediate availability",
+        "availabilityRows": [],
+        "utilitiesIncludedInFee": [],
+        "amenities": [
+          "Air Conditioning",
+          "Available Onsite Parking",
+          "Controlled Entry System",
+          "Covered Parking",
+          "Dishwasher",
+          "Electronic Thermostat",
+          "Elevator",
+          "Fitness Center",
+          "Flatscreen Tvs",
+          "Garage",
+          "Gigabit Speed Fiber Internet",
+          "Kitchen",
+          "Large Closets",
+          "Refrigerator"
+        ],
+        "floorplanImage": null,
+        "photoSamples": [
+          "https://bankierapartments.com/wp-content/uploads/2023/07/bankier112_001w.jpg"
+        ]
+      }
+    },
+    {
+      "name": "202 E. John St",
+      "propertyNodeId": "bankier:7195",
+      "propertyUrl": "https://www.202johnbankierapartments.com/",
+      "sourceName": "Bankier Apartments",
+      "sourceUrl": "https://bankierapartments.com/",
+      "sourceLogoUrl": "https://bankierapartments.com/wp-content/uploads/2022/05/Bankier_Logo_Med_Green_RGB-1.png",
+      "source": {
+        "assetHosts": [
+          "bankierapartments.com",
+          "202johnbankierapartments.com"
+        ]
+      },
+      "address": {
+        "street": "202 E. John St",
+        "locality": "Champaign",
+        "region": "IL",
+        "postalCode": "61820",
+        "source": "Bankier public property-search card"
+      },
+      "mapPoint": {
+        "latitude": 40.1093262,
+        "longitude": -88.2367119,
+        "source": "Bankier public property-search coordinates"
+      },
+      "availabilityStatus": "advertised",
+      "offers": [
+        {
+          "unitTypeNodeId": "bankier:7195:public-range",
+          "title": "Published availability range",
+          "bedrooms": "2–4",
+          "bathrooms": "1–2",
+          "rent": {
+            "perMonthUsd": {
+              "min": 3100,
+              "max": 3100,
+              "display": "$3,100"
+            }
+          },
+          "availableTerms": [],
+          "statusText": "Future availability listed; exact date not stated"
+        }
+      ],
+      "representativeFloorplan": {
+        "label": "Published availability range",
+        "bedrooms": "2–4",
+        "bathrooms": "1–2",
+        "availabilityStatus": "Future availability listed; exact date not stated",
+        "availabilityRows": [],
+        "utilitiesIncludedInFee": [],
+        "amenities": [
+          "Air Conditioner",
+          "Air Conditioning",
+          "Available Onsite Parking",
+          "Furnished",
+          "Gigabit Speed Fiber Internet"
+        ],
+        "floorplanImage": null,
+        "photoSamples": [
+          "https://bankierapartments.com/wp-content/uploads/2025/08/THE-ALCOVE-SECOND-JOHN.jpg"
+        ]
+      }
+    },
+    {
+      "name": "519 E. Green St",
+      "propertyNodeId": "bankier:6968",
+      "propertyUrl": "https://www.519bankierapartments.com/",
+      "sourceName": "Bankier Apartments",
+      "sourceUrl": "https://bankierapartments.com/",
+      "sourceLogoUrl": "https://bankierapartments.com/wp-content/uploads/2022/05/Bankier_Logo_Med_Green_RGB-1.png",
+      "source": {
+        "assetHosts": [
+          "bankierapartments.com",
+          "519bankierapartments.com"
+        ]
+      },
+      "address": {
+        "street": "519 E. Green St.",
+        "locality": "Champaign",
+        "region": "IL",
+        "postalCode": "61820",
+        "source": "Bankier public property-search card"
+      },
+      "mapPoint": {
+        "latitude": 40.110098,
+        "longitude": -88.230677,
+        "source": "Bankier public property-search coordinates"
+      },
+      "availabilityStatus": "advertised",
+      "offers": [
+        {
+          "unitTypeNodeId": "bankier:6968:public-range",
+          "title": "Published availability range",
+          "bedrooms": "2–3",
+          "bathrooms": "2–3",
+          "rent": {
+            "perMonthUsd": {
+              "min": 1875,
+              "max": 2925,
+              "display": "$1,875–$2,925"
+            }
+          },
+          "availableTerms": [],
+          "statusText": "Listed as available; timing not stated"
+        }
+      ],
+      "representativeFloorplan": {
+        "label": "Published availability range",
+        "bedrooms": "2–3",
+        "bathrooms": "2–3",
+        "availabilityStatus": "Listed as available; timing not stated",
+        "availabilityRows": [],
+        "utilitiesIncludedInFee": [],
+        "amenities": [
+          "Controlled Access Gated",
+          "Covered Parking",
+          "Elevator",
+          "Fitness Center",
+          "Free Weights",
+          "Garage",
+          "High Speed Internet",
+          "Recreation Room",
+          "Recycling"
+        ],
+        "floorplanImage": null,
+        "photoSamples": [
+          "https://bankierapartments.com/wp-content/uploads/2023/07/hero-bankier-1024x626.jpg"
+        ]
+      }
+    },
+    {
+      "name": "410 E. Green St",
+      "propertyNodeId": "bankier:6965",
+      "propertyUrl": "https://www.410bankierapartments.com/",
+      "sourceName": "Bankier Apartments",
+      "sourceUrl": "https://bankierapartments.com/",
+      "sourceLogoUrl": "https://bankierapartments.com/wp-content/uploads/2022/05/Bankier_Logo_Med_Green_RGB-1.png",
+      "source": {
+        "assetHosts": [
+          "bankierapartments.com",
+          "410bankierapartments.com"
+        ]
+      },
+      "address": {
+        "street": "410 E. Green St.",
+        "locality": "Champaign",
+        "region": "IL",
+        "postalCode": "61820",
+        "source": "Bankier public property-search card"
+      },
+      "mapPoint": {
+        "latitude": 40.110638,
+        "longitude": -88.232483,
+        "source": "Bankier public property-search coordinates"
+      },
+      "availabilityStatus": "advertised",
+      "offers": [
+        {
+          "unitTypeNodeId": "bankier:6965:public-range",
+          "title": "Published availability range",
+          "bedrooms": "0–3",
+          "bathrooms": "1–2",
+          "rent": {
+            "perMonthUsd": {
+              "min": 860,
+              "max": 2025,
+              "display": "$860–$2,025"
+            }
+          },
+          "availableTerms": [],
+          "statusText": "Listed as available; timing not stated"
+        }
+      ],
+      "representativeFloorplan": {
+        "label": "Published availability range",
+        "bedrooms": "0–3",
+        "bathrooms": "1–2",
+        "availabilityStatus": "Listed as available; timing not stated",
+        "availabilityRows": [],
+        "utilitiesIncludedInFee": [],
+        "amenities": [
+          "Air Conditioner",
+          "Carpeting",
+          "Ceiling Fan",
+          "Controlled Access Gated",
+          "Covered Parking",
+          "Dishwasher",
+          "Electronic Thermostat",
+          "Elevator",
+          "Fitness Center",
+          "Free Weights",
+          "Hardwood Floors",
+          "High Speed Internet",
+          "Microwave",
+          "Recycling",
+          "Refrigerator",
+          "Study Lounge",
+          "Washer Dryer"
+        ],
+        "floorplanImage": null,
+        "photoSamples": [
+          "https://bankierapartments.com/wp-content/uploads/2023/08/410_001w-1.jpg"
+        ]
+      }
+    },
+    {
+      "name": "509 E. Green St",
+      "propertyNodeId": "bankier:6967",
+      "propertyUrl": "https://www.509bankierapartments.com/",
+      "sourceName": "Bankier Apartments",
+      "sourceUrl": "https://bankierapartments.com/",
+      "sourceLogoUrl": "https://bankierapartments.com/wp-content/uploads/2022/05/Bankier_Logo_Med_Green_RGB-1.png",
+      "source": {
+        "assetHosts": [
+          "bankierapartments.com",
+          "509bankierapartments.com"
+        ]
+      },
+      "address": {
+        "street": "509 E. Green St.",
+        "locality": "Champaign",
+        "region": "IL",
+        "postalCode": "61820",
+        "source": "Bankier public property-search card"
+      },
+      "mapPoint": {
+        "latitude": 40.110092,
+        "longitude": -88.230866,
+        "source": "Bankier public property-search coordinates"
+      },
+      "availabilityStatus": "advertised",
+      "offers": [
+        {
+          "unitTypeNodeId": "bankier:6967:public-range",
+          "title": "Published availability range",
+          "bedrooms": "1–2",
+          "bathrooms": "1–2",
+          "rent": {
+            "perMonthUsd": {
+              "min": 900,
+              "max": 1875,
+              "display": "$900–$1,875"
+            }
+          },
+          "availableTerms": [],
+          "statusText": "Listed as available; timing not stated"
+        }
+      ],
+      "representativeFloorplan": {
+        "label": "Published availability range",
+        "bedrooms": "1–2",
+        "bathrooms": "1–2",
+        "availabilityStatus": "Listed as available; timing not stated",
+        "availabilityRows": [],
+        "utilitiesIncludedInFee": [],
+        "amenities": [
+          "Air Conditioner",
+          "Business Center",
+          "Carpeting",
+          "Ceiling Fan",
+          "Controlled Access Gated",
+          "Dishwasher",
+          "Fitness Center",
+          "Furnished",
+          "Gas Range",
+          "Hardwood Floors",
+          "High Speed Internet",
+          "Microwave",
+          "On Site Maintenance",
+          "Recycling",
+          "Refrigerator",
+          "Washer Dryer"
+        ],
+        "floorplanImage": null,
+        "photoSamples": [
+          "https://bankierapartments.com/wp-content/uploads/2023/08/509_00w-1.jpg"
+        ]
+      }
+    },
+    {
+      "name": "509 1/2 E. Green St",
+      "propertyNodeId": "bankier:6966",
+      "propertyUrl": "https://www.5095bankierapartments.com/",
+      "sourceName": "Bankier Apartments",
+      "sourceUrl": "https://bankierapartments.com/",
+      "sourceLogoUrl": "https://bankierapartments.com/wp-content/uploads/2022/05/Bankier_Logo_Med_Green_RGB-1.png",
+      "source": {
+        "assetHosts": [
+          "bankierapartments.com",
+          "5095bankierapartments.com"
+        ]
+      },
+      "address": {
+        "street": "509 1/2 E. Green St.",
+        "locality": "Champaign",
+        "region": "IL",
+        "postalCode": "61820",
+        "source": "Bankier public property-search card"
+      },
+      "mapPoint": {
+        "latitude": 40.11054,
+        "longitude": -88.230086,
+        "source": "Bankier public property-search coordinates"
+      },
+      "availabilityStatus": "advertised",
+      "offers": [
+        {
+          "unitTypeNodeId": "bankier:6966:public-range",
+          "title": "Published availability range",
+          "bedrooms": "0–1",
+          "bathrooms": 1,
+          "rent": {
+            "perMonthUsd": {
+              "min": 960,
+              "max": 1060,
+              "display": "$960–$1,060"
+            }
+          },
+          "availableTerms": [],
+          "statusText": "Listed as available; timing not stated"
+        }
+      ],
+      "representativeFloorplan": {
+        "label": "Published availability range",
+        "bedrooms": "0–1",
+        "bathrooms": 1,
+        "availabilityStatus": "Listed as available; timing not stated",
+        "availabilityRows": [],
+        "utilitiesIncludedInFee": [],
+        "amenities": [
+          "Air Conditioner",
+          "Business Center",
+          "Carpeting",
+          "Ceiling Fan",
+          "Controlled Access Gated",
+          "Dishwasher",
+          "Fitness Center",
+          "Free Weights",
+          "Furnished",
+          "Hardwood Floors",
+          "High Speed Internet",
+          "Microwave",
+          "On Site Maintenance",
+          "Recycling",
+          "Refrigerator",
+          "Washer Dryer"
+        ],
+        "floorplanImage": null,
+        "photoSamples": [
+          "https://bankierapartments.com/wp-content/uploads/2023/08/509.5_w.jpg"
+        ]
+      }
+    },
+    {
+      "name": "403 E. Green St",
+      "propertyNodeId": "bankier:6962",
+      "propertyUrl": "https://www.403bankierapartments.com/",
+      "sourceName": "Bankier Apartments",
+      "sourceUrl": "https://bankierapartments.com/",
+      "sourceLogoUrl": "https://bankierapartments.com/wp-content/uploads/2022/05/Bankier_Logo_Med_Green_RGB-1.png",
+      "source": {
+        "assetHosts": [
+          "bankierapartments.com",
+          "403bankierapartments.com"
+        ]
+      },
+      "address": {
+        "street": "403 E. Green St.",
+        "locality": "Champaign",
+        "region": "IL",
+        "postalCode": "61820",
+        "source": "Bankier public property-search card"
+      },
+      "mapPoint": {
+        "latitude": 40.110167,
+        "longitude": -88.232925,
+        "source": "Bankier public property-search coordinates"
+      },
+      "availabilityStatus": "advertised",
+      "offers": [
+        {
+          "unitTypeNodeId": "bankier:6962:public-range",
+          "title": "Published availability range",
+          "bedrooms": 1,
+          "bathrooms": 1,
+          "rent": {
+            "perMonthUsd": {
+              "min": 925,
+              "max": 985,
+              "display": "$925–$985"
+            }
+          },
+          "availableTerms": [],
+          "statusText": "Listed as available; timing not stated"
+        }
+      ],
+      "representativeFloorplan": {
+        "label": "Published availability range",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "availabilityStatus": "Listed as available; timing not stated",
+        "availabilityRows": [],
+        "utilitiesIncludedInFee": [],
+        "amenities": [
+          "Air Conditioner",
+          "Carpeting",
+          "Ceiling Fan",
+          "Controlled Access Gated",
+          "Dishwasher",
+          "Fitness Center",
+          "Furnished",
+          "High Speed Internet",
+          "Microwave",
+          "Off Street Parking",
+          "On Site Maintenance",
+          "Recycling",
+          "Refrigerator",
+          "Washer Dryer"
+        ],
+        "floorplanImage": null,
+        "photoSamples": [
+          "https://bankierapartments.com/wp-content/uploads/2023/08/400-404Bankier_064071323w.jpg"
+        ]
+      }
+    },
+    {
+      "name": "1107 S. Second St",
+      "propertyNodeId": "bankier:6960",
+      "propertyUrl": "https://www.1107bankierapartments.com/",
+      "sourceName": "Bankier Apartments",
+      "sourceUrl": "https://bankierapartments.com/",
+      "sourceLogoUrl": "https://bankierapartments.com/wp-content/uploads/2022/05/Bankier_Logo_Med_Green_RGB-1.png",
+      "source": {
+        "assetHosts": [
+          "bankierapartments.com",
+          "1107bankierapartments.com"
+        ]
+      },
+      "address": {
+        "street": "1107 S. Second St.",
+        "locality": "Champaign",
+        "region": "IL",
+        "postalCode": "61820",
+        "source": "Bankier public property-search card"
+      },
+      "mapPoint": {
+        "latitude": 40.10448,
+        "longitude": -88.237955,
+        "source": "Bankier public property-search coordinates"
+      },
+      "availabilityStatus": "advertised",
+      "offers": [
+        {
+          "unitTypeNodeId": "bankier:6960:public-range",
+          "title": "Published availability range",
+          "bedrooms": "0–4",
+          "bathrooms": "1–2",
+          "rent": {
+            "perMonthUsd": {
+              "min": 840,
+              "max": 2750,
+              "display": "$840–$2,750"
+            }
+          },
+          "availableTerms": [],
+          "statusText": "Listed as available; timing not stated"
+        }
+      ],
+      "representativeFloorplan": {
+        "label": "Published availability range",
+        "bedrooms": "0–4",
+        "bathrooms": "1–2",
+        "availabilityStatus": "Listed as available; timing not stated",
+        "availabilityRows": [],
+        "utilitiesIncludedInFee": [],
+        "amenities": [
+          "Air Conditioner",
+          "Availability 24 Hours",
+          "Bike Racks",
+          "Ceiling Fan",
+          "Controlled Access Gated",
+          "Covered Parking",
+          "Dishwasher",
+          "Disposal",
+          "Elevator",
+          "Furnished",
+          "Garage",
+          "Hardwood Floors",
+          "High Speed Internet",
+          "Microwave",
+          "Off Street Parking",
+          "Patio Balcony",
+          "Recreation Room",
+          "Recycling",
+          "Refrigerator",
+          "Study Lounge",
+          "Washer Dryer"
+        ],
+        "floorplanImage": null,
+        "photoSamples": [
+          "https://bankierapartments.com/wp-content/uploads/2023/08/1107_006-web.jpg"
+        ]
+      }
+    },
+    {
+      "name": "202 E. Green St",
+      "propertyNodeId": "bankier:6961",
+      "propertyUrl": "https://www.202bankierapartments.com/",
+      "sourceName": "Bankier Apartments",
+      "sourceUrl": "https://bankierapartments.com/",
+      "sourceLogoUrl": "https://bankierapartments.com/wp-content/uploads/2022/05/Bankier_Logo_Med_Green_RGB-1.png",
+      "source": {
+        "assetHosts": [
+          "bankierapartments.com",
+          "202bankierapartments.com"
+        ]
+      },
+      "address": {
+        "street": "202 E. Green St.",
+        "locality": "Champaign",
+        "region": "IL",
+        "postalCode": "61820",
+        "source": "Bankier public property-search card"
+      },
+      "mapPoint": {
+        "latitude": 40.110553,
+        "longitude": -88.236607,
+        "source": "Bankier public property-search coordinates"
+      },
+      "availabilityStatus": "advertised",
+      "offers": [
+        {
+          "unitTypeNodeId": "bankier:6961:public-range",
+          "title": "Published availability range",
+          "bedrooms": "1–4",
+          "bathrooms": "1–3",
+          "rent": {
+            "perMonthUsd": {
+              "min": 1050,
+              "max": 2880,
+              "display": "$1,050–$2,880"
+            }
+          },
+          "availableTerms": [],
+          "statusText": "Listed as available; timing not stated"
+        }
+      ],
+      "representativeFloorplan": {
+        "label": "Published availability range",
+        "bedrooms": "1–4",
+        "bathrooms": "1–3",
+        "availabilityStatus": "Listed as available; timing not stated",
+        "availabilityRows": [],
+        "utilitiesIncludedInFee": [],
+        "amenities": [
+          "Air Conditioner",
+          "Bike Racks",
+          "Ceiling Fan",
+          "Controlled Access Gated",
+          "Covered Parking",
+          "Dishwasher",
+          "Disposal",
+          "Electronic Thermostat",
+          "Elevator",
+          "Fitness Center",
+          "Furnished",
+          "Garage",
+          "Hardwood Floors",
+          "High Speed Internet",
+          "Microwave",
+          "On Site Maintenance",
+          "Patio Balcony",
+          "Refrigerator",
+          "View",
+          "Washer Dryer"
+        ],
+        "floorplanImage": null,
+        "photoSamples": [
+          "https://bankierapartments.com/wp-content/uploads/2023/08/202_green_Bankier_013071323w.jpg"
+        ]
+      }
+    },
+    {
+      "name": "406 E. Green St",
+      "propertyNodeId": "bankier:6963",
+      "propertyUrl": "https://www.406bankierapartments.com/",
+      "sourceName": "Bankier Apartments",
+      "sourceUrl": "https://bankierapartments.com/",
+      "sourceLogoUrl": "https://bankierapartments.com/wp-content/uploads/2022/05/Bankier_Logo_Med_Green_RGB-1.png",
+      "source": {
+        "assetHosts": [
+          "bankierapartments.com",
+          "406bankierapartments.com"
+        ]
+      },
+      "address": {
+        "street": "406 E. Green St.",
+        "locality": "Champaign",
+        "region": "IL",
+        "postalCode": "61820",
+        "source": "Bankier public property-search card"
+      },
+      "mapPoint": {
+        "latitude": 40.110443,
+        "longitude": -88.232921,
+        "source": "Bankier public property-search coordinates"
+      },
+      "availabilityStatus": "advertised",
+      "offers": [
+        {
+          "unitTypeNodeId": "bankier:6963:public-range",
+          "title": "Published availability range",
+          "bedrooms": "0–1",
+          "bathrooms": 1,
+          "rent": {
+            "perMonthUsd": {
+              "min": 595,
+              "max": 875,
+              "display": "$595–$875"
+            }
+          },
+          "availableTerms": [],
+          "statusText": "Listed as available; timing not stated"
+        }
+      ],
+      "representativeFloorplan": {
+        "label": "Published availability range",
+        "bedrooms": "0–1",
+        "bathrooms": 1,
+        "availabilityStatus": "Listed as available; timing not stated",
+        "availabilityRows": [],
+        "utilitiesIncludedInFee": [],
+        "amenities": [
+          "Bike Racks",
+          "Controlled Access Gated",
+          "Fitness Center",
+          "High Speed Internet"
+        ],
+        "floorplanImage": null,
+        "photoSamples": [
+          "https://bankierapartments.com/wp-content/uploads/2023/08/406-Bankier_018071323w.jpg"
+        ]
+      }
+    },
+    {
+      "name": "408 E. Green St",
+      "propertyNodeId": "bankier:6964",
+      "propertyUrl": "https://www.408bankierapartments.com/",
+      "sourceName": "Bankier Apartments",
+      "sourceUrl": "https://bankierapartments.com/",
+      "sourceLogoUrl": "https://bankierapartments.com/wp-content/uploads/2022/05/Bankier_Logo_Med_Green_RGB-1.png",
+      "source": {
+        "assetHosts": [
+          "bankierapartments.com",
+          "408bankierapartments.com"
+        ]
+      },
+      "address": {
+        "street": "408 E. Green St.",
+        "locality": "Champaign",
+        "region": "IL",
+        "postalCode": "61820",
+        "source": "Bankier public property-search card"
+      },
+      "mapPoint": {
+        "latitude": 40.110431,
+        "longitude": -88.23268,
+        "source": "Bankier public property-search coordinates"
+      },
+      "availabilityStatus": "advertised",
+      "offers": [
+        {
+          "unitTypeNodeId": "bankier:6964:public-range",
+          "title": "Published availability range",
+          "bedrooms": "1–3",
+          "bathrooms": "1–2",
+          "rent": {
+            "perMonthUsd": {
+              "min": 950,
+              "max": 2025,
+              "display": "$950–$2,025"
+            }
+          },
+          "availableTerms": [],
+          "statusText": "Listed as available; timing not stated"
+        }
+      ],
+      "representativeFloorplan": {
+        "label": "Published availability range",
+        "bedrooms": "1–3",
+        "bathrooms": "1–2",
+        "availabilityStatus": "Listed as available; timing not stated",
+        "availabilityRows": [],
+        "utilitiesIncludedInFee": [],
+        "amenities": [
+          "Air Conditioner",
+          "Bike Racks",
+          "Business Center",
+          "Carpeting",
+          "Ceiling Fan",
+          "Controlled Access Gated",
+          "Dishwasher",
+          "Elevator",
+          "Fitness Center",
+          "Furnished",
+          "Garage",
+          "Gas Range",
+          "Hardwood Floors",
+          "High Speed Internet",
+          "Microwave",
+          "On Site Maintenance",
+          "On Site Management",
+          "Patio Balcony",
+          "Recycling",
+          "Refrigerator",
+          "Washer Dryer"
+        ],
+        "floorplanImage": null,
+        "photoSamples": [
+          "https://bankierapartments.com/wp-content/uploads/2023/08/408_Bankier_016071323w.jpg"
+        ]
+      }
+    },
+    {
+      "name": "621 E. Green St",
+      "propertyNodeId": "bankier:6969",
+      "propertyUrl": "https://www.621bankierapartments.com/",
+      "sourceName": "Bankier Apartments",
+      "sourceUrl": "https://bankierapartments.com/",
+      "sourceLogoUrl": "https://bankierapartments.com/wp-content/uploads/2022/05/Bankier_Logo_Med_Green_RGB-1.png",
+      "source": {
+        "assetHosts": [
+          "bankierapartments.com",
+          "621bankierapartments.com"
+        ]
+      },
+      "address": {
+        "street": "621 E. Green St.",
+        "locality": "Champaign",
+        "region": "IL",
+        "postalCode": "61820",
+        "source": "Bankier public property-search card"
+      },
+      "mapPoint": {
+        "latitude": 40.110071,
+        "longitude": -88.229497,
+        "source": "Bankier public property-search coordinates"
+      },
+      "availabilityStatus": "advertised",
+      "offers": [
+        {
+          "unitTypeNodeId": "bankier:6969:public-range",
+          "title": "Published availability range",
+          "bedrooms": 4,
+          "bathrooms": 3,
+          "rent": {
+            "perMonthUsd": {
+              "min": 3000,
+              "max": 3000,
+              "display": "$3,000"
+            }
+          },
+          "availableTerms": [],
+          "statusText": "Listed as available; timing not stated"
+        }
+      ],
+      "representativeFloorplan": {
+        "label": "Published availability range",
+        "bedrooms": 4,
+        "bathrooms": 3,
+        "availabilityStatus": "Listed as available; timing not stated",
+        "availabilityRows": [],
+        "utilitiesIncludedInFee": [],
+        "amenities": [
+          "Controlled Access Gated",
+          "Fitness Center",
+          "High Speed Internet"
+        ],
+        "floorplanImage": null,
+        "photoSamples": [
+          "https://bankierapartments.com/wp-content/uploads/2023/08/621w.jpg"
+        ]
+      }
+    },
+    {
+      "name": "624 S. Fifth St",
+      "propertyNodeId": "bankier:6970",
+      "propertyUrl": "https://www.624bankierapartments.com/",
+      "sourceName": "Bankier Apartments",
+      "sourceUrl": "https://bankierapartments.com/",
+      "sourceLogoUrl": "https://bankierapartments.com/wp-content/uploads/2022/05/Bankier_Logo_Med_Green_RGB-1.png",
+      "source": {
+        "assetHosts": [
+          "bankierapartments.com",
+          "624bankierapartments.com"
+        ]
+      },
+      "address": {
+        "street": "624 S. Fifth St.",
+        "locality": "Champaign",
+        "region": "IL",
+        "postalCode": "61820",
+        "source": "Bankier public property-search card"
+      },
+      "mapPoint": {
+        "latitude": 40.110725,
+        "longitude": -88.231936,
+        "source": "Bankier public property-search coordinates"
+      },
+      "availabilityStatus": "advertised",
+      "offers": [
+        {
+          "unitTypeNodeId": "bankier:6970:public-range",
+          "title": "Published availability range",
+          "bedrooms": 1,
+          "bathrooms": 1,
+          "rent": {
+            "perMonthUsd": {
+              "min": 995,
+              "max": 995,
+              "display": "$995"
+            }
+          },
+          "availableTerms": [],
+          "statusText": "Listed as available; timing not stated"
+        }
+      ],
+      "representativeFloorplan": {
+        "label": "Published availability range",
+        "bedrooms": 1,
+        "bathrooms": 1,
+        "availabilityStatus": "Listed as available; timing not stated",
+        "availabilityRows": [],
+        "utilitiesIncludedInFee": [],
+        "amenities": [
+          "Controlled Access Gated",
+          "Fitness Center",
+          "Free Weights"
+        ],
+        "floorplanImage": null,
+        "photoSamples": [
+          "https://bankierapartments.com/wp-content/uploads/2023/08/624_w.jpg"
+        ]
+      }
+    }
+  ]
+}
