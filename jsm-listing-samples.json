@@ -4,11 +4,11 @@
     "source": "JSM Living official public website",
     "availabilityUrl": "https://www.jsmliving.com/search-available-units",
     "directoryUrl": "https://www.jsmliving.com/buildings",
-    "capturedOn": "2026-10-14",
+    "capturedOn": "2026-10-31",
     "method": "Public building directory and availability cards; coordinates, photos and details from official building pages.",
     "buildingCount": 47,
-    "advertisedBuildingCount": 43,
-    "advertisedLayoutCount": 74,
+    "advertisedBuildingCount": 33,
+    "advertisedLayoutCount": 42,
     "limitations": "Offers are advertised floor-plan types, not unit inventory. No-availability properties are present but not marked for rent. Coordinates are JSM map pins, not verified footprint centroids.",
     "futureRefreshRequirement": {
       "cadenceHours": 24,
@@ -45,55 +45,13 @@
           "rent": {
             "perUnitUsd": {
               "min": 1790,
-              "max": 1930,
-              "display": "$1790-1930/Unit"
+              "max": 1950,
+              "display": "$1790-1950/Unit"
             },
             "perPersonUsd": {
               "min": 895,
-              "max": 965,
-              "display": "$895.00 - $965.00/Person"
-            }
-          },
-          "availableTerms": [
-            "Fall 2027"
-          ],
-          "statusText": "Now Leasing for Fall 2027!"
-        },
-        {
-          "unitTypeNodeId": "129346",
-          "bedrooms": 4,
-          "bathrooms": 2,
-          "rent": {
-            "perUnitUsd": {
-              "min": 3480,
-              "max": 3480,
-              "display": "$3480/Unit"
-            },
-            "perPersonUsd": {
-              "min": 870,
-              "max": 870,
-              "display": "$870.00/Person"
-            }
-          },
-          "availableTerms": [
-            "Fall 2027"
-          ],
-          "statusText": "Now Leasing for Fall 2027!"
-        },
-        {
-          "unitTypeNodeId": "129362",
-          "bedrooms": 5,
-          "bathrooms": 3,
-          "rent": {
-            "perUnitUsd": {
-              "min": 4025,
-              "max": 4025,
-              "display": "$4025/Unit"
-            },
-            "perPersonUsd": {
-              "min": 805,
-              "max": 805,
-              "display": "$805.00/Person"
+              "max": 975,
+              "display": "$895.00 - $975.00/Person"
             }
           },
           "availableTerms": [
@@ -109,7 +67,7 @@
         "availabilityRows": [
           {
             "term": "Fall 2027",
-            "rentUsd": 1830,
+            "rentUsd": 1850,
             "unitUtilityFeeUsd": 89
           }
         ],
@@ -165,8 +123,8 @@
           "rent": {
             "perUnitUsd": {
               "min": 900,
-              "max": 965,
-              "display": "$900-965/Unit"
+              "max": 975,
+              "display": "$900-975/Unit"
             }
           },
           "availableTerms": [
@@ -258,7 +216,7 @@
           "availableTerms": [
             "Fall 2027"
           ],
-          "statusText": "Coming Soon for Fall 2027!"
+          "statusText": "Now Leasing for Fall 2027!"
         }
       ],
       "representativeFloorplan": {
@@ -392,26 +350,10 @@
         "latitude": 40.111461413378,
         "longitude": -88.22026055,
         "source": "JSM property detail page latitude/longitude metadata",
-        "mapPointUnitId": "129497"
+        "mapPointUnitId": "129492"
       },
       "availabilityStatus": "advertised",
       "offers": [
-        {
-          "unitTypeNodeId": "129497",
-          "bedrooms": 0,
-          "bathrooms": 1,
-          "rent": {
-            "perUnitUsd": {
-              "min": 815,
-              "max": 815,
-              "display": "$815/Unit"
-            }
-          },
-          "availableTerms": [
-            "Fall 2027"
-          ],
-          "statusText": "Coming Soon for Fall 2027!"
-        },
         {
           "unitTypeNodeId": "129492",
           "bedrooms": 1,
@@ -426,12 +368,12 @@
           "availableTerms": [
             "Fall 2027"
           ],
-          "statusText": "Coming Soon for Fall 2027!"
+          "statusText": "Now Leasing for Fall 2027!"
         }
       ],
       "representativeFloorplan": {
-        "label": "Standard",
-        "bedrooms": 0,
+        "label": "A",
+        "bedrooms": 1,
         "bathrooms": 1,
         "availabilityRows": [],
         "utilitiesIncludedInFee": [
@@ -446,14 +388,14 @@
           "JSM Fitness Center Access",
           "JSM Student Center Access"
         ],
-        "floorplanImage": "https://www.jsmliving.com/sites/default/files/2024-10/110G-STUDIO-A%20PLAN-COLOR.jpg",
+        "floorplanImage": "https://www.jsmliving.com/sites/default/files/2024-10/110G-1BR-A%20PLAN-COLOR.jpg",
         "photoSamples": [
           "https://www.jsmliving.com/sites/default/files/2021-07/110%20S%20Gregory%20St%203%20Urbana%20IL-large-001-004-Exterior-1500x1000-72dpi.jpg",
           "https://www.jsmliving.com/sites/default/files/2021-06/110%20S%20Gregory%20St%203%20Urbana%20IL-large-006-010-Exterior-1500x1000-72dpi.jpg",
           "https://www.jsmliving.com/sites/default/files/2021-06/110%20S%20Gregory%20St%203%20Urbana%20IL-large-007-006-Exterior-1500x1000-72dpi.jpg",
-          "https://www.jsmliving.com/sites/default/files/2021-07/110%20S%20Gregory%20St%203%20Urbana%20IL-large-014-013-Bedroom-1500x1000-72dpi.jpg",
-          "https://www.jsmliving.com/sites/default/files/2021-07/110%20S%20Gregory%20St%203%20Urbana%20IL-large-016-015-Bedroom-1500x1000-72dpi.jpg",
-          "https://www.jsmliving.com/sites/default/files/2021-07/110%20S%20Gregory%20St%203%20Urbana%20IL-large-008-007-Bedroom-1500x1000-72dpi.jpg"
+          "https://www.jsmliving.com/sites/default/files/2021-07/1.jpg",
+          "https://www.jsmliving.com/sites/default/files/2021-07/file4-2.jpeg",
+          "https://www.jsmliving.com/sites/default/files/2021-07/file2-2.jpeg"
         ]
       }
     },
@@ -475,64 +417,15 @@
         "latitude": 40.111151713378,
         "longitude": -88.23682655,
         "source": "JSM property detail page latitude/longitude metadata",
-        "mapPointUnitId": "129505"
+        "mapPointUnitId": null
       },
-      "availabilityStatus": "advertised",
-      "offers": [
-        {
-          "unitTypeNodeId": "129505",
-          "bedrooms": 3,
-          "bathrooms": 2,
-          "rent": {
-            "perUnitUsd": {
-              "min": 2235,
-              "max": 2235,
-              "display": "$2235/Unit"
-            },
-            "perPersonUsd": {
-              "min": 745,
-              "max": 745,
-              "display": "$745.00/Person"
-            }
-          },
-          "availableTerms": [
-            "Fall 2027"
-          ],
-          "statusText": "Now Leasing for Fall 2027!"
-        },
-        {
-          "unitTypeNodeId": "129516",
-          "bedrooms": 4,
-          "bathrooms": 2,
-          "rent": {
-            "perUnitUsd": {
-              "min": 2940,
-              "max": 2940,
-              "display": "$2940/Unit"
-            },
-            "perPersonUsd": {
-              "min": 735,
-              "max": 735,
-              "display": "$735.00/Person"
-            }
-          },
-          "availableTerms": [
-            "Fall 2027"
-          ],
-          "statusText": "Now Leasing for Fall 2027!"
-        }
-      ],
+      "availabilityStatus": "not_advertised",
+      "offers": [],
       "representativeFloorplan": {
         "label": "Upgraded",
         "bedrooms": 3,
         "bathrooms": 2,
-        "availabilityRows": [
-          {
-            "term": "Fall 2027",
-            "rentUsd": 2235,
-            "unitUtilityFeeUsd": 157
-          }
-        ],
+        "availabilityRows": [],
         "utilitiesIncludedInFee": [
           "Water",
           "Sewer",
@@ -593,7 +486,7 @@
           "availableTerms": [
             "Fall 2027"
           ],
-          "statusText": "Coming Soon for Fall 2027!"
+          "statusText": "Now Leasing for Fall 2027!"
         }
       ],
       "representativeFloorplan": {
@@ -661,7 +554,7 @@
           "availableTerms": [
             "Fall 2027"
           ],
-          "statusText": "Coming Soon for Fall 2027!"
+          "statusText": "Now Leasing for Fall 2027!"
         }
       ],
       "representativeFloorplan": {
@@ -712,12 +605,12 @@
         "latitude": 40.114467163379,
         "longitude": -88.24047405,
         "source": "JSM property detail page latitude/longitude metadata",
-        "mapPointUnitId": "132483"
+        "mapPointUnitId": "132484"
       },
       "availabilityStatus": "advertised",
       "offers": [
         {
-          "unitTypeNodeId": "132483",
+          "unitTypeNodeId": "132484",
           "bedrooms": 4,
           "bathrooms": 2,
           "rent": {
@@ -739,7 +632,7 @@
         }
       ],
       "representativeFloorplan": {
-        "label": "FP2",
+        "label": "FP3",
         "bedrooms": 4,
         "bathrooms": 2,
         "availabilityRows": [
@@ -763,11 +656,11 @@
         "floorplanImage": null,
         "photoSamples": [
           "https://www.jsmliving.com/sites/default/files/2022-05/559A8621.JPG",
-          "https://www.jsmliving.com/sites/default/files/2024-10/301W-UNIT%202%20COLOR.jpg",
-          "https://www.jsmliving.com/sites/default/files/2021-10/Kitchen_0.JPG",
-          "https://www.jsmliving.com/sites/default/files/2021-10/Kitchen%202_0.JPG",
-          "https://www.jsmliving.com/sites/default/files/2021-10/Kitchen-Living%203.JPG",
-          "https://www.jsmliving.com/sites/default/files/2021-10/Kitchen%20-%20Living.JPG"
+          "https://www.jsmliving.com/sites/default/files/2024-10/301W-UNIT%203%20COLOR_0.jpg",
+          "https://www.jsmliving.com/sites/default/files/2021-10/2%20Bathroom%20.JPG",
+          "https://www.jsmliving.com/sites/default/files/2021-10/2%20Bathroom%202.JPG",
+          "https://www.jsmliving.com/sites/default/files/2021-10/301Wunit3-1.jpg",
+          "https://www.jsmliving.com/sites/default/files/2021-10/301Wunit3-2.jpg"
         ]
       }
     },
@@ -869,43 +762,15 @@
         "latitude": 40.114082463379,
         "longitude": -88.22931735,
         "source": "JSM property detail page latitude/longitude metadata",
-        "mapPointUnitId": "129612"
+        "mapPointUnitId": null
       },
-      "availabilityStatus": "advertised",
-      "offers": [
-        {
-          "unitTypeNodeId": "129612",
-          "bedrooms": 2,
-          "bathrooms": 1,
-          "rent": {
-            "perUnitUsd": {
-              "min": 1690,
-              "max": 1710,
-              "display": "$1690-1710/Unit"
-            },
-            "perPersonUsd": {
-              "min": 845,
-              "max": 855,
-              "display": "$845.00 - $855.00/Person"
-            }
-          },
-          "availableTerms": [
-            "Fall 2027"
-          ],
-          "statusText": "Now Leasing for Fall 2027!"
-        }
-      ],
+      "availabilityStatus": "not_advertised",
+      "offers": [],
       "representativeFloorplan": {
         "label": "A Upgraded",
         "bedrooms": 2,
         "bathrooms": 1,
-        "availabilityRows": [
-          {
-            "term": "Fall 2027",
-            "rentUsd": 1710,
-            "unitUtilityFeeUsd": 86
-          }
-        ],
+        "availabilityRows": [],
         "utilitiesIncludedInFee": [
           "Sewer",
           "Recycling",
@@ -949,85 +814,15 @@
         "latitude": 40.105705263375,
         "longitude": -88.2346455,
         "source": "JSM property detail page latitude/longitude metadata",
-        "mapPointUnitId": "129634"
+        "mapPointUnitId": null
       },
-      "availabilityStatus": "advertised",
-      "offers": [
-        {
-          "unitTypeNodeId": "129634",
-          "bedrooms": 3,
-          "bathrooms": 1,
-          "rent": {
-            "perUnitUsd": {
-              "min": 2610,
-              "max": 2655,
-              "display": "$2610-2655/Unit"
-            },
-            "perPersonUsd": {
-              "min": 870,
-              "max": 885,
-              "display": "$870.00 - $885.00/Person"
-            }
-          },
-          "availableTerms": [
-            "Fall 2027"
-          ],
-          "statusText": "Now Leasing for Fall 2027!"
-        },
-        {
-          "unitTypeNodeId": "129646",
-          "bedrooms": 5,
-          "bathrooms": 2,
-          "rent": {
-            "perUnitUsd": {
-              "min": 4100,
-              "max": 4100,
-              "display": "$4100/Unit"
-            },
-            "perPersonUsd": {
-              "min": 820,
-              "max": 820,
-              "display": "$820.00/Person"
-            }
-          },
-          "availableTerms": [
-            "Fall 2027"
-          ],
-          "statusText": "Now Leasing for Fall 2027!"
-        },
-        {
-          "unitTypeNodeId": "129643",
-          "bedrooms": 5,
-          "bathrooms": 3,
-          "rent": {
-            "perUnitUsd": {
-              "min": 4150,
-              "max": 4150,
-              "display": "$4150/Unit"
-            },
-            "perPersonUsd": {
-              "min": 830,
-              "max": 830,
-              "display": "$830.00/Person"
-            }
-          },
-          "availableTerms": [
-            "Fall 2027"
-          ],
-          "statusText": "Now Leasing for Fall 2027!"
-        }
-      ],
+      "availabilityStatus": "not_advertised",
+      "offers": [],
       "representativeFloorplan": {
         "label": "A",
         "bedrooms": 3,
         "bathrooms": 1,
-        "availabilityRows": [
-          {
-            "term": "Fall 2027",
-            "rentUsd": 2610,
-            "unitUtilityFeeUsd": 153
-          }
-        ],
+        "availabilityRows": [],
         "utilitiesIncludedInFee": [
           "Water",
           "Sewer",
@@ -1071,12 +866,12 @@
         "latitude": 40.105184413375,
         "longitude": -88.2345992,
         "source": "JSM property detail page latitude/longitude metadata",
-        "mapPointUnitId": "129706"
+        "mapPointUnitId": "129650"
       },
       "availabilityStatus": "advertised",
       "offers": [
         {
-          "unitTypeNodeId": "129706",
+          "unitTypeNodeId": "129650",
           "bedrooms": 0,
           "bathrooms": 1,
           "rent": {
@@ -1089,11 +884,11 @@
           "availableTerms": [
             "Fall 2027"
           ],
-          "statusText": "Coming Soon for Fall 2027!"
+          "statusText": "Now Leasing for Fall 2027!"
         }
       ],
       "representativeFloorplan": {
-        "label": "B Standard",
+        "label": "Corner",
         "bedrooms": 0,
         "bathrooms": 1,
         "availabilityRows": [],
@@ -1113,14 +908,14 @@
           "JSM Fitness Center Access",
           "JSM Student Center Access"
         ],
-        "floorplanImage": "https://www.jsmliving.com/sites/default/files/2024-11/307A-%20%23314%20FLOOR%20PLAN%20B%20COLOR.jpg",
+        "floorplanImage": "https://www.jsmliving.com/sites/default/files/2024-10/307A-PLAN%20COLOR.jpg",
         "photoSamples": [
           "https://www.jsmliving.com/sites/default/files/2025-07/307%20Armory%20Unit%20105%20Champaign-large-003-018-Exterior-1500x1000-72dpi.jpg",
           "https://www.jsmliving.com/sites/default/files/2022-10/307%20E%20Armory%20Champaign%20IL-large-003-004-Exterior-1500x1000-72dpi.jpg",
-          "https://www.jsmliving.com/sites/default/files/2021-07/307A_111-6.jpg",
-          "https://www.jsmliving.com/sites/default/files/2021-07/307A_111-10.jpg",
-          "https://www.jsmliving.com/sites/default/files/2021-07/307A_111-1.jpg",
-          "https://www.jsmliving.com/sites/default/files/2021-07/307A_111-3.jpg"
+          "https://www.jsmliving.com/sites/default/files/2023-06/307%20E%20Armory%20Unit%20302-large-004-002-Entryway-667x1000-72dpi.jpg",
+          "https://www.jsmliving.com/sites/default/files/2023-06/307%20E%20Armory%20Unit%20302-large-005-014-Kitchen-1500x1000-72dpi.jpg",
+          "https://www.jsmliving.com/sites/default/files/2023-06/307%20E%20Armory%20Unit%20302-large-006-010-Kitchen-1500x1000-72dpi.jpg",
+          "https://www.jsmliving.com/sites/default/files/2023-06/307%20E%20Armory%20Unit%20302-large-007-007-Kitchen-1500x1000-72dpi.jpg"
         ]
       }
     },
@@ -1142,45 +937,24 @@
         "latitude": 40.105684813375,
         "longitude": -88.23432355,
         "source": "JSM property detail page latitude/longitude metadata",
-        "mapPointUnitId": "129712"
+        "mapPointUnitId": "129724"
       },
       "availabilityStatus": "advertised",
       "offers": [
-        {
-          "unitTypeNodeId": "129712",
-          "bedrooms": 2,
-          "bathrooms": 2,
-          "rent": {
-            "perUnitUsd": {
-              "min": 2020,
-              "max": 2020,
-              "display": "$2020/Unit"
-            },
-            "perPersonUsd": {
-              "min": 1010,
-              "max": 1010,
-              "display": "$1,010.00/Person"
-            }
-          },
-          "availableTerms": [
-            "Fall 2027"
-          ],
-          "statusText": "Now Leasing for Fall 2027!"
-        },
         {
           "unitTypeNodeId": "129724",
           "bedrooms": 4,
           "bathrooms": 2,
           "rent": {
             "perUnitUsd": {
-              "min": 3720,
-              "max": 3720,
-              "display": "$3720/Unit"
+              "min": 3760,
+              "max": 3760,
+              "display": "$3760/Unit"
             },
             "perPersonUsd": {
-              "min": 930,
-              "max": 930,
-              "display": "$930.00/Person"
+              "min": 940,
+              "max": 940,
+              "display": "$940.00/Person"
             }
           },
           "availableTerms": [
@@ -1190,19 +964,20 @@
         }
       ],
       "representativeFloorplan": {
-        "label": "A",
-        "bedrooms": 2,
+        "label": "Standard",
+        "bedrooms": 4,
         "bathrooms": 2,
         "availabilityRows": [
           {
             "term": "Fall 2027",
-            "rentUsd": 2020,
-            "unitUtilityFeeUsd": 87
+            "rentUsd": 3760,
+            "unitUtilityFeeUsd": 123
           }
         ],
         "utilitiesIncludedInFee": [
           "Sewer",
-          "Recycling & Internet"
+          "Recycling",
+          "and Internet"
         ],
         "amenities": [
           "Secure Entry with Intercom",
@@ -1212,14 +987,14 @@
           "JSM Fitness Center Access",
           "JSM Student Center Access"
         ],
-        "floorplanImage": "https://www.jsmliving.com/sites/default/files/2024-10/308A-2BR%20A-PHASE%202%20MKTG%20PLAN%20COLOR.jpg",
+        "floorplanImage": "https://www.jsmliving.com/sites/default/files/2024-10/308A-4BR-PHASE%202%20MKTG%20PLAN%20COLOR.jpg",
         "photoSamples": [
           "https://www.jsmliving.com/sites/default/files/2021-07/308%20E%20Armory%20108%20Champaign%20IL-large-001-031-Exterior-1500x1000-72dpi.jpg",
           "https://www.jsmliving.com/sites/default/files/2021-06/308%20E%20Armory%20108%20Champaign%20IL-large-004-030-Exterior-1500x1000-72dpi_0.jpg",
           "https://www.jsmliving.com/sites/default/files/2021-07/308%20E%20Armory%20108%20Champaign%20IL-large-006-018-Exterior-1500x1000-72dpi.jpg",
           "https://www.jsmliving.com/sites/default/files/2021-06/308%20E%20Armory%20108%20Champaign%20IL-large-003-028-Exterior-1500x1000-72dpi.jpg",
-          "https://www.jsmliving.com/sites/default/files/2021-07/308%20E%20Armory%20Unit%20201-large-006-003-Kitchen-1500x999-72dpi.jpg",
-          "https://www.jsmliving.com/sites/default/files/2021-07/308%20E%20Armory%20Unit%20201-large-007-010-Kitchen-1500x999-72dpi.jpg"
+          "https://www.jsmliving.com/sites/default/files/2021-09/308%20E%20Armory%20Unit%20208-large-003-008-Kitchen-1500x1000-72dpi.jpg",
+          "https://www.jsmliving.com/sites/default/files/2021-09/308%20E%20Armory%20Unit%20208-large-005-022-Kitchen-1500x1000-72dpi.jpg"
         ]
       }
     },
@@ -1259,23 +1034,7 @@
           "availableTerms": [
             "Fall 2027"
           ],
-          "statusText": "Coming Soon for Fall 2027!"
-        },
-        {
-          "unitTypeNodeId": "129900",
-          "bedrooms": 1,
-          "bathrooms": 1,
-          "rent": {
-            "perUnitUsd": {
-              "min": 1004,
-              "max": 1014,
-              "display": "$1004-1014/Unit"
-            }
-          },
-          "availableTerms": [
-            "Fall 2027"
-          ],
-          "statusText": "Coming Soon for Fall 2027!"
+          "statusText": "Now Leasing for Fall 2027!"
         }
       ],
       "representativeFloorplan": {
@@ -1329,43 +1088,15 @@
         "latitude": 40.114175713379,
         "longitude": -88.23306335,
         "source": "JSM property detail page latitude/longitude metadata",
-        "mapPointUnitId": "129911"
+        "mapPointUnitId": null
       },
-      "availabilityStatus": "advertised",
-      "offers": [
-        {
-          "unitTypeNodeId": "129911",
-          "bedrooms": 2,
-          "bathrooms": 1,
-          "rent": {
-            "perUnitUsd": {
-              "min": 1700,
-              "max": 1700,
-              "display": "$1700/Unit"
-            },
-            "perPersonUsd": {
-              "min": 850,
-              "max": 850,
-              "display": "$850.00/Person"
-            }
-          },
-          "availableTerms": [
-            "Fall 2027"
-          ],
-          "statusText": "Now Leasing for Fall 2027!"
-        }
-      ],
+      "availabilityStatus": "not_advertised",
+      "offers": [],
       "representativeFloorplan": {
         "label": "Standard",
         "bedrooms": 2,
         "bathrooms": 1,
-        "availabilityRows": [
-          {
-            "term": "Fall 2027",
-            "rentUsd": 1700,
-            "unitUtilityFeeUsd": 142
-          }
-        ],
+        "availabilityRows": [],
         "utilitiesIncludedInFee": [
           "Water",
           "Sewer",
@@ -1417,15 +1148,15 @@
           "bathrooms": 1,
           "rent": {
             "perUnitUsd": {
-              "min": 1000,
-              "max": 1000,
-              "display": "$1000/Unit"
+              "min": 1005,
+              "max": 1005,
+              "display": "$1005/Unit"
             }
           },
           "availableTerms": [
             "Fall 2027"
           ],
-          "statusText": "Coming Soon for Fall 2027!"
+          "statusText": "Now Leasing for Fall 2027!"
         }
       ],
       "representativeFloorplan": {
@@ -1486,8 +1217,8 @@
           "rent": {
             "perUnitUsd": {
               "min": 995,
-              "max": 1050,
-              "display": "$995-1050/Unit"
+              "max": 1060,
+              "display": "$995-1060/Unit"
             }
           },
           "availableTerms": [
@@ -1501,9 +1232,9 @@
           "bathrooms": 1,
           "rent": {
             "perUnitUsd": {
-              "min": 1195,
+              "min": 1205,
               "max": 1325,
-              "display": "$1195-1325/Unit"
+              "display": "$1205-1325/Unit"
             }
           },
           "availableTerms": [
@@ -1570,9 +1301,9 @@
           "bathrooms": 1,
           "rent": {
             "perUnitUsd": {
-              "min": 1285,
-              "max": 1315,
-              "display": "$1285-1315/Unit"
+              "min": 1295,
+              "max": 1325,
+              "display": "$1295-1325/Unit"
             }
           },
           "availableTerms": [
@@ -1628,85 +1359,15 @@
         "latitude": 40.111152363378,
         "longitude": -88.2318395,
         "source": "JSM property detail page latitude/longitude metadata",
-        "mapPointUnitId": "190531"
+        "mapPointUnitId": null
       },
-      "availabilityStatus": "advertised",
-      "offers": [
-        {
-          "unitTypeNodeId": "190531",
-          "bedrooms": 3,
-          "bathrooms": 1,
-          "rent": {
-            "perUnitUsd": {
-              "min": 2505,
-              "max": 2535,
-              "display": "$2505-2535/Unit"
-            },
-            "perPersonUsd": {
-              "min": 835,
-              "max": 845,
-              "display": "$835.00 - $845.00/Person"
-            }
-          },
-          "availableTerms": [
-            "Fall 2027"
-          ],
-          "statusText": "Now Leasing for Fall 2027!"
-        },
-        {
-          "unitTypeNodeId": "130042",
-          "bedrooms": 3,
-          "bathrooms": 2,
-          "rent": {
-            "perUnitUsd": {
-              "min": 2580,
-              "max": 2580,
-              "display": "$2580/Unit"
-            },
-            "perPersonUsd": {
-              "min": 860,
-              "max": 860,
-              "display": "$860.00/Person"
-            }
-          },
-          "availableTerms": [
-            "Fall 2027"
-          ],
-          "statusText": "Now Leasing for Fall 2027!"
-        },
-        {
-          "unitTypeNodeId": "130068",
-          "bedrooms": 5,
-          "bathrooms": 3,
-          "rent": {
-            "perUnitUsd": {
-              "min": 3895,
-              "max": 3895,
-              "display": "$3895/Unit"
-            },
-            "perPersonUsd": {
-              "min": 779,
-              "max": 779,
-              "display": "$779.00/Person"
-            }
-          },
-          "availableTerms": [
-            "Fall 2027"
-          ],
-          "statusText": "Now Leasing for Fall 2027!"
-        }
-      ],
+      "availabilityStatus": "not_advertised",
+      "offers": [],
       "representativeFloorplan": {
         "label": "A",
         "bedrooms": 3,
         "bathrooms": 2,
-        "availabilityRows": [
-          {
-            "term": "Fall 2027",
-            "rentUsd": 2580,
-            "unitUtilityFeeUsd": 161
-          }
-        ],
+        "availabilityRows": [],
         "utilitiesIncludedInFee": [
           "Water",
           "Sewer",
@@ -1760,35 +1421,14 @@
           "bathrooms": 2,
           "rent": {
             "perUnitUsd": {
-              "min": 2040,
-              "max": 2040,
-              "display": "$2040/Unit"
+              "min": 2050,
+              "max": 2050,
+              "display": "$2050/Unit"
             },
             "perPersonUsd": {
-              "min": 1020,
-              "max": 1020,
-              "display": "$1,020.00/Person"
-            }
-          },
-          "availableTerms": [
-            "Fall 2027"
-          ],
-          "statusText": "Now Leasing for Fall 2027!"
-        },
-        {
-          "unitTypeNodeId": "130081",
-          "bedrooms": 4,
-          "bathrooms": 2,
-          "rent": {
-            "perUnitUsd": {
-              "min": 3540,
-              "max": 3540,
-              "display": "$3540/Unit"
-            },
-            "perPersonUsd": {
-              "min": 885,
-              "max": 885,
-              "display": "$885.00/Person"
+              "min": 1025,
+              "max": 1025,
+              "display": "$1,025.00/Person"
             }
           },
           "availableTerms": [
@@ -1804,7 +1444,7 @@
         "availabilityRows": [
           {
             "term": "Fall 2027",
-            "rentUsd": 2040,
+            "rentUsd": 2050,
             "unitUtilityFeeUsd": 188
           }
         ],
@@ -1870,7 +1510,7 @@
           "availableTerms": [
             "Fall 2027"
           ],
-          "statusText": "Coming Soon for Fall 2027!"
+          "statusText": "Now Leasing for Fall 2027!"
         }
       ],
       "representativeFloorplan": {
@@ -1938,7 +1578,7 @@
           "availableTerms": [
             "Fall 2027"
           ],
-          "statusText": "Coming Soon for Fall 2027!"
+          "statusText": "Now Leasing for Fall 2027!"
         }
       ],
       "representativeFloorplan": {
@@ -1991,64 +1631,15 @@
         "latitude": 40.111155263378,
         "longitude": -88.2313499,
         "source": "JSM property detail page latitude/longitude metadata",
-        "mapPointUnitId": "130145"
+        "mapPointUnitId": null
       },
-      "availabilityStatus": "advertised",
-      "offers": [
-        {
-          "unitTypeNodeId": "130145",
-          "bedrooms": 3,
-          "bathrooms": 2,
-          "rent": {
-            "perUnitUsd": {
-              "min": 2580,
-              "max": 2580,
-              "display": "$2580/Unit"
-            },
-            "perPersonUsd": {
-              "min": 860,
-              "max": 860,
-              "display": "$860.00/Person"
-            }
-          },
-          "availableTerms": [
-            "Fall 2027"
-          ],
-          "statusText": "Now Leasing for Fall 2027!"
-        },
-        {
-          "unitTypeNodeId": "130170",
-          "bedrooms": 5,
-          "bathrooms": 2,
-          "rent": {
-            "perUnitUsd": {
-              "min": 4045,
-              "max": 4045,
-              "display": "$4045/Unit"
-            },
-            "perPersonUsd": {
-              "min": 809,
-              "max": 809,
-              "display": "$809.00/Person"
-            }
-          },
-          "availableTerms": [
-            "Fall 2027"
-          ],
-          "statusText": "Now Leasing for Fall 2027!"
-        }
-      ],
+      "availabilityStatus": "not_advertised",
+      "offers": [],
       "representativeFloorplan": {
         "label": "Standard",
         "bedrooms": 3,
         "bathrooms": 2,
-        "availabilityRows": [
-          {
-            "term": "Fall 2027",
-            "rentUsd": 2580,
-            "unitUtilityFeeUsd": 166
-          }
-        ],
+        "availabilityRows": [],
         "utilitiesIncludedInFee": [
           "Water",
           "Sewer",
@@ -2102,9 +1693,9 @@
           "bathrooms": 1,
           "rent": {
             "perUnitUsd": {
-              "min": 1730,
-              "max": 1730,
-              "display": "$1730/Unit"
+              "min": 1800,
+              "max": 1800,
+              "display": "$1800/Unit"
             }
           },
           "availableTerms": [
@@ -2113,35 +1704,14 @@
           "statusText": "Now Leasing for Fall 2027!"
         },
         {
-          "unitTypeNodeId": "245413",
+          "unitTypeNodeId": "245414",
           "bedrooms": 1,
           "bathrooms": 1,
           "rent": {
             "perUnitUsd": {
-              "min": 1160,
-              "max": 2005,
-              "display": "$1160-2005/Unit"
-            }
-          },
-          "availableTerms": [
-            "Fall 2027"
-          ],
-          "statusText": "Now Leasing for Fall 2027!"
-        },
-        {
-          "unitTypeNodeId": "245411",
-          "bedrooms": 3,
-          "bathrooms": 3,
-          "rent": {
-            "perUnitUsd": {
-              "min": 3330,
-              "max": 3330,
-              "display": "$3330/Unit"
-            },
-            "perPersonUsd": {
-              "min": 1110,
-              "max": 1110,
-              "display": "$1,110.00/Person"
+              "min": 1200,
+              "max": 2030,
+              "display": "$1200-2030/Unit"
             }
           },
           "availableTerms": [
@@ -2155,14 +1725,14 @@
           "bathrooms": 4,
           "rent": {
             "perUnitUsd": {
-              "min": 4040,
-              "max": 4040,
-              "display": "$4040/Unit"
+              "min": 4400,
+              "max": 4400,
+              "display": "$4400/Unit"
             },
             "perPersonUsd": {
-              "min": 1010,
-              "max": 1010,
-              "display": "$1,010.00/Person"
+              "min": 1100,
+              "max": 1100,
+              "display": "$1,100.00/Person"
             }
           },
           "availableTerms": [
@@ -2243,28 +1813,12 @@
           "availableTerms": [
             "Fall 2027"
           ],
-          "statusText": "Coming Soon for Fall 2027!"
-        },
-        {
-          "unitTypeNodeId": "243184",
-          "bedrooms": 0,
-          "bathrooms": 1,
-          "rent": {
-            "perUnitUsd": {
-              "min": 1430,
-              "max": 1615,
-              "display": "$1430-1615/Unit"
-            }
-          },
-          "availableTerms": [
-            "Fall 2027"
-          ],
-          "statusText": "Coming Soon for Fall 2027!"
+          "statusText": "Now Leasing for Fall 2027!"
         }
       ],
       "representativeFloorplan": {
-        "label": "J",
-        "bedrooms": 0,
+        "label": "A",
+        "bedrooms": 1,
         "bathrooms": 1,
         "availabilityRows": [],
         "utilitiesIncludedInFee": [
@@ -2284,14 +1838,14 @@
           "JSM Fitness Center Access",
           "JSM Student Center Access"
         ],
-        "floorplanImage": "https://www.jsmliving.com/sites/default/files/2024-09/507G-STUDIO-J.jpg",
+        "floorplanImage": "https://www.jsmliving.com/sites/default/files/2024-09/507G-1BR-A.jpg",
         "photoSamples": [
           "https://www.jsmliving.com/sites/default/files/2024-11/507%20E%20Green%20Champaign%20IL%2061820-large-019-015-Exterior-1500x1000-72dpi.jpg",
           "https://www.jsmliving.com/sites/default/files/2024-11/507%20E%20Green%20Champaign%20IL%2061820-large-015-001-Exterior-1500x1000-72dpi.jpg",
           "https://www.jsmliving.com/sites/default/files/2024-11/507%20E%20Green%20Champaign%20IL%2061820-large-017-012-Exterior-1500x1000-72dpi.jpg",
           "https://www.jsmliving.com/sites/default/files/2024-11/507%20E%20Green%20Champaign%20IL%2061820-large-021-019-Exterior-1500x1000-72dpi.jpg",
           "https://www.jsmliving.com/sites/default/files/2024-11/507%20E%20Green%20Champaign%20IL%2061820-large-002-013-Interior-1500x1000-72dpi.jpg",
-          "https://www.jsmliving.com/sites/default/files/2024-08/507%20E%20Green%20Unit%20711%20Champaign-large-007-014-Kitchen-1500x1000-72dpi.jpg"
+          "https://www.jsmliving.com/sites/default/files/2024-08/507%20E%20Green%20Unit%20701%20Champaign-large-006-019-Living%20Room-1500x1000-72dpi.jpg"
         ]
       }
     },
@@ -2313,43 +1867,15 @@
         "latitude": 40.111734013378,
         "longitude": -88.2309804,
         "source": "JSM property detail page latitude/longitude metadata",
-        "mapPointUnitId": "130180"
+        "mapPointUnitId": null
       },
-      "availabilityStatus": "advertised",
-      "offers": [
-        {
-          "unitTypeNodeId": "130180",
-          "bedrooms": 4,
-          "bathrooms": 2,
-          "rent": {
-            "perUnitUsd": {
-              "min": 3560,
-              "max": 3560,
-              "display": "$3560/Unit"
-            },
-            "perPersonUsd": {
-              "min": 890,
-              "max": 890,
-              "display": "$890.00/Person"
-            }
-          },
-          "availableTerms": [
-            "Fall 2027"
-          ],
-          "statusText": "Now Leasing for Fall 2027!"
-        }
-      ],
+      "availabilityStatus": "not_advertised",
+      "offers": [],
       "representativeFloorplan": {
         "label": "Standard",
         "bedrooms": 4,
         "bathrooms": 2,
-        "availabilityRows": [
-          {
-            "term": "Fall 2027",
-            "rentUsd": 3560,
-            "unitUtilityFeeUsd": 185
-          }
-        ],
+        "availabilityRows": [],
         "utilitiesIncludedInFee": [
           "Water",
           "Sewer",
@@ -2406,14 +1932,14 @@
           "bathrooms": 2,
           "rent": {
             "perUnitUsd": {
-              "min": 3560,
-              "max": 3560,
-              "display": "$3560/Unit"
+              "min": 3580,
+              "max": 3580,
+              "display": "$3580/Unit"
             },
             "perPersonUsd": {
-              "min": 890,
-              "max": 890,
-              "display": "$890.00/Person"
+              "min": 895,
+              "max": 895,
+              "display": "$895.00/Person"
             }
           },
           "availableTerms": [
@@ -2429,7 +1955,7 @@
         "availabilityRows": [
           {
             "term": "Fall 2027",
-            "rentUsd": 3560,
+            "rentUsd": 3580,
             "unitUtilityFeeUsd": 202
           }
         ],
@@ -2477,43 +2003,15 @@
         "latitude": 40.110436513377,
         "longitude": -88.231598,
         "source": "JSM property detail page latitude/longitude metadata",
-        "mapPointUnitId": "130267"
+        "mapPointUnitId": null
       },
-      "availabilityStatus": "advertised",
-      "offers": [
-        {
-          "unitTypeNodeId": "130267",
-          "bedrooms": 3,
-          "bathrooms": 1,
-          "rent": {
-            "perUnitUsd": {
-              "min": 2355,
-              "max": 2355,
-              "display": "$2355/Unit"
-            },
-            "perPersonUsd": {
-              "min": 785,
-              "max": 785,
-              "display": "$785.00/Person"
-            }
-          },
-          "availableTerms": [
-            "Fall 2027"
-          ],
-          "statusText": "Now Leasing for Fall 2027!"
-        }
-      ],
+      "availabilityStatus": "not_advertised",
+      "offers": [],
       "representativeFloorplan": {
         "label": "Standard",
         "bedrooms": 3,
         "bathrooms": 1,
-        "availabilityRows": [
-          {
-            "term": "Fall 2027",
-            "rentUsd": 2355,
-            "unitUtilityFeeUsd": 123
-          }
-        ],
+        "availabilityRows": [],
         "utilitiesIncludedInFee": [
           "Sewer and Internet"
         ],
@@ -2565,17 +2063,16 @@
           "rent": {
             "perUnitUsd": {
               "min": 2685,
-              "max": 2910,
-              "display": "$2685-2910/Unit"
+              "max": 2940,
+              "display": "$2685-2940/Unit"
             },
             "perPersonUsd": {
               "min": 895,
-              "max": 970,
-              "display": "$895.00 - $970.00/Person"
+              "max": 980,
+              "display": "$895.00 - $980.00/Person"
             }
           },
           "availableTerms": [
-            "Fall 2027",
             "Fall 2026"
           ],
           "statusText": "Immediate Availability for Fall 2026! Now Leasing for Fall 2027!"
@@ -2587,8 +2084,8 @@
           "rent": {
             "perUnitUsd": {
               "min": 1555,
-              "max": 1690,
-              "display": "$1555-1690/Unit"
+              "max": 1700,
+              "display": "$1555-1700/Unit"
             }
           },
           "availableTerms": [
@@ -2597,19 +2094,19 @@
           "statusText": "Now Leasing for Fall 2027!"
         },
         {
-          "unitTypeNodeId": "130350",
+          "unitTypeNodeId": "130296",
           "bedrooms": 2,
           "bathrooms": 1,
           "rent": {
             "perUnitUsd": {
               "min": 1940,
-              "max": 2220,
-              "display": "$1940-2220/Unit"
+              "max": 2240,
+              "display": "$1940-2240/Unit"
             },
             "perPersonUsd": {
               "min": 970,
-              "max": 1110,
-              "display": "$970.00 - $1,110.00/Person"
+              "max": 1120,
+              "display": "$970.00 - $1,120.00/Person"
             }
           },
           "availableTerms": [
@@ -2686,7 +2183,7 @@
           "availableTerms": [
             "Fall 2027"
           ],
-          "statusText": "Coming Soon for Fall 2027!"
+          "statusText": "Now Leasing for Fall 2027!"
         }
       ],
       "representativeFloorplan": {
@@ -2755,7 +2252,7 @@
           "availableTerms": [
             "Fall 2027"
           ],
-          "statusText": "Coming Soon for Fall 2027!"
+          "statusText": "Now Leasing for Fall 2027!"
         }
       ],
       "representativeFloorplan": {
@@ -2824,7 +2321,7 @@
           "availableTerms": [
             "Fall 2027"
           ],
-          "statusText": "Coming Soon for Fall 2027!"
+          "statusText": "Now Leasing for Fall 2027!"
         }
       ],
       "representativeFloorplan": {
@@ -2970,7 +2467,7 @@
           "availableTerms": [
             "Fall 2027"
           ],
-          "statusText": "Coming Soon for Fall 2027!"
+          "statusText": "Now Leasing for Fall 2027!"
         }
       ],
       "representativeFloorplan": {
@@ -3039,7 +2536,7 @@
           "availableTerms": [
             "Fall 2027"
           ],
-          "statusText": "Coming Soon for Fall 2027!"
+          "statusText": "Now Leasing for Fall 2027!"
         }
       ],
       "representativeFloorplan": {
@@ -3069,58 +2566,6 @@
           "https://www.jsmliving.com/sites/default/files/2022-08/603%20E%20White%20Unit%20B20%20Champaign-large-010-010-Exterior-1500x1000-72dpi.jpg",
           "https://www.jsmliving.com/sites/default/files/2024-10/VILLAGE%201ST%20FLR%201BR%20A%20-%20UPGRADE-COLOR.jpg",
           "https://www.jsmliving.com/sites/default/files/2021-07/2U1A4167-HDR.jpg"
-        ]
-      }
-    },
-    {
-      "name": "608 S. Sixth",
-      "propertyNodeId": "130564",
-      "propertyUrl": "https://www.jsmliving.com/node/130564",
-      "sourceName": "JSM Living",
-      "sourceUrl": "https://www.jsmliving.com/",
-      "sourceLogoUrl": "https://www.jsmliving.com/themes/custom/custom/images/JSM-logo.png",
-      "address": {
-        "street": "608 S. Sixth",
-        "locality": null,
-        "region": "IL",
-        "postalCode": null,
-        "source": "JSM listing title"
-      },
-      "mapPoint": {
-        "latitude": 40.110817413378,
-        "longitude": -88.2301846,
-        "source": "JSM property detail page latitude/longitude metadata",
-        "mapPointUnitId": null
-      },
-      "availabilityStatus": "not_advertised",
-      "offers": [],
-      "representativeFloorplan": {
-        "label": "Standard",
-        "bedrooms": 4,
-        "bathrooms": 2,
-        "availabilityRows": [],
-        "utilitiesIncludedInFee": [
-          "Water",
-          "Sewer",
-          "Internet",
-          "and Electricity"
-        ],
-        "amenities": [
-          "Secure Entry",
-          "Leased Parking",
-          "Laundry In Unit",
-          "JSM VIP Program Access",
-          "JSM Fitness Center Access",
-          "JSM Student Center Access"
-        ],
-        "floorplanImage": "https://www.jsmliving.com/sites/default/files/2021-07/608S%20FLOOR%20PLAN-COLOR.jpg",
-        "photoSamples": [
-          "https://www.jsmliving.com/sites/default/files/2022-10/608%20S%20Sixth%20Champaign%20IL%2061820-large-009-006-Exterior-1500x1000-72dpi.jpg",
-          "https://www.jsmliving.com/sites/default/files/2021-07/IMG_1028.jpg",
-          "https://www.jsmliving.com/sites/default/files/2021-07/IMG_1020.jpg",
-          "https://www.jsmliving.com/sites/default/files/2021-07/IMG_1061.jpg",
-          "https://www.jsmliving.com/sites/default/files/2021-07/IMG_1022.jpg",
-          "https://www.jsmliving.com/sites/default/files/2021-07/IMG_1040.jpg"
         ]
       }
     },
@@ -3205,6 +2650,58 @@
       }
     },
     {
+      "name": "608 S. Sixth",
+      "propertyNodeId": "130564",
+      "propertyUrl": "https://www.jsmliving.com/node/130564",
+      "sourceName": "JSM Living",
+      "sourceUrl": "https://www.jsmliving.com/",
+      "sourceLogoUrl": "https://www.jsmliving.com/themes/custom/custom/images/JSM-logo.png",
+      "address": {
+        "street": "608 S. Sixth",
+        "locality": null,
+        "region": "IL",
+        "postalCode": null,
+        "source": "JSM listing title"
+      },
+      "mapPoint": {
+        "latitude": 40.110817413378,
+        "longitude": -88.2301846,
+        "source": "JSM property detail page latitude/longitude metadata",
+        "mapPointUnitId": null
+      },
+      "availabilityStatus": "not_advertised",
+      "offers": [],
+      "representativeFloorplan": {
+        "label": "Standard",
+        "bedrooms": 4,
+        "bathrooms": 2,
+        "availabilityRows": [],
+        "utilitiesIncludedInFee": [
+          "Water",
+          "Sewer",
+          "Internet",
+          "and Electricity"
+        ],
+        "amenities": [
+          "Secure Entry",
+          "Leased Parking",
+          "Laundry In Unit",
+          "JSM VIP Program Access",
+          "JSM Fitness Center Access",
+          "JSM Student Center Access"
+        ],
+        "floorplanImage": "https://www.jsmliving.com/sites/default/files/2021-07/608S%20FLOOR%20PLAN-COLOR.jpg",
+        "photoSamples": [
+          "https://www.jsmliving.com/sites/default/files/2022-10/608%20S%20Sixth%20Champaign%20IL%2061820-large-009-006-Exterior-1500x1000-72dpi.jpg",
+          "https://www.jsmliving.com/sites/default/files/2021-07/IMG_1028.jpg",
+          "https://www.jsmliving.com/sites/default/files/2021-07/IMG_1020.jpg",
+          "https://www.jsmliving.com/sites/default/files/2021-07/IMG_1061.jpg",
+          "https://www.jsmliving.com/sites/default/files/2021-07/IMG_1022.jpg",
+          "https://www.jsmliving.com/sites/default/files/2021-07/IMG_1040.jpg"
+        ]
+      }
+    },
+    {
       "name": "616 E. Green",
       "propertyNodeId": "130567",
       "propertyUrl": "https://www.jsmliving.com/node/130567",
@@ -3222,64 +2719,15 @@
         "latitude": 40.110629613378,
         "longitude": -88.22961445,
         "source": "JSM property detail page latitude/longitude metadata",
-        "mapPointUnitId": "130617"
+        "mapPointUnitId": null
       },
-      "availabilityStatus": "advertised",
-      "offers": [
-        {
-          "unitTypeNodeId": "130617",
-          "bedrooms": 4,
-          "bathrooms": 2,
-          "rent": {
-            "perUnitUsd": {
-              "min": 3940,
-              "max": 3940,
-              "display": "$3940/Unit"
-            },
-            "perPersonUsd": {
-              "min": 985,
-              "max": 985,
-              "display": "$985.00/Person"
-            }
-          },
-          "availableTerms": [
-            "Fall 2027"
-          ],
-          "statusText": "Now Leasing for Fall 2027!"
-        },
-        {
-          "unitTypeNodeId": "130568",
-          "bedrooms": 4,
-          "bathrooms": 4,
-          "rent": {
-            "perUnitUsd": {
-              "min": 4000,
-              "max": 4000,
-              "display": "$4000/Unit"
-            },
-            "perPersonUsd": {
-              "min": 1000,
-              "max": 1000,
-              "display": "$1,000.00/Person"
-            }
-          },
-          "availableTerms": [
-            "Fall 2027"
-          ],
-          "statusText": "Now Leasing for Fall 2027!"
-        }
-      ],
+      "availabilityStatus": "not_advertised",
+      "offers": [],
       "representativeFloorplan": {
         "label": "4 Bath",
         "bedrooms": 4,
         "bathrooms": 4,
-        "availabilityRows": [
-          {
-            "term": "Fall 2027",
-            "rentUsd": 4000,
-            "unitUtilityFeeUsd": 196
-          }
-        ],
+        "availabilityRows": [],
         "utilitiesIncludedInFee": [
           "Water",
           "Sewer",
@@ -3335,9 +2783,9 @@
           "bathrooms": 1,
           "rent": {
             "perUnitUsd": {
-              "min": 1240,
-              "max": 1525,
-              "display": "$1240-1525/Unit"
+              "min": 1245,
+              "max": 1530,
+              "display": "$1245-1530/Unit"
             }
           },
           "availableTerms": [
@@ -3351,14 +2799,14 @@
           "bathrooms": 1,
           "rent": {
             "perUnitUsd": {
-              "min": 1810,
-              "max": 1810,
-              "display": "$1810/Unit"
+              "min": 1820,
+              "max": 1820,
+              "display": "$1820/Unit"
             },
             "perPersonUsd": {
-              "min": 905,
-              "max": 905,
-              "display": "$905.00/Person"
+              "min": 910,
+              "max": 910,
+              "display": "$910.00/Person"
             }
           },
           "availableTerms": [
@@ -3421,12 +2869,12 @@
         "latitude": 40.106509013376,
         "longitude": -88.221248,
         "source": "JSM property detail page latitude/longitude metadata",
-        "mapPointUnitId": "130839"
+        "mapPointUnitId": "130891"
       },
       "availabilityStatus": "advertised",
       "offers": [
         {
-          "unitTypeNodeId": "130839",
+          "unitTypeNodeId": "130891",
           "bedrooms": 1,
           "bathrooms": 1,
           "rent": {
@@ -3464,7 +2912,7 @@
         }
       ],
       "representativeFloorplan": {
-        "label": "Luxury- A",
+        "label": "Luxury- B",
         "bedrooms": 1,
         "bathrooms": 1,
         "availabilityRows": [],
@@ -3488,14 +2936,14 @@
           "JSM Fitness Center Access",
           "JSM Student Center Access"
         ],
-        "floorplanImage": "https://www.jsmliving.com/sites/default/files/2024-09/701G%201BR%20LUX%20A%20PLAN.jpg",
+        "floorplanImage": "https://www.jsmliving.com/sites/default/files/2024-09/701G%201BR%20LUX%20B%20PLAN.jpg",
         "photoSamples": [
           "https://www.jsmliving.com/sites/default/files/2022-08/701%20S%20Gregory%20Unit%20332%20Urbana-large-007-008-Exterior-1500x1000-72dpi.jpg",
           "https://www.jsmliving.com/sites/default/files/2023-07/701%20S%20Gregory%20Unit%20230%20Urbana-large-003-006-Exterior-1500x1000-72dpi.jpg",
           "https://www.jsmliving.com/sites/default/files/2023-07/701%20S%20Gregory%20Unit%20230%20Urbana-large-005-027-Exterior-1500x1000-72dpi.jpg",
           "https://www.jsmliving.com/sites/default/files/2023-07/701%20S%20Gregory%20Unit%20230%20Urbana-large-007-018-Lobby-1500x1000-72dpi.jpg",
           "https://www.jsmliving.com/sites/default/files/2023-07/701%20S%20Gregory%20Unit%20230%20Urbana-large-008-005-Exterior-1500x1000-72dpi.jpg",
-          "https://www.jsmliving.com/sites/default/files/2025-09/701%20Gregory%20Unit%20203%20Champaign-large-007-015-Kitchen-1500x1000-72dpi.jpg"
+          "https://www.jsmliving.com/sites/default/files/2022-08/701%20S%20Gregory%20Unit%20332%20Urbana-large-015-025-Entryway-1500x1000-72dpi.jpg"
         ]
       }
     },
@@ -3537,27 +2985,6 @@
             "Fall 2026"
           ],
           "statusText": "Immediate Availability for Fall 2026! Now Leasing for Fall 2027!"
-        },
-        {
-          "unitTypeNodeId": "130957",
-          "bedrooms": 2,
-          "bathrooms": 1,
-          "rent": {
-            "perUnitUsd": {
-              "min": 1710,
-              "max": 1970,
-              "display": "$1710-1970/Unit"
-            },
-            "perPersonUsd": {
-              "min": 855,
-              "max": 985,
-              "display": "$855.00 - $985.00/Person"
-            }
-          },
-          "availableTerms": [
-            "Fall 2027"
-          ],
-          "statusText": "Now Leasing for Fall 2027!"
         }
       ],
       "representativeFloorplan": {
@@ -3624,68 +3051,9 @@
             }
           },
           "availableTerms": [
-            "Fall 2026",
-            "Fall 2027"
+            "Fall 2026"
           ],
           "statusText": "Immediate Availability for Fall 2026! Now Leasing for Fall 2027!"
-        },
-        {
-          "unitTypeNodeId": "131033",
-          "bedrooms": 0,
-          "bathrooms": 1,
-          "rent": {
-            "perUnitUsd": {
-              "min": 1125,
-              "max": 1125,
-              "display": "$1125/Unit"
-            }
-          },
-          "availableTerms": [
-            "Fall 2027"
-          ],
-          "statusText": "Now Leasing for Fall 2027!"
-        },
-        {
-          "unitTypeNodeId": "131011",
-          "bedrooms": 2,
-          "bathrooms": 1,
-          "rent": {
-            "perUnitUsd": {
-              "min": 1810,
-              "max": 1810,
-              "display": "$1810/Unit"
-            },
-            "perPersonUsd": {
-              "min": 905,
-              "max": 905,
-              "display": "$905.00/Person"
-            }
-          },
-          "availableTerms": [
-            "Fall 2027"
-          ],
-          "statusText": "Now Leasing for Fall 2027!"
-        },
-        {
-          "unitTypeNodeId": "131029",
-          "bedrooms": 2,
-          "bathrooms": 2,
-          "rent": {
-            "perUnitUsd": {
-              "min": 1910,
-              "max": 1910,
-              "display": "$1910/Unit"
-            },
-            "perPersonUsd": {
-              "min": 955,
-              "max": 955,
-              "display": "$955.00/Person"
-            }
-          },
-          "availableTerms": [
-            "Fall 2027"
-          ],
-          "statusText": "Now Leasing for Fall 2027!"
         },
         {
           "unitTypeNodeId": "131018",
@@ -3693,14 +3061,14 @@
           "bathrooms": 2,
           "rent": {
             "perUnitUsd": {
-              "min": 2595,
-              "max": 2595,
-              "display": "$2595/Unit"
+              "min": 2625,
+              "max": 2625,
+              "display": "$2625/Unit"
             },
             "perPersonUsd": {
-              "min": 865,
-              "max": 865,
-              "display": "$865.00/Person"
+              "min": 875,
+              "max": 875,
+              "display": "$875.00/Person"
             }
           },
           "availableTerms": [
@@ -3710,8 +3078,8 @@
         }
       ],
       "representativeFloorplan": {
-        "label": "Standard",
-        "bedrooms": 0,
+        "label": "A",
+        "bedrooms": 1,
         "bathrooms": 1,
         "availabilityRows": [],
         "utilitiesIncludedInFee": [
@@ -3725,18 +3093,19 @@
           "Secure Entry",
           "Leased Parking",
           "Leased Garage Parking",
+          "Laundry In Unit",
           "JSM VIP Program Access",
           "JSM Fitness Center Access",
           "JSM Student Center Access"
         ],
-        "floorplanImage": "https://www.jsmliving.com/sites/default/files/2021-07/902L-STUDIO%20COLOR.jpg",
+        "floorplanImage": "https://www.jsmliving.com/sites/default/files/2024-10/902L-1BR-A%20COLOR.jpg",
         "photoSamples": [
           "https://www.jsmliving.com/sites/default/files/2024-07/902%20S%20Lincoln%20Unit%20304%20Urbana-large-001-030-Exterior-1500x1000-72dpi.jpg",
           "https://www.jsmliving.com/sites/default/files/2022-06/902%20S%20Lincoln%20Unit%20306%20Urbana-large-007-024-Exterior-1500x1000-72dpi.jpg",
           "https://www.jsmliving.com/sites/default/files/2022-06/902%20S%20Lincoln%20Unit%20306%20Urbana-large-008-031-Exterior-1500x1000-72dpi.jpg",
           "https://www.jsmliving.com/sites/default/files/2021-07/902%20S%20Lincoln%20Unit%20103%20Urbana-large-001-018-Exterior-1500x1000-72dpi.jpg",
-          "https://www.jsmliving.com/sites/default/files/2022-06/902%20S%20Lincoln%20Unit%20105%20Urbana-large-010-014-Entryway-1500x1000-72dpi.jpg",
-          "https://www.jsmliving.com/sites/default/files/2022-06/902%20S%20Lincoln%20Unit%20105%20Urbana-large-011-013-Entryway-1500x1000-72dpi.jpg"
+          "https://www.jsmliving.com/sites/default/files/2025-08/902%20Lincoln%20Unit%20203%20Urbana%20IL-large-015-020-Kitchen-1500x1000-72dpi.jpg",
+          "https://www.jsmliving.com/sites/default/files/2025-08/902%20Lincoln%20Unit%20203%20Urbana%20IL-large-011-008-Kitchen-1500x1000-72dpi.jpg"
         ]
       }
     },
@@ -3809,109 +3178,19 @@
         "latitude": 40.104831863375,
         "longitude": -88.23488475,
         "source": "JSM property detail page latitude/longitude metadata",
-        "mapPointUnitId": "129459"
+        "mapPointUnitId": null
       },
-      "availabilityStatus": "advertised",
-      "offers": [
-        {
-          "unitTypeNodeId": "129459",
-          "bedrooms": 2,
-          "bathrooms": 1,
-          "rent": {
-            "perUnitUsd": {
-              "min": 1880,
-              "max": 1880,
-              "display": "$1880/Unit"
-            },
-            "perPersonUsd": {
-              "min": 940,
-              "max": 940,
-              "display": "$940.00/Person"
-            }
-          },
-          "availableTerms": [
-            "Fall 2027"
-          ],
-          "statusText": "Now Leasing for Fall 2027!"
-        },
-        {
-          "unitTypeNodeId": "129469",
-          "bedrooms": 3,
-          "bathrooms": 1,
-          "rent": {
-            "perUnitUsd": {
-              "min": 2475,
-              "max": 2475,
-              "display": "$2475/Unit"
-            },
-            "perPersonUsd": {
-              "min": 825,
-              "max": 825,
-              "display": "$825.00/Person"
-            }
-          },
-          "availableTerms": [
-            "Fall 2027"
-          ],
-          "statusText": "Now Leasing for Fall 2027!"
-        },
-        {
-          "unitTypeNodeId": "129478",
-          "bedrooms": 4,
-          "bathrooms": 2,
-          "rent": {
-            "perUnitUsd": {
-              "min": 3240,
-              "max": 3300,
-              "display": "$3240-3300/Unit"
-            },
-            "perPersonUsd": {
-              "min": 810,
-              "max": 825,
-              "display": "$810.00 - $825.00/Person"
-            }
-          },
-          "availableTerms": [
-            "Fall 2027"
-          ],
-          "statusText": "Now Leasing for Fall 2027!"
-        },
-        {
-          "unitTypeNodeId": "129486",
-          "bedrooms": 5,
-          "bathrooms": 2,
-          "rent": {
-            "perUnitUsd": {
-              "min": 4000,
-              "max": 4000,
-              "display": "$4000/Unit"
-            },
-            "perPersonUsd": {
-              "min": 800,
-              "max": 800,
-              "display": "$800.00/Person"
-            }
-          },
-          "availableTerms": [
-            "Fall 2027"
-          ],
-          "statusText": "Now Leasing for Fall 2027!"
-        }
-      ],
+      "availabilityStatus": "not_advertised",
+      "offers": [],
       "representativeFloorplan": {
         "label": "A",
-        "bedrooms": 2,
+        "bedrooms": 0,
         "bathrooms": 1,
-        "availabilityRows": [
-          {
-            "term": "Fall 2027",
-            "rentUsd": 1880,
-            "unitUtilityFeeUsd": 92
-          }
-        ],
+        "availabilityRows": [],
         "utilitiesIncludedInFee": [
           "Sewer",
-          "Recycling & Internet"
+          "Recycling",
+          "Internet"
         ],
         "amenities": [
           "Secure Entry with Intercom",
@@ -3921,14 +3200,14 @@
           "JSM Fitness Center Access",
           "JSM Student Center Access"
         ],
-        "floorplanImage": null,
+        "floorplanImage": "https://www.jsmliving.com/sites/default/files/2024-10/1103E-STUDIO%20A%20%2850%29%20color.jpg",
         "photoSamples": [
           "https://www.jsmliving.com/sites/default/files/2023-08/1103%20Euclid%20Unit%2015%20Champaign-large-001-023-Exterior-1500x1000-72dpi.jpg",
           "https://www.jsmliving.com/sites/default/files/2023-08/1103%20Euclid%20Unit%2015%20Champaign-large-003-019-Exterior-1500x1000-72dpi.jpg",
           "https://www.jsmliving.com/sites/default/files/2023-08/1103%20Euclid%20Unit%2015%20Champaign-large-004-020-Exterior-1500x1000-72dpi.jpg",
           "https://www.jsmliving.com/sites/default/files/2023-08/1103%20Euclid%20Unit%2015%20Champaign-large-005-021-Parking-1500x1000-72dpi.jpg",
-          "https://www.jsmliving.com/sites/default/files/2024-10/1103E-2BR%20A%20%2810-15%29%20COLOR_0.jpg",
-          "https://www.jsmliving.com/sites/default/files/2023-08/1103%20Euclid%20Unit%2015%20Champaign-large-006-004-Entryway-1500x1000-72dpi.jpg"
+          "https://www.jsmliving.com/sites/default/files/2021-07/tv-couch%20%281%20of%201%29.jpg",
+          "https://www.jsmliving.com/sites/default/files/2021-07/barliving2%20%281%20of%201%29.jpg"
         ]
       }
     },

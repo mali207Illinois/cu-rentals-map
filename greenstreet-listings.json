@@ -3,11 +3,11 @@
   "collection": {
     "source": "Green Street Realty official public website",
     "directoryUrl": "https://www.greenstrealty.com/properties",
-    "capturedOn": "2026-10-30",
+    "capturedOn": "2026-10-31",
     "method": "Embedded public property-info-json records on the property directory page.",
     "buildingCount": 248,
-    "advertisedBuildingCount": 145,
-    "advertisedLayoutCount": 306,
+    "advertisedBuildingCount": 144,
+    "advertisedLayoutCount": 304,
     "limitations": "Directory plans are published floor-plan offers, not live unit inventory. Leased and past-dated plans are not marked available. Coordinates are realtor-provided pins, not verified footprint centroids.",
     "futureRefreshRequirement": {
       "cadenceHours": 24,
@@ -3727,28 +3727,6 @@
               "min": 1000,
               "max": 1000,
               "display": "$1,000"
-            }
-          },
-          "availableTerms": [
-            "August 2027"
-          ],
-          "statusText": ""
-        },
-        {
-          "unitTypeNodeId": "gsr:6:3",
-          "title": "3 Bedroom",
-          "bedrooms": 3,
-          "bathrooms": 3,
-          "rent": {
-            "perUnitUsd": {
-              "min": 3050,
-              "max": 3050,
-              "display": "$3,050"
-            },
-            "perPersonUsd": {
-              "min": 1016.67,
-              "max": 1016.67,
-              "display": "$1,016.67"
             }
           },
           "availableTerms": [
@@ -13627,36 +13605,13 @@
         "longitude": -88.2163319,
         "source": "Green Street Realty published latitude/longitude"
       },
-      "availabilityStatus": "advertised",
-      "offers": [
-        {
-          "unitTypeNodeId": "gsr:72:1",
-          "title": "2 Bedroom",
-          "bedrooms": 2,
-          "bathrooms": 1,
-          "rent": {
-            "perUnitUsd": {
-              "min": 1325,
-              "max": 1325,
-              "display": "$1,325"
-            },
-            "perPersonUsd": {
-              "min": 662.5,
-              "max": 662.5,
-              "display": "$662.5"
-            }
-          },
-          "availableTerms": [
-            "August 2027"
-          ],
-          "statusText": ""
-        }
-      ],
+      "availabilityStatus": "not_advertised",
+      "offers": [],
       "representativeFloorplan": {
         "label": "2 Bedroom",
         "bedrooms": 2,
         "bathrooms": 1,
-        "availabilityStatus": "August 2027",
+        "availabilityStatus": "Leased",
         "availabilityRows": [],
         "utilitiesIncludedInFee": [],
         "amenities": [
