@@ -3,12 +3,12 @@
   "collection": {
     "source": "Smile Student Living official public availability page",
     "directoryUrl": "https://www.smilestudentliving.com/availability",
-    "capturedOn": "2026-11-01",
+    "capturedOn": "2026-11-02",
     "method": "Paginated public Duda appfolio-listings collection, filtered by the availability widget's Smile UIUC property group; unit listables grouped by published property ID.",
     "buildingCount": 55,
     "advertisedBuildingCount": 55,
-    "advertisedLayoutCount": 137,
-    "sourceListableCount": 138,
+    "advertisedLayoutCount": 138,
+    "sourceListableCount": 139,
     "limitations": "The public collection is an availability-only snapshot, not a full inventory of Smile's unlisted buildings. A zero-rent sublease application is not a rental offer. Published prices may be per person when explicitly stated; otherwise they are labeled monthly without inferring a per-unit basis. Photos are sampled from official URLs. Pins are Smile-provided, not verified footprint centroids.",
     "futureRefreshRequirement": {
       "cadenceHours": 24,
@@ -3649,7 +3649,7 @@
     {
       "name": "511 E White",
       "propertyNodeId": "smile:6210",
-      "propertyUrl": "https://www.smilestudentliving.com/listings/detail/a77bc62d-2d02-4f8d-82a8-be36226b37a3",
+      "propertyUrl": "https://www.smilestudentliving.com/listings/detail/01e58e5f-10ae-4ed3-88c1-a4cfc398bff1",
       "sourceName": "Smile Student Living",
       "sourceUrl": "https://www.smilestudentliving.com/",
       "sourceLogoUrl": "https://images.cdn.appfolio.com/fairlawn/images/62ce98a0-f77b-4a49-83b5-b4472f7279f4/large.png",
@@ -3672,6 +3672,23 @@
       },
       "availabilityStatus": "advertised",
       "offers": [
+        {
+          "unitTypeNodeId": "smile:01e58e5f-10ae-4ed3-88c1-a4cfc398bff1",
+          "title": "Studio",
+          "bedrooms": 1,
+          "bathrooms": 1.0,
+          "rent": {
+            "perMonthUsd": {
+              "min": 1500,
+              "max": 1500,
+              "display": "$1,500"
+            }
+          },
+          "availableTerms": [
+            "Aug 20, 2027"
+          ],
+          "statusText": "LIVE BRAND NEW August 2027 511 E White Studio Apartment. Limited time only $250 Giftcard!*"
+        },
         {
           "unitTypeNodeId": "smile:a77bc62d-2d02-4f8d-82a8-be36226b37a3",
           "title": "1 Bedroom",
@@ -3742,7 +3759,7 @@
         }
       ],
       "representativeFloorplan": {
-        "label": "1 Bedroom",
+        "label": "Studio",
         "bedrooms": 1,
         "bathrooms": 1.0,
         "availabilityStatus": "Available Aug 20, 2027",
@@ -3751,24 +3768,29 @@
           "Internet",
           "Water",
           "Sewer",
-          "Trash Service"
+          "Trash Service",
+          "Electricity – See Utility Addendum – All-Inclusive"
         ],
         "amenities": [
           "24-Hour Emergency Maintenance",
+          "Fully Furnished",
+          "New Construction",
           "Income Requirement Waived for UIUC Students",
-          "Low Admin Fee",
-          "Deferred Rent or Guarantor - You Choose!"
+          "Co-Signer Not Required",
+          "Low admin fee or security deposit – you choose!",
+          "Pet-Friendly",
+          "Utilities included with one monthly fee"
         ],
         "floorplanImage": null,
         "photoSamples": [
+          "https://images.cdn.appfolio.com/fairlawn/images/380929bd-500a-4f99-bdb6-6020093189fb/large.png",
+          "https://images.cdn.appfolio.com/fairlawn/images/058eedbb-01ac-4d7e-a8a9-4d21568537ac/large.png",
           "https://images.cdn.appfolio.com/fairlawn/images/7a375b0a-c2f2-47b0-8d79-c7100b9c9a50/large.png",
           "https://images.cdn.appfolio.com/fairlawn/images/3cd958da-f534-49e3-b473-8aafe8263057/large.png",
           "https://images.cdn.appfolio.com/fairlawn/images/b93e3989-f73e-4dac-a361-b8c82c227204/large.png",
           "https://images.cdn.appfolio.com/fairlawn/images/ac60677f-5ab6-4593-9df6-7de6f11337b0/large.png",
           "https://images.cdn.appfolio.com/fairlawn/images/92d9bd97-58d4-48ac-a1c9-5a91d45fb457/large.png",
-          "https://images.cdn.appfolio.com/fairlawn/images/5bc5ade6-f4c3-4e44-9740-51e0312c4e46/large.png",
-          "https://images.cdn.appfolio.com/fairlawn/images/33245260-e526-45cc-8087-cd8b1915a1ab/large.png",
-          "https://images.cdn.appfolio.com/fairlawn/images/c166bdb8-e58a-4845-bc32-84a19d335382/large.png"
+          "https://images.cdn.appfolio.com/fairlawn/images/5bc5ade6-f4c3-4e44-9740-51e0312c4e46/large.png"
         ]
       }
     },
