@@ -3,7 +3,7 @@
   "collection": {
     "source": "Green Street Realty official public website",
     "directoryUrl": "https://www.greenstrealty.com/properties",
-    "capturedOn": "2026-11-02",
+    "capturedOn": "2026-11-03",
     "method": "Embedded public property-info-json records on the property directory page.",
     "buildingCount": 248,
     "advertisedBuildingCount": 143,
@@ -601,9 +601,9 @@
           "bathrooms": 1,
           "rent": {
             "perUnitUsd": {
-              "min": 1450,
-              "max": 1450,
-              "display": "$1,450"
+              "min": 1395,
+              "max": 1395,
+              "display": "$1,395"
             }
           },
           "availableTerms": [
@@ -618,14 +618,14 @@
           "bathrooms": 2,
           "rent": {
             "perUnitUsd": {
-              "min": 1725,
-              "max": 1725,
-              "display": "$1,725"
+              "min": 1650,
+              "max": 1650,
+              "display": "$1,650"
             },
             "perPersonUsd": {
-              "min": 862.5,
-              "max": 862.5,
-              "display": "$862.5"
+              "min": 825,
+              "max": 825,
+              "display": "$825"
             }
           },
           "availableTerms": [
@@ -1662,9 +1662,9 @@
           "bathrooms": 1,
           "rent": {
             "perUnitUsd": {
-              "min": 1600,
-              "max": 1625,
-              "display": "$1,600–$1,625"
+              "min": 1595,
+              "max": 1595,
+              "display": "$1,595"
             }
           },
           "availableTerms": [
@@ -2588,9 +2588,9 @@
           "bathrooms": 1,
           "rent": {
             "perUnitUsd": {
-              "min": 1575,
-              "max": 1650,
-              "display": "$1,575–$1,650"
+              "min": 1525,
+              "max": 1600,
+              "display": "$1,525–$1,600"
             }
           },
           "availableTerms": [
@@ -5653,9 +5653,9 @@
           "bathrooms": 1,
           "rent": {
             "perUnitUsd": {
-              "min": 1400,
-              "max": 1450,
-              "display": "$1,400–$1,450"
+              "min": 1350,
+              "max": 1400,
+              "display": "$1,350–$1,400"
             }
           },
           "availableTerms": [
@@ -5858,14 +5858,14 @@
           "bathrooms": 1,
           "rent": {
             "perUnitUsd": {
-              "min": 1975,
-              "max": 1975,
-              "display": "$1,975"
+              "min": 1800,
+              "max": 1800,
+              "display": "$1,800"
             },
             "perPersonUsd": {
-              "min": 658.33,
-              "max": 658.33,
-              "display": "$658.33"
+              "min": 600,
+              "max": 600,
+              "display": "$600"
             }
           },
           "availableTerms": [
@@ -6020,14 +6020,14 @@
           "bathrooms": 1,
           "rent": {
             "perUnitUsd": {
-              "min": 1400,
-              "max": 1500,
-              "display": "$1,400–$1,500"
+              "min": 1475,
+              "max": 1475,
+              "display": "$1,475"
             },
             "perPersonUsd": {
-              "min": 700,
-              "max": 750,
-              "display": "$700–$750"
+              "min": 737.5,
+              "max": 737.5,
+              "display": "$737.5"
             }
           },
           "availableTerms": [
@@ -6661,9 +6661,9 @@
           "bathrooms": 1,
           "rent": {
             "perUnitUsd": {
-              "min": 1250,
-              "max": 1250,
-              "display": "$1,250"
+              "min": 1200,
+              "max": 1200,
+              "display": "$1,200"
             }
           },
           "availableTerms": [
@@ -6678,9 +6678,9 @@
           "bathrooms": 1,
           "rent": {
             "perUnitUsd": {
-              "min": 1450,
-              "max": 1450,
-              "display": "$1,450"
+              "min": 1395,
+              "max": 1395,
+              "display": "$1,395"
             }
           },
           "availableTerms": [
@@ -6899,9 +6899,9 @@
           "bathrooms": 1,
           "rent": {
             "perUnitUsd": {
-              "min": 1100,
-              "max": 1100,
-              "display": "$1,100"
+              "min": 1050,
+              "max": 1050,
+              "display": "$1,050"
             }
           },
           "availableTerms": [
@@ -7219,9 +7219,9 @@
           "bathrooms": 1,
           "rent": {
             "perUnitUsd": {
-              "min": 1425,
-              "max": 1450,
-              "display": "$1,425–$1,450"
+              "min": 1375,
+              "max": 1400,
+              "display": "$1,375–$1,400"
             }
           },
           "availableTerms": [
@@ -7847,9 +7847,9 @@
           "bathrooms": 1,
           "rent": {
             "perUnitUsd": {
-              "min": 1225,
-              "max": 1295,
-              "display": "$1,225–$1,295"
+              "min": 1195,
+              "max": 1225,
+              "display": "$1,195–$1,225"
             }
           },
           "availableTerms": [
@@ -8013,9 +8013,9 @@
           "bathrooms": 1,
           "rent": {
             "perUnitUsd": {
-              "min": 1250,
-              "max": 1250,
-              "display": "$1,250"
+              "min": 1200,
+              "max": 1200,
+              "display": "$1,200"
             }
           },
           "availableTerms": [
@@ -8204,14 +8204,14 @@
           "bathrooms": 2,
           "rent": {
             "perUnitUsd": {
-              "min": 2300,
-              "max": 2350,
-              "display": "$2,300–$2,350"
+              "min": 2200,
+              "max": 2200,
+              "display": "$2,200"
             },
             "perPersonUsd": {
-              "min": 575,
-              "max": 587.5,
-              "display": "$575–$587.5"
+              "min": 550,
+              "max": 550,
+              "display": "$550"
             }
           },
           "availableTerms": [
@@ -8366,14 +8366,14 @@
           "bathrooms": 1.5,
           "rent": {
             "perUnitUsd": {
-              "min": 1900,
-              "max": 1900,
-              "display": "$1,900"
+              "min": 1800,
+              "max": 1800,
+              "display": "$1,800"
             },
             "perPersonUsd": {
-              "min": 633.33,
-              "max": 633.33,
-              "display": "$633.33"
+              "min": 600,
+              "max": 600,
+              "display": "$600"
             }
           },
           "availableTerms": [
@@ -9365,14 +9365,14 @@
           "bathrooms": 1,
           "rent": {
             "perUnitUsd": {
-              "min": 2200,
-              "max": 2200,
-              "display": "$2,200"
+              "min": 2100,
+              "max": 2100,
+              "display": "$2,100"
             },
             "perPersonUsd": {
-              "min": 550,
-              "max": 550,
-              "display": "$550"
+              "min": 525,
+              "max": 525,
+              "display": "$525"
             }
           },
           "availableTerms": [
@@ -9387,14 +9387,14 @@
           "bathrooms": 1,
           "rent": {
             "perUnitUsd": {
-              "min": 2200,
-              "max": 2200,
-              "display": "$2,200"
+              "min": 2100,
+              "max": 2100,
+              "display": "$2,100"
             },
             "perPersonUsd": {
-              "min": 550,
-              "max": 550,
-              "display": "$550"
+              "min": 525,
+              "max": 525,
+              "display": "$525"
             }
           },
           "availableTerms": [
@@ -9488,9 +9488,9 @@
           "bathrooms": 1,
           "rent": {
             "perUnitUsd": {
-              "min": 1250,
-              "max": 1250,
-              "display": "$1,250"
+              "min": 1200,
+              "max": 1200,
+              "display": "$1,200"
             }
           },
           "availableTerms": [
@@ -9572,14 +9572,14 @@
           "bathrooms": 1,
           "rent": {
             "perUnitUsd": {
-              "min": 2200,
-              "max": 2200,
-              "display": "$2,200"
+              "min": 2100,
+              "max": 2100,
+              "display": "$2,100"
             },
             "perPersonUsd": {
-              "min": 550,
-              "max": 550,
-              "display": "$550"
+              "min": 525,
+              "max": 525,
+              "display": "$525"
             }
           },
           "availableTerms": [
@@ -10313,9 +10313,9 @@
           "bathrooms": 1,
           "rent": {
             "perUnitUsd": {
-              "min": 1350,
+              "min": 1325,
               "max": 1425,
-              "display": "$1,350–$1,425"
+              "display": "$1,325–$1,425"
             }
           },
           "availableTerms": [
@@ -11768,14 +11768,14 @@
           "bathrooms": 2,
           "rent": {
             "perUnitUsd": {
-              "min": 1695,
-              "max": 1725,
-              "display": "$1,695–$1,725"
+              "min": 1650,
+              "max": 1650,
+              "display": "$1,650"
             },
             "perPersonUsd": {
-              "min": 847.5,
-              "max": 862.5,
-              "display": "$847.5–$862.5"
+              "min": 825,
+              "max": 825,
+              "display": "$825"
             }
           },
           "availableTerms": [
@@ -12388,9 +12388,9 @@
           "bathrooms": 1,
           "rent": {
             "perUnitUsd": {
-              "min": 1450,
-              "max": 1450,
-              "display": "$1,450"
+              "min": 1350,
+              "max": 1375,
+              "display": "$1,350–$1,375"
             }
           },
           "availableTerms": [
@@ -12405,9 +12405,9 @@
           "bathrooms": 1,
           "rent": {
             "perUnitUsd": {
-              "min": 1525,
-              "max": 1525,
-              "display": "$1,525"
+              "min": 1495,
+              "max": 1495,
+              "display": "$1,495"
             }
           },
           "availableTerms": [
@@ -12528,9 +12528,9 @@
           "bathrooms": 1,
           "rent": {
             "perUnitUsd": {
-              "min": 1600,
-              "max": 1625,
-              "display": "$1,600–$1,625"
+              "min": 1550,
+              "max": 1550,
+              "display": "$1,550"
             }
           },
           "availableTerms": [
@@ -12614,9 +12614,9 @@
           "bathrooms": 1,
           "rent": {
             "perUnitUsd": {
-              "min": 1275,
-              "max": 1275,
-              "display": "$1,275"
+              "min": 1225,
+              "max": 1225,
+              "display": "$1,225"
             }
           },
           "availableTerms": [
@@ -12791,9 +12791,9 @@
           "bathrooms": 1,
           "rent": {
             "perUnitUsd": {
-              "min": 1225,
-              "max": 1225,
-              "display": "$1,225"
+              "min": 1200,
+              "max": 1200,
+              "display": "$1,200"
             }
           },
           "availableTerms": [
@@ -14100,14 +14100,14 @@
           "bathrooms": 2,
           "rent": {
             "perUnitUsd": {
-              "min": 2400,
-              "max": 2400,
-              "display": "$2,400"
+              "min": 2300,
+              "max": 2300,
+              "display": "$2,300"
             },
             "perPersonUsd": {
-              "min": 600,
-              "max": 600,
-              "display": "$600"
+              "min": 575,
+              "max": 575,
+              "display": "$575"
             }
           },
           "availableTerms": [
@@ -16355,8 +16355,8 @@
           "rent": {
             "perUnitUsd": {
               "min": 1175,
-              "max": 1300,
-              "display": "$1,175–$1,300"
+              "max": 1250,
+              "display": "$1,175–$1,250"
             }
           },
           "availableTerms": [

@@ -3,7 +3,7 @@
   "collection": {
     "source": "Smile Student Living official public availability page",
     "directoryUrl": "https://www.smilestudentliving.com/availability",
-    "capturedOn": "2026-11-02",
+    "capturedOn": "2026-11-03",
     "method": "Paginated public Duda appfolio-listings collection, filtered by the availability widget's Smile UIUC property group; unit listables grouped by published property ID.",
     "buildingCount": 55,
     "advertisedBuildingCount": 55,
@@ -3783,14 +3783,14 @@
         ],
         "floorplanImage": null,
         "photoSamples": [
+          "https://images.cdn.appfolio.com/fairlawn/images/30de8d26-0bf5-4cea-b214-b48fce6270cb/large.jpg",
           "https://images.cdn.appfolio.com/fairlawn/images/380929bd-500a-4f99-bdb6-6020093189fb/large.png",
           "https://images.cdn.appfolio.com/fairlawn/images/058eedbb-01ac-4d7e-a8a9-4d21568537ac/large.png",
+          "https://images.cdn.appfolio.com/fairlawn/images/54c78d1b-d573-463a-a475-e64603200906/large.jpg",
           "https://images.cdn.appfolio.com/fairlawn/images/7a375b0a-c2f2-47b0-8d79-c7100b9c9a50/large.png",
           "https://images.cdn.appfolio.com/fairlawn/images/3cd958da-f534-49e3-b473-8aafe8263057/large.png",
-          "https://images.cdn.appfolio.com/fairlawn/images/b93e3989-f73e-4dac-a361-b8c82c227204/large.png",
-          "https://images.cdn.appfolio.com/fairlawn/images/ac60677f-5ab6-4593-9df6-7de6f11337b0/large.png",
-          "https://images.cdn.appfolio.com/fairlawn/images/92d9bd97-58d4-48ac-a1c9-5a91d45fb457/large.png",
-          "https://images.cdn.appfolio.com/fairlawn/images/5bc5ade6-f4c3-4e44-9740-51e0312c4e46/large.png"
+          "https://images.cdn.appfolio.com/fairlawn/images/13e09bf1-ee05-44e3-94be-0cac156eb089/large.jpg",
+          "https://images.cdn.appfolio.com/fairlawn/images/b93e3989-f73e-4dac-a361-b8c82c227204/large.png"
         ]
       }
     },
