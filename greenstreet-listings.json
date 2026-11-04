@@ -3,11 +3,11 @@
   "collection": {
     "source": "Green Street Realty official public website",
     "directoryUrl": "https://www.greenstrealty.com/properties",
-    "capturedOn": "2026-11-03",
+    "capturedOn": "2026-11-04",
     "method": "Embedded public property-info-json records on the property directory page.",
     "buildingCount": 248,
-    "advertisedBuildingCount": 143,
-    "advertisedLayoutCount": 304,
+    "advertisedBuildingCount": 141,
+    "advertisedLayoutCount": 299,
     "limitations": "Directory plans are published floor-plan offers, not live unit inventory. Leased and past-dated plans are not marked available. Coordinates are realtor-provided pins, not verified footprint centroids.",
     "futureRefreshRequirement": {
       "cadenceHours": 24,
@@ -2082,31 +2082,13 @@
         "longitude": -88.2181748,
         "source": "Green Street Realty published latitude/longitude"
       },
-      "availabilityStatus": "advertised",
-      "offers": [
-        {
-          "unitTypeNodeId": "gsr:174:1",
-          "title": "1 Bedroom",
-          "bedrooms": 1,
-          "bathrooms": 1,
-          "rent": {
-            "perUnitUsd": {
-              "min": 1395,
-              "max": 1395,
-              "display": "$1,395"
-            }
-          },
-          "availableTerms": [
-            "August 2027"
-          ],
-          "statusText": ""
-        }
-      ],
+      "availabilityStatus": "not_advertised",
+      "offers": [],
       "representativeFloorplan": {
         "label": "1 Bedroom",
         "bedrooms": 1,
         "bathrooms": 1,
-        "availabilityStatus": "August 2027",
+        "availabilityStatus": "Leased",
         "availabilityRows": [],
         "utilitiesIncludedInFee": [],
         "amenities": [
@@ -3752,28 +3734,6 @@
       "availabilityStatus": "advertised",
       "offers": [
         {
-          "unitTypeNodeId": "gsr:6:2",
-          "title": "2 Bedroom",
-          "bedrooms": 2,
-          "bathrooms": 2,
-          "rent": {
-            "perUnitUsd": {
-              "min": 2000,
-              "max": 2000,
-              "display": "$2,000"
-            },
-            "perPersonUsd": {
-              "min": 1000,
-              "max": 1000,
-              "display": "$1,000"
-            }
-          },
-          "availableTerms": [
-            "August 2027"
-          ],
-          "statusText": ""
-        },
-        {
           "unitTypeNodeId": "gsr:6:4",
           "title": "4 Bedroom",
           "bedrooms": 4,
@@ -3797,9 +3757,9 @@
         }
       ],
       "representativeFloorplan": {
-        "label": "2 Bedroom",
-        "bedrooms": 2,
-        "bathrooms": 2,
+        "label": "4 Bedroom",
+        "bedrooms": 4,
+        "bathrooms": 3,
         "availabilityStatus": "August 2027",
         "availabilityRows": [],
         "utilitiesIncludedInFee": [],
@@ -4351,28 +4311,6 @@
       "availabilityStatus": "advertised",
       "offers": [
         {
-          "unitTypeNodeId": "gsr:204:1",
-          "title": "4 Bedroom",
-          "bedrooms": 4,
-          "bathrooms": 2,
-          "rent": {
-            "perUnitUsd": {
-              "min": 2700,
-              "max": 2800,
-              "display": "$2,700–$2,800"
-            },
-            "perPersonUsd": {
-              "min": 675,
-              "max": 700,
-              "display": "$675–$700"
-            }
-          },
-          "availableTerms": [
-            "August 2027"
-          ],
-          "statusText": ""
-        },
-        {
           "unitTypeNodeId": "gsr:204:2",
           "title": "4 Bedroom (Available Now)",
           "bedrooms": 4,
@@ -4396,10 +4334,10 @@
         }
       ],
       "representativeFloorplan": {
-        "label": "4 Bedroom",
+        "label": "4 Bedroom (Available Now)",
         "bedrooms": 4,
         "bathrooms": 2,
-        "availabilityStatus": "August 2027",
+        "availabilityStatus": "Available Now",
         "availabilityRows": [],
         "utilitiesIncludedInFee": [],
         "amenities": [
@@ -15287,28 +15225,6 @@
             "August 2027"
           ],
           "statusText": ""
-        },
-        {
-          "unitTypeNodeId": "gsr:189:3",
-          "title": "4 Bedroom",
-          "bedrooms": 4,
-          "bathrooms": 2,
-          "rent": {
-            "perUnitUsd": {
-              "min": 2100,
-              "max": 2100,
-              "display": "$2,100"
-            },
-            "perPersonUsd": {
-              "min": 525,
-              "max": 525,
-              "display": "$525"
-            }
-          },
-          "availableTerms": [
-            "August 2027"
-          ],
-          "statusText": ""
         }
       ],
       "representativeFloorplan": {
@@ -15636,36 +15552,13 @@
         "longitude": -88.2189956,
         "source": "Green Street Realty published latitude/longitude"
       },
-      "availabilityStatus": "advertised",
-      "offers": [
-        {
-          "unitTypeNodeId": "gsr:131:2",
-          "title": "4 Bedroom",
-          "bedrooms": 4,
-          "bathrooms": 1,
-          "rent": {
-            "perUnitUsd": {
-              "min": 1900,
-              "max": 1900,
-              "display": "$1,900"
-            },
-            "perPersonUsd": {
-              "min": 475,
-              "max": 475,
-              "display": "$475"
-            }
-          },
-          "availableTerms": [
-            "August 2027"
-          ],
-          "statusText": ""
-        }
-      ],
+      "availabilityStatus": "not_advertised",
+      "offers": [],
       "representativeFloorplan": {
-        "label": "4 Bedroom",
-        "bedrooms": 4,
-        "bathrooms": 1,
-        "availabilityStatus": "August 2027",
+        "label": "3 Bedroom",
+        "bedrooms": 3,
+        "bathrooms": 2,
+        "availabilityStatus": "Leased",
         "availabilityRows": [],
         "utilitiesIncludedInFee": [],
         "amenities": [

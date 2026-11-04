@@ -3,12 +3,12 @@
   "collection": {
     "source": "Smile Student Living official public availability page",
     "directoryUrl": "https://www.smilestudentliving.com/availability",
-    "capturedOn": "2026-11-03",
+    "capturedOn": "2026-11-04",
     "method": "Paginated public Duda appfolio-listings collection, filtered by the availability widget's Smile UIUC property group; unit listables grouped by published property ID.",
     "buildingCount": 55,
     "advertisedBuildingCount": 55,
-    "advertisedLayoutCount": 138,
-    "sourceListableCount": 139,
+    "advertisedLayoutCount": 139,
+    "sourceListableCount": 140,
     "limitations": "The public collection is an availability-only snapshot, not a full inventory of Smile's unlisted buildings. A zero-rent sublease application is not a rental offer. Published prices may be per person when explicitly stated; otherwise they are labeled monthly without inferring a per-unit basis. Photos are sampled from official URLs. Pins are Smile-provided, not verified footprint centroids.",
     "futureRefreshRequirement": {
       "cadenceHours": 24,
@@ -364,23 +364,6 @@
             "Aug 20, 2027"
           ],
           "statusText": "August 2027! Individual Leasing Available! Two bed one bath apartment in Seniorland. Priced per person. Text to Tour (217) 687-1868"
-        },
-        {
-          "unitTypeNodeId": "smile:784fdff9-b9ae-4a2d-933f-1b82fd3a81da",
-          "title": "3 Bedroom 3 Bath - #201",
-          "bedrooms": 3,
-          "bathrooms": 3.0,
-          "rent": {
-            "perPersonUsd": {
-              "min": 749,
-              "max": 749,
-              "display": "$749"
-            }
-          },
-          "availableTerms": [
-            "Aug 21, 2027"
-          ],
-          "statusText": "August 2027! Three bed three bath apartment in Seniorland. Priced per person. Text to Tour (217) 687-1868"
         }
       ],
       "representativeFloorplan": {
@@ -413,10 +396,7 @@
         "photoSamples": [
           "https://images.cdn.appfolio.com/fairlawn/images/78012227-a47c-4b27-b6d5-79e9df0b625e/large.png",
           "https://images.cdn.appfolio.com/fairlawn/images/86d3a238-4b81-49cf-a0f3-92235f98ce06/large.jpg",
-          "https://images.cdn.appfolio.com/fairlawn/images/f97af59b-fddf-45ee-8391-005af7657943/large.jpg",
-          "https://images.cdn.appfolio.com/fairlawn/images/9e4c85bc-4684-4ab8-9def-3127332c1bc2/large.png",
-          "https://images.cdn.appfolio.com/fairlawn/images/d351d9a0-520f-4560-9183-2b774484f02f/large.jpg",
-          "https://images.cdn.appfolio.com/fairlawn/images/b3a50a7b-4302-48fa-9543-478b65aee0b5/large.jpg"
+          "https://images.cdn.appfolio.com/fairlawn/images/f97af59b-fddf-45ee-8391-005af7657943/large.jpg"
         ]
       }
     },
@@ -2498,6 +2478,40 @@
           "statusText": "$1,000 Gift Card! 3 Left, Available Now, one bed one bath apartment in Midtown neighborhood."
         },
         {
+          "unitTypeNodeId": "smile:87fd89bd-625d-48d1-bcf5-be94a2c689d2",
+          "title": "2 Bedroom 1 Bath",
+          "bedrooms": 2,
+          "bathrooms": 1.0,
+          "rent": {
+            "perPersonUsd": {
+              "min": 829,
+              "max": 829,
+              "display": "$829"
+            }
+          },
+          "availableTerms": [
+            "Aug 20, 2027"
+          ],
+          "statusText": "August 2027-Individual Leasing Available!  Two bed one bath apartment in Midtown neighborhood, priced per person. Text to tour (217) 687-1404"
+        },
+        {
+          "unitTypeNodeId": "smile:9068c51e-6b22-4990-bce7-f2cc93ffc05e",
+          "title": "3 Bedroom 1 Bath",
+          "bedrooms": 3,
+          "bathrooms": 1.0,
+          "rent": {
+            "perPersonUsd": {
+              "min": 669,
+              "max": 669,
+              "display": "$669"
+            }
+          },
+          "availableTerms": [
+            "Aug 20, 2027"
+          ],
+          "statusText": "August 2027-Individual Leasing Available! Three bed one bath apartment in Midtown neighborhood, priced per person. Text to tour (217) 687-1404"
+        },
+        {
           "unitTypeNodeId": "smile:a9afd690-2e9e-4c31-97ee-fa95a5ecf6b6",
           "title": "4 Bedroom 2 Bath - Top Floor",
           "bedrooms": 4,
@@ -2571,11 +2585,11 @@
           "https://images.cdn.appfolio.com/fairlawn/images/4faf12cc-5357-4ba7-895c-8a5f5529b5ff/large.png",
           "https://images.cdn.appfolio.com/fairlawn/images/2c75ae54-9fe7-4c01-9b21-052f0812606a/large.jpg",
           "https://images.cdn.appfolio.com/fairlawn/images/57c27e3b-035b-485a-956c-2e05b4afc374/large.jpg",
-          "https://images.cdn.appfolio.com/fairlawn/images/c526f71d-b176-4440-af58-3352052af063/large.png",
-          "https://images.cdn.appfolio.com/fairlawn/images/d5ed3c3d-6624-4a57-a485-fddf326dfbac/large.jpg",
-          "https://images.cdn.appfolio.com/fairlawn/images/c0025bd8-6051-4f75-a11f-e990ceb0b72d/large.jpg",
-          "https://images.cdn.appfolio.com/fairlawn/images/72fbd106-60a3-4b6b-9068-7ca6d0c05b8b/large.jpg",
-          "https://images.cdn.appfolio.com/fairlawn/images/0c295907-1d57-4215-993f-dce91ad71f80/large.jpg"
+          "https://images.cdn.appfolio.com/fairlawn/images/a9da134d-d85c-421d-9fef-98b5dbfab9da/large.png",
+          "https://images.cdn.appfolio.com/fairlawn/images/ff5f0f09-fe3a-44cd-ae06-a7a294c13124/large.jpg",
+          "https://images.cdn.appfolio.com/fairlawn/images/ffcb79bf-ca1c-42b5-94cf-4510ef41df29/large.jpg",
+          "https://images.cdn.appfolio.com/fairlawn/images/95e2c3d8-5c5e-4f5e-a54e-1e1b4afc78f2/large.png",
+          "https://images.cdn.appfolio.com/fairlawn/images/bc0ace98-cfc1-4bc5-9489-6edbacbab66a/large.jpg"
         ]
       }
     },
