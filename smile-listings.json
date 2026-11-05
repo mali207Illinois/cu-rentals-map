@@ -3,12 +3,12 @@
   "collection": {
     "source": "Smile Student Living official public availability page",
     "directoryUrl": "https://www.smilestudentliving.com/availability",
-    "capturedOn": "2026-11-04",
+    "capturedOn": "2026-11-05",
     "method": "Paginated public Duda appfolio-listings collection, filtered by the availability widget's Smile UIUC property group; unit listables grouped by published property ID.",
     "buildingCount": 55,
     "advertisedBuildingCount": 55,
-    "advertisedLayoutCount": 139,
-    "sourceListableCount": 140,
+    "advertisedLayoutCount": 138,
+    "sourceListableCount": 139,
     "limitations": "The public collection is an availability-only snapshot, not a full inventory of Smile's unlisted buildings. A zero-rent sublease application is not a rental offer. Published prices may be per person when explicitly stated; otherwise they are labeled monthly without inferring a per-unit basis. Photos are sampled from official URLs. Pins are Smile-provided, not verified footprint centroids.",
     "futureRefreshRequirement": {
       "cadenceHours": 24,
@@ -262,23 +262,6 @@
             "Aug 17, 2027"
           ],
           "statusText": "August 2027! Individual Leasing Available! 3 bed 1.5 bath apartment in Gradland. Priced per person. Text to Tour (217) 858-4790"
-        },
-        {
-          "unitTypeNodeId": "smile:7865094b-f430-4277-99da-f746063a6baa",
-          "title": "3 Bedroom 2 Bath",
-          "bedrooms": 3,
-          "bathrooms": 2.0,
-          "rent": {
-            "perPersonUsd": {
-              "min": 689,
-              "max": 689,
-              "display": "$689"
-            }
-          },
-          "availableTerms": [
-            "Aug 17, 2027"
-          ],
-          "statusText": "August 2027! Individual Leasing Available! 3 bed 2 bath apartment in Gradland. Priced per person. Text to Tour (217) 858-4790"
         }
       ],
       "representativeFloorplan": {
@@ -316,9 +299,7 @@
           "https://images.cdn.appfolio.com/fairlawn/images/3f3e6852-6039-4b6b-9f68-e454c3ccbee1/large.jpg",
           "https://images.cdn.appfolio.com/fairlawn/images/2bed3f4d-ae4c-4493-a4e8-b73aad480304/large.png",
           "https://images.cdn.appfolio.com/fairlawn/images/cb1bc01b-1fa3-4737-84db-a1cdb02805c0/large.jpg",
-          "https://images.cdn.appfolio.com/fairlawn/images/b4366df6-3a90-4258-ba31-33d997b97576/large.jpg",
-          "https://images.cdn.appfolio.com/fairlawn/images/f2518546-f828-45e4-bdea-8cd1daa3e744/large.png",
-          "https://images.cdn.appfolio.com/fairlawn/images/8bb63afb-8b8f-460e-aed7-eebaf5c5ac4b/large.jpg"
+          "https://images.cdn.appfolio.com/fairlawn/images/b4366df6-3a90-4258-ba31-33d997b97576/large.jpg"
         ]
       }
     },
