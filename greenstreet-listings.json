@@ -3,11 +3,11 @@
   "collection": {
     "source": "Green Street Realty official public website",
     "directoryUrl": "https://www.greenstrealty.com/properties",
-    "capturedOn": "2026-11-05",
+    "capturedOn": "2026-11-07",
     "method": "Embedded public property-info-json records on the property directory page.",
     "buildingCount": 248,
     "advertisedBuildingCount": 141,
-    "advertisedLayoutCount": 299,
+    "advertisedLayoutCount": 296,
     "limitations": "Directory plans are published floor-plan offers, not live unit inventory. Leased and past-dated plans are not marked available. Coordinates are realtor-provided pins, not verified footprint centroids.",
     "futureRefreshRequirement": {
       "cadenceHours": 24,
@@ -2711,28 +2711,6 @@
       "availabilityStatus": "advertised",
       "offers": [
         {
-          "unitTypeNodeId": "gsr:152:1",
-          "title": "3 Bedroom",
-          "bedrooms": 3,
-          "bathrooms": 1.5,
-          "rent": {
-            "perUnitUsd": {
-              "min": 1750,
-              "max": 1750,
-              "display": "$1,750"
-            },
-            "perPersonUsd": {
-              "min": 583.33,
-              "max": 583.33,
-              "display": "$583.33"
-            }
-          },
-          "availableTerms": [
-            "August 2027"
-          ],
-          "statusText": ""
-        },
-        {
           "unitTypeNodeId": "gsr:152:2",
           "title": "4 Bedroom",
           "bedrooms": 4,
@@ -2778,9 +2756,9 @@
         }
       ],
       "representativeFloorplan": {
-        "label": "3 Bedroom",
-        "bedrooms": 3,
-        "bathrooms": 1.5,
+        "label": "4 Bedroom",
+        "bedrooms": 4,
+        "bathrooms": 2,
         "availabilityStatus": "August 2027",
         "availabilityRows": [],
         "utilitiesIncludedInFee": [],
@@ -3945,28 +3923,6 @@
               "min": 1025,
               "max": 1025,
               "display": "$1,025"
-            }
-          },
-          "availableTerms": [
-            "August 2027"
-          ],
-          "statusText": ""
-        },
-        {
-          "unitTypeNodeId": "gsr:12:2",
-          "title": "3 Bedroom",
-          "bedrooms": 3,
-          "bathrooms": 3,
-          "rent": {
-            "perUnitUsd": {
-              "min": 3050,
-              "max": 3050,
-              "display": "$3,050"
-            },
-            "perPersonUsd": {
-              "min": 1016.67,
-              "max": 1016.67,
-              "display": "$1,016.67"
             }
           },
           "availableTerms": [
@@ -11880,28 +11836,6 @@
               "min": 787.5,
               "max": 787.5,
               "display": "$787.5"
-            }
-          },
-          "availableTerms": [
-            "August 2027"
-          ],
-          "statusText": ""
-        },
-        {
-          "unitTypeNodeId": "gsr:365:3",
-          "title": "3 Bedroom",
-          "bedrooms": 3,
-          "bathrooms": 2,
-          "rent": {
-            "perUnitUsd": {
-              "min": 2300,
-              "max": 2400,
-              "display": "$2,300–$2,400"
-            },
-            "perPersonUsd": {
-              "min": 766.66,
-              "max": 800,
-              "display": "$766.66–$800"
             }
           },
           "availableTerms": [

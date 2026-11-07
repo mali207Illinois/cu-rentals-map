@@ -3,7 +3,7 @@
   "collection": {
     "source": "Smile Student Living official public availability page",
     "directoryUrl": "https://www.smilestudentliving.com/availability",
-    "capturedOn": "2026-11-05",
+    "capturedOn": "2026-11-07",
     "method": "Paginated public Duda appfolio-listings collection, filtered by the availability widget's Smile UIUC property group; unit listables grouped by published property ID.",
     "buildingCount": 55,
     "advertisedBuildingCount": 55,
@@ -2459,6 +2459,23 @@
           "statusText": "$1,000 Gift Card! 3 Left, Available Now, one bed one bath apartment in Midtown neighborhood."
         },
         {
+          "unitTypeNodeId": "smile:a6adf5c5-d325-4d5f-88fb-69c1fe3a4b77",
+          "title": "1 Bedroom 1 Bath - Top Floor",
+          "bedrooms": 1,
+          "bathrooms": 1.0,
+          "rent": {
+            "perPersonUsd": {
+              "min": 1499,
+              "max": 1499,
+              "display": "$1,499"
+            }
+          },
+          "availableTerms": [
+            "Aug 20, 2027"
+          ],
+          "statusText": "August 2027- Individual Leasing Available!  1 bed 1 bath apartment in Midtown. Priced per person,"
+        },
+        {
           "unitTypeNodeId": "smile:87fd89bd-625d-48d1-bcf5-be94a2c689d2",
           "title": "2 Bedroom 1 Bath",
           "bedrooms": 2,
@@ -4050,23 +4067,6 @@
           "statusText": "August 2027. One bed one bath apartment in Seniorland neighborhood, priced per person. Text to tour 217-687-1412"
         },
         {
-          "unitTypeNodeId": "smile:3b044638-f71f-4a43-9736-572a3a63c833",
-          "title": "2 Bedroom 1 Bath",
-          "bedrooms": 2,
-          "bathrooms": 1.0,
-          "rent": {
-            "perPersonUsd": {
-              "min": 739,
-              "max": 739,
-              "display": "$739"
-            }
-          },
-          "availableTerms": [
-            "Aug 20, 2027"
-          ],
-          "statusText": "August 2027-Individual Leasing Available!  Two bed one bath apartment in Seniorland neighborhood, priced per person. Text to tour 217-687-1412"
-        },
-        {
           "unitTypeNodeId": "smile:ab6a3562-1918-4f77-8176-d5ba48707cff",
           "title": "2 Bedroom 2 Bath",
           "bedrooms": 2,
@@ -4134,11 +4134,11 @@
           "https://images.cdn.appfolio.com/fairlawn/images/6cca3f49-6ba2-4a87-9541-a3830b31174a/large.png",
           "https://images.cdn.appfolio.com/fairlawn/images/4d54769c-abb6-4af5-aad3-362f3d473e27/large.png",
           "https://images.cdn.appfolio.com/fairlawn/images/305c5d71-7402-4b11-9bd8-9a2357c9c093/large.jpg",
-          "https://images.cdn.appfolio.com/fairlawn/images/9f0945ab-4f34-454a-a8f2-d226635a1b72/large.png",
-          "https://images.cdn.appfolio.com/fairlawn/images/a2f78c40-8ce9-4671-b3e2-c9d0cbb10686/large.png",
-          "https://images.cdn.appfolio.com/fairlawn/images/c65b2ce3-f075-4cc5-8260-3d9f4f51445b/large.jpg",
           "https://images.cdn.appfolio.com/fairlawn/images/fef8a90c-4867-4e83-bbd0-74b81ca15d34/large.png",
-          "https://images.cdn.appfolio.com/fairlawn/images/75a21a28-6665-4b61-b84a-7f2db6e78391/large.png"
+          "https://images.cdn.appfolio.com/fairlawn/images/75a21a28-6665-4b61-b84a-7f2db6e78391/large.png",
+          "https://images.cdn.appfolio.com/fairlawn/images/d4c8167f-76e6-47d7-95ce-00b10530a979/large.jpg",
+          "https://images.cdn.appfolio.com/fairlawn/images/594e8e76-3087-49d1-b161-2ab3ad4820c2/large.png",
+          "https://images.cdn.appfolio.com/fairlawn/images/4233089c-78ca-4a7e-aff8-c85195e7d558/large.png"
         ]
       }
     },
@@ -4362,9 +4362,9 @@
           "bathrooms": 3.0,
           "rent": {
             "perPersonUsd": {
-              "min": 1119,
-              "max": 1119,
-              "display": "$1,119"
+              "min": 1139,
+              "max": 1139,
+              "display": "$1,139"
             }
           },
           "availableTerms": [
