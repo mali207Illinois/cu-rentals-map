@@ -3,7 +3,7 @@
   "collection": {
     "source": "Green Street Realty official public website",
     "directoryUrl": "https://www.greenstrealty.com/properties",
-    "capturedOn": "2026-11-07",
+    "capturedOn": "2026-11-08",
     "method": "Embedded public property-info-json records on the property directory page.",
     "buildingCount": 248,
     "advertisedBuildingCount": 141,
