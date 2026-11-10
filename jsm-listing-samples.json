@@ -4,11 +4,11 @@
     "source": "JSM Living official public website",
     "availabilityUrl": "https://www.jsmliving.com/search-available-units",
     "directoryUrl": "https://www.jsmliving.com/buildings",
-    "capturedOn": "2026-11-05",
+    "capturedOn": "2026-11-10",
     "method": "Public building directory and availability cards; coordinates, photos and details from official building pages.",
     "buildingCount": 47,
-    "advertisedBuildingCount": 30,
-    "advertisedLayoutCount": 45,
+    "advertisedBuildingCount": 29,
+    "advertisedLayoutCount": 43,
     "limitations": "Offers are advertised floor-plan types, not unit inventory. No-availability properties are present but not marked for rent. Coordinates are JSM map pins, not verified footprint centroids.",
     "futureRefreshRequirement": {
       "cadenceHours": 24,
@@ -45,13 +45,13 @@
           "rent": {
             "perUnitUsd": {
               "min": 1790,
-              "max": 1960,
-              "display": "$1790-1960/Unit"
+              "max": 1970,
+              "display": "$1790-1970/Unit"
             },
             "perPersonUsd": {
               "min": 895,
-              "max": 980,
-              "display": "$895.00 - $980.00/Person"
+              "max": 985,
+              "display": "$895.00 - $985.00/Person"
             }
           },
           "availableTerms": [
@@ -67,7 +67,7 @@
         "availabilityRows": [
           {
             "term": "Fall 2027",
-            "rentUsd": 1860,
+            "rentUsd": 1870,
             "unitUtilityFeeUsd": 89
           }
         ],
@@ -299,9 +299,9 @@
           "bathrooms": 1,
           "rent": {
             "perUnitUsd": {
-              "min": 865,
-              "max": 960,
-              "display": "$865-960/Unit"
+              "min": 870,
+              "max": 965,
+              "display": "$870-965/Unit"
             }
           },
           "availableTerms": [
@@ -485,9 +485,9 @@
           "bathrooms": 1,
           "rent": {
             "perUnitUsd": {
-              "min": 1144,
-              "max": 1144,
-              "display": "$1144/Unit"
+              "min": 1149,
+              "max": 1149,
+              "display": "$1149/Unit"
             }
           },
           "availableTerms": [
@@ -788,8 +788,8 @@
           "rent": {
             "perUnitUsd": {
               "min": 795,
-              "max": 810,
-              "display": "$795-810/Unit"
+              "max": 820,
+              "display": "$795-820/Unit"
             }
           },
           "availableTerms": [
@@ -909,8 +909,8 @@
           "rent": {
             "perUnitUsd": {
               "min": 870,
-              "max": 890,
-              "display": "$870-890/Unit"
+              "max": 895,
+              "display": "$870-895/Unit"
             }
           },
           "availableTerms": [
@@ -1030,9 +1030,9 @@
           "bathrooms": 1,
           "rent": {
             "perUnitUsd": {
-              "min": 1005,
-              "max": 1005,
-              "display": "$1005/Unit"
+              "min": 1015,
+              "max": 1015,
+              "display": "$1015/Unit"
             }
           },
           "availableTerms": [
@@ -1099,8 +1099,8 @@
           "rent": {
             "perUnitUsd": {
               "min": 995,
-              "max": 1065,
-              "display": "$995-1065/Unit"
+              "max": 1070,
+              "display": "$995-1070/Unit"
             }
           },
           "availableTerms": [
@@ -1356,9 +1356,9 @@
           "bathrooms": 1,
           "rent": {
             "perUnitUsd": {
-              "min": 1170,
-              "max": 1170,
-              "display": "$1170/Unit"
+              "min": 1180,
+              "max": 1180,
+              "display": "$1180/Unit"
             }
           },
           "availableTerms": [
@@ -1425,8 +1425,8 @@
           "rent": {
             "perUnitUsd": {
               "min": 1075,
-              "max": 1090,
-              "display": "$1075-1090/Unit"
+              "max": 1095,
+              "display": "$1075-1095/Unit"
             }
           },
           "availableTerms": [
@@ -1776,43 +1776,15 @@
         "latitude": 40.109597013377,
         "longitude": -88.231082,
         "source": "JSM property detail page latitude/longitude metadata",
-        "mapPointUnitId": "130212"
+        "mapPointUnitId": null
       },
-      "availabilityStatus": "advertised",
-      "offers": [
-        {
-          "unitTypeNodeId": "130212",
-          "bedrooms": 4,
-          "bathrooms": 2,
-          "rent": {
-            "perUnitUsd": {
-              "min": 3600,
-              "max": 3600,
-              "display": "$3600/Unit"
-            },
-            "perPersonUsd": {
-              "min": 900,
-              "max": 900,
-              "display": "$900.00/Person"
-            }
-          },
-          "availableTerms": [
-            "Fall 2027"
-          ],
-          "statusText": "Now Leasing for Fall 2027!"
-        }
-      ],
+      "availabilityStatus": "not_advertised",
+      "offers": [],
       "representativeFloorplan": {
         "label": "Standard",
         "bedrooms": 4,
         "bathrooms": 2,
-        "availabilityRows": [
-          {
-            "term": "Fall 2027",
-            "rentUsd": 3600,
-            "unitUtilityFeeUsd": 202
-          }
-        ],
+        "availabilityRows": [],
         "utilitiesIncludedInFee": [
           "Water",
           "Sewer",
@@ -1939,29 +1911,8 @@
           "rent": {
             "perUnitUsd": {
               "min": 1555,
-              "max": 1710,
-              "display": "$1555-1710/Unit"
-            }
-          },
-          "availableTerms": [
-            "Fall 2027"
-          ],
-          "statusText": "Now Leasing for Fall 2027!"
-        },
-        {
-          "unitTypeNodeId": "130296",
-          "bedrooms": 2,
-          "bathrooms": 1,
-          "rent": {
-            "perUnitUsd": {
-              "min": 1940,
-              "max": 2260,
-              "display": "$1940-2260/Unit"
-            },
-            "perPersonUsd": {
-              "min": 970,
-              "max": 1130,
-              "display": "$970.00 - $1,130.00/Person"
+              "max": 1730,
+              "display": "$1555-1730/Unit"
             }
           },
           "availableTerms": [
@@ -2099,9 +2050,9 @@
           "bathrooms": 1,
           "rent": {
             "perUnitUsd": {
-              "min": 930,
+              "min": 935,
               "max": 1060,
-              "display": "$930-1060/Unit"
+              "display": "$935-1060/Unit"
             }
           },
           "availableTerms": [
@@ -2397,6 +2348,58 @@
       }
     },
     {
+      "name": "608 S. Sixth",
+      "propertyNodeId": "130564",
+      "propertyUrl": "https://www.jsmliving.com/node/130564",
+      "sourceName": "JSM Living",
+      "sourceUrl": "https://www.jsmliving.com/",
+      "sourceLogoUrl": "https://www.jsmliving.com/themes/custom/custom/images/JSM-logo.png",
+      "address": {
+        "street": "608 S. Sixth",
+        "locality": null,
+        "region": "IL",
+        "postalCode": null,
+        "source": "JSM listing title"
+      },
+      "mapPoint": {
+        "latitude": 40.110817413378,
+        "longitude": -88.2301846,
+        "source": "JSM property detail page latitude/longitude metadata",
+        "mapPointUnitId": null
+      },
+      "availabilityStatus": "not_advertised",
+      "offers": [],
+      "representativeFloorplan": {
+        "label": "Standard",
+        "bedrooms": 4,
+        "bathrooms": 2,
+        "availabilityRows": [],
+        "utilitiesIncludedInFee": [
+          "Water",
+          "Sewer",
+          "Internet",
+          "and Electricity"
+        ],
+        "amenities": [
+          "Secure Entry",
+          "Leased Parking",
+          "Laundry In Unit",
+          "JSM VIP Program Access",
+          "JSM Fitness Center Access",
+          "JSM Student Center Access"
+        ],
+        "floorplanImage": "https://www.jsmliving.com/sites/default/files/2021-07/608S%20FLOOR%20PLAN-COLOR.jpg",
+        "photoSamples": [
+          "https://www.jsmliving.com/sites/default/files/2022-10/608%20S%20Sixth%20Champaign%20IL%2061820-large-009-006-Exterior-1500x1000-72dpi.jpg",
+          "https://www.jsmliving.com/sites/default/files/2021-07/IMG_1028.jpg",
+          "https://www.jsmliving.com/sites/default/files/2021-07/IMG_1020.jpg",
+          "https://www.jsmliving.com/sites/default/files/2021-07/IMG_1061.jpg",
+          "https://www.jsmliving.com/sites/default/files/2021-07/IMG_1022.jpg",
+          "https://www.jsmliving.com/sites/default/files/2021-07/IMG_1040.jpg"
+        ]
+      }
+    },
+    {
       "name": "608 E. Green",
       "propertyNodeId": "130561",
       "propertyUrl": "https://www.jsmliving.com/node/130561",
@@ -2473,58 +2476,6 @@
           "https://www.jsmliving.com/sites/default/files/2026-07/005-008-Living%20Room-1500x1000.jpg",
           "https://www.jsmliving.com/sites/default/files/2026-07/006-018-Living%20Room-1500x1000.jpg",
           "https://www.jsmliving.com/sites/default/files/2026-07/007-010-Bedroom-1500x1000.jpg"
-        ]
-      }
-    },
-    {
-      "name": "608 S. Sixth",
-      "propertyNodeId": "130564",
-      "propertyUrl": "https://www.jsmliving.com/node/130564",
-      "sourceName": "JSM Living",
-      "sourceUrl": "https://www.jsmliving.com/",
-      "sourceLogoUrl": "https://www.jsmliving.com/themes/custom/custom/images/JSM-logo.png",
-      "address": {
-        "street": "608 S. Sixth",
-        "locality": null,
-        "region": "IL",
-        "postalCode": null,
-        "source": "JSM listing title"
-      },
-      "mapPoint": {
-        "latitude": 40.110817413378,
-        "longitude": -88.2301846,
-        "source": "JSM property detail page latitude/longitude metadata",
-        "mapPointUnitId": null
-      },
-      "availabilityStatus": "not_advertised",
-      "offers": [],
-      "representativeFloorplan": {
-        "label": "Standard",
-        "bedrooms": 4,
-        "bathrooms": 2,
-        "availabilityRows": [],
-        "utilitiesIncludedInFee": [
-          "Water",
-          "Sewer",
-          "Internet",
-          "and Electricity"
-        ],
-        "amenities": [
-          "Secure Entry",
-          "Leased Parking",
-          "Laundry In Unit",
-          "JSM VIP Program Access",
-          "JSM Fitness Center Access",
-          "JSM Student Center Access"
-        ],
-        "floorplanImage": "https://www.jsmliving.com/sites/default/files/2021-07/608S%20FLOOR%20PLAN-COLOR.jpg",
-        "photoSamples": [
-          "https://www.jsmliving.com/sites/default/files/2022-10/608%20S%20Sixth%20Champaign%20IL%2061820-large-009-006-Exterior-1500x1000-72dpi.jpg",
-          "https://www.jsmliving.com/sites/default/files/2021-07/IMG_1028.jpg",
-          "https://www.jsmliving.com/sites/default/files/2021-07/IMG_1020.jpg",
-          "https://www.jsmliving.com/sites/default/files/2021-07/IMG_1061.jpg",
-          "https://www.jsmliving.com/sites/default/files/2021-07/IMG_1022.jpg",
-          "https://www.jsmliving.com/sites/default/files/2021-07/IMG_1040.jpg"
         ]
       }
     },
@@ -2610,9 +2561,9 @@
           "bathrooms": 1,
           "rent": {
             "perUnitUsd": {
-              "min": 1250,
-              "max": 1535,
-              "display": "$1250-1535/Unit"
+              "min": 1260,
+              "max": 1545,
+              "display": "$1260-1545/Unit"
             }
           },
           "availableTerms": [
@@ -2626,14 +2577,14 @@
           "bathrooms": 1,
           "rent": {
             "perUnitUsd": {
-              "min": 1830,
-              "max": 1830,
-              "display": "$1830/Unit"
+              "min": 1850,
+              "max": 1850,
+              "display": "$1850/Unit"
             },
             "perPersonUsd": {
-              "min": 915,
-              "max": 915,
-              "display": "$915.00/Person"
+              "min": 925,
+              "max": 925,
+              "display": "$925.00/Person"
             }
           },
           "availableTerms": [
@@ -2706,9 +2657,9 @@
           "bathrooms": 1,
           "rent": {
             "perUnitUsd": {
-              "min": 1240,
-              "max": 1465,
-              "display": "$1240-1465/Unit"
+              "min": 1245,
+              "max": 1470,
+              "display": "$1245-1470/Unit"
             }
           },
           "availableTerms": [
@@ -2722,14 +2673,14 @@
           "bathrooms": 1,
           "rent": {
             "perUnitUsd": {
-              "min": 1750,
-              "max": 1750,
-              "display": "$1750/Unit"
+              "min": 1760,
+              "max": 1760,
+              "display": "$1760/Unit"
             },
             "perPersonUsd": {
-              "min": 875,
-              "max": 875,
-              "display": "$875.00/Person"
+              "min": 880,
+              "max": 880,
+              "display": "$880.00/Person"
             }
           },
           "availableTerms": [

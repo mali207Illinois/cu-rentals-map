@@ -3,7 +3,7 @@
   "collection": {
     "source": "Smile Student Living official public availability page",
     "directoryUrl": "https://www.smilestudentliving.com/availability",
-    "capturedOn": "2026-11-09",
+    "capturedOn": "2026-11-10",
     "method": "Paginated public Duda appfolio-listings collection, filtered by the availability widget's Smile UIUC property group; unit listables grouped by published property ID.",
     "buildingCount": 55,
     "advertisedBuildingCount": 55,
@@ -44,7 +44,7 @@
       "offers": [
         {
           "unitTypeNodeId": "smile:f261a31e-46b0-4f93-9727-ded26f1c96af",
-          "title": "2 Bedroom 1 Bath - First Floor",
+          "title": "2 Bedroom 1 Bathroom - First Floor",
           "bedrooms": 2,
           "bathrooms": 1.0,
           "rent": {
@@ -61,7 +61,7 @@
         }
       ],
       "representativeFloorplan": {
-        "label": "2 Bedroom 1 Bath - First Floor",
+        "label": "2 Bedroom 1 Bathroom - First Floor",
         "bedrooms": 2,
         "bathrooms": 1.0,
         "availabilityStatus": "Available Aug 17, 2027",
@@ -136,7 +136,7 @@
         },
         {
           "unitTypeNodeId": "smile:b0b34010-8d9d-46ee-83ae-3d6091e5d8de",
-          "title": "1 Bed 1 Bath",
+          "title": "1 Bedroom 1 Bathroom",
           "bedrooms": 1,
           "bathrooms": 1.0,
           "rent": {
@@ -153,7 +153,7 @@
         },
         {
           "unitTypeNodeId": "smile:7d200cde-61fb-4bb9-8bc8-7fb82a9555ba",
-          "title": "1 Bed 1 Bath",
+          "title": "1 Bedroom 1 Bathroom",
           "bedrooms": 1,
           "bathrooms": 1.0,
           "rent": {
@@ -231,7 +231,7 @@
       "offers": [
         {
           "unitTypeNodeId": "smile:d64e3ef9-185f-4f1d-abcf-11c3f7aa1255",
-          "title": "2 Bedroom 1 Bath",
+          "title": "2 Bedroom 1 Bathroom",
           "bedrooms": 2,
           "bathrooms": 1.0,
           "rent": {
@@ -265,7 +265,7 @@
         }
       ],
       "representativeFloorplan": {
-        "label": "2 Bedroom 1 Bath",
+        "label": "2 Bedroom 1 Bathroom",
         "bedrooms": 2,
         "bathrooms": 1.0,
         "availabilityStatus": "Available Aug 17, 2027",
