@@ -3,11 +3,11 @@
   "collection": {
     "source": "Green Street Realty official public website",
     "directoryUrl": "https://www.greenstrealty.com/properties",
-    "capturedOn": "2026-11-10",
+    "capturedOn": "2026-11-11",
     "method": "Embedded public property-info-json records on the property directory page.",
     "buildingCount": 248,
     "advertisedBuildingCount": 140,
-    "advertisedLayoutCount": 290,
+    "advertisedLayoutCount": 288,
     "limitations": "Directory plans are published floor-plan offers, not live unit inventory. Leased and past-dated plans are not marked available. Coordinates are realtor-provided pins, not verified footprint centroids.",
     "futureRefreshRequirement": {
       "cadenceHours": 24,
@@ -1368,50 +1368,6 @@
       "availabilityStatus": "advertised",
       "offers": [
         {
-          "unitTypeNodeId": "gsr:132:2",
-          "title": "2 Bedroom/1 Bathroom",
-          "bedrooms": 2,
-          "bathrooms": 1,
-          "rent": {
-            "perUnitUsd": {
-              "min": 2200,
-              "max": 2250,
-              "display": "$2,200–$2,250"
-            },
-            "perPersonUsd": {
-              "min": 1100,
-              "max": 1125,
-              "display": "$1,100–$1,125"
-            }
-          },
-          "availableTerms": [
-            "August 2027"
-          ],
-          "statusText": ""
-        },
-        {
-          "unitTypeNodeId": "gsr:132:3",
-          "title": "2 Bedroom/2 Bathroom",
-          "bedrooms": 2,
-          "bathrooms": 2,
-          "rent": {
-            "perUnitUsd": {
-              "min": 2300,
-              "max": 2400,
-              "display": "$2,300–$2,400"
-            },
-            "perPersonUsd": {
-              "min": 1150,
-              "max": 1200,
-              "display": "$1,150–$1,200"
-            }
-          },
-          "availableTerms": [
-            "August 2027"
-          ],
-          "statusText": ""
-        },
-        {
           "unitTypeNodeId": "gsr:132:5",
           "title": "2 Bedroom (Available Now)",
           "bedrooms": 2,
@@ -1435,10 +1391,10 @@
         }
       ],
       "representativeFloorplan": {
-        "label": "2 Bedroom/1 Bathroom",
+        "label": "2 Bedroom (Available Now)",
         "bedrooms": 2,
-        "bathrooms": 1,
-        "availabilityStatus": "August 2027",
+        "bathrooms": 2,
+        "availabilityStatus": "Available Now",
         "availabilityRows": [],
         "utilitiesIncludedInFee": [],
         "amenities": [
@@ -1447,7 +1403,7 @@
           "Elevator",
           "Balcony"
         ],
-        "floorplanImage": "https://www.greenstrealty.com/image/7774/900",
+        "floorplanImage": null,
         "photoSamples": [
           "https://www.greenstrealty.com/image/13744/900",
           "https://www.greenstrealty.com/image/9267/900",

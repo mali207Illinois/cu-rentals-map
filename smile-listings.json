@@ -3,7 +3,7 @@
   "collection": {
     "source": "Smile Student Living official public availability page",
     "directoryUrl": "https://www.smilestudentliving.com/availability",
-    "capturedOn": "2026-11-10",
+    "capturedOn": "2026-11-11",
     "method": "Paginated public Duda appfolio-listings collection, filtered by the availability widget's Smile UIUC property group; unit listables grouped by published property ID.",
     "buildingCount": 55,
     "advertisedBuildingCount": 55,
@@ -248,7 +248,7 @@
         },
         {
           "unitTypeNodeId": "smile:4cba10e8-74b7-4ea7-8a4a-676e3c5663de",
-          "title": "3 Bedroom 1.5 Bath",
+          "title": "3 Bedroom 1.5 Bathroom",
           "bedrooms": 3,
           "bathrooms": 1.5,
           "rent": {
