@@ -3,7 +3,7 @@
   "collection": {
     "source": "Bankier Apartments official public availability directory",
     "directoryUrl": "https://bankierapartments.com/properties/",
-    "capturedOn": "2026-11-11",
+    "capturedOn": "2026-11-12",
     "method": "The default public property-search response linked from Bankier's directory form.",
     "buildingCount": 13,
     "advertisedBuildingCount": 13,

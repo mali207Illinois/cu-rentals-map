@@ -3,11 +3,11 @@
   "collection": {
     "source": "Green Street Realty official public website",
     "directoryUrl": "https://www.greenstrealty.com/properties",
-    "capturedOn": "2026-11-11",
+    "capturedOn": "2026-11-12",
     "method": "Embedded public property-info-json records on the property directory page.",
     "buildingCount": 248,
-    "advertisedBuildingCount": 140,
-    "advertisedLayoutCount": 288,
+    "advertisedBuildingCount": 139,
+    "advertisedLayoutCount": 287,
     "limitations": "Directory plans are published floor-plan offers, not live unit inventory. Leased and past-dated plans are not marked available. Coordinates are realtor-provided pins, not verified footprint centroids.",
     "futureRefreshRequirement": {
       "cadenceHours": 24,
@@ -1541,36 +1541,13 @@
         "longitude": -88.231854,
         "source": "Green Street Realty published latitude/longitude"
       },
-      "availabilityStatus": "advertised",
-      "offers": [
-        {
-          "unitTypeNodeId": "gsr:48:1",
-          "title": "3 Bedroom",
-          "bedrooms": 3,
-          "bathrooms": 2,
-          "rent": {
-            "perUnitUsd": {
-              "min": 2395,
-              "max": 2425,
-              "display": "$2,395–$2,425"
-            },
-            "perPersonUsd": {
-              "min": 798.33,
-              "max": 808.33,
-              "display": "$798.33–$808.33"
-            }
-          },
-          "availableTerms": [
-            "August 2027"
-          ],
-          "statusText": ""
-        }
-      ],
+      "availabilityStatus": "not_advertised",
+      "offers": [],
       "representativeFloorplan": {
         "label": "3 Bedroom",
         "bedrooms": 3,
         "bathrooms": 2,
-        "availabilityStatus": "August 2027",
+        "availabilityStatus": "Leased",
         "availabilityRows": [],
         "utilitiesIncludedInFee": [],
         "amenities": [
