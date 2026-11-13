@@ -3,12 +3,12 @@
   "collection": {
     "source": "Smile Student Living official public availability page",
     "directoryUrl": "https://www.smilestudentliving.com/availability",
-    "capturedOn": "2026-11-12",
+    "capturedOn": "2026-11-13",
     "method": "Paginated public Duda appfolio-listings collection, filtered by the availability widget's Smile UIUC property group; unit listables grouped by published property ID.",
     "buildingCount": 55,
     "advertisedBuildingCount": 55,
-    "advertisedLayoutCount": 138,
-    "sourceListableCount": 139,
+    "advertisedLayoutCount": 137,
+    "sourceListableCount": 138,
     "limitations": "The public collection is an availability-only snapshot, not a full inventory of Smile's unlisted buildings. A zero-rent sublease application is not a rental offer. Published prices may be per person when explicitly stated; otherwise they are labeled monthly without inferring a per-unit basis. Photos are sampled from official URLs. Pins are Smile-provided, not verified footprint centroids.",
     "futureRefreshRequirement": {
       "cadenceHours": 24,
@@ -5750,23 +5750,6 @@
           "statusText": "August 2027! 2 bed 1 bath apartment in Art District. Priced per person. Text to tour (217) 858-2390"
         },
         {
-          "unitTypeNodeId": "smile:dff7dc4e-6999-4cf4-b464-6f068b7ab901",
-          "title": "2 Bedroom 1 Bath - First Floor",
-          "bedrooms": 2,
-          "bathrooms": 1.0,
-          "rent": {
-            "perMonthUsd": {
-              "min": 1050,
-              "max": 1050,
-              "display": "$1,050"
-            }
-          },
-          "availableTerms": [
-            "Aug 17, 2027"
-          ],
-          "statusText": "Great first floor 2x1 apartments with tall ceilings near The Krannert Center! Text to tour 217 8582390"
-        },
-        {
           "unitTypeNodeId": "smile:f42194e7-9ffd-4ef9-ac29-b25e63d9d73c",
           "title": "3 Bedroom 1 Bath",
           "bedrooms": 3,
@@ -5817,11 +5800,9 @@
           "https://images.cdn.appfolio.com/fairlawn/images/c3fbaf6d-7bf9-4c3a-ba21-8d4ee6219678/large.png",
           "https://images.cdn.appfolio.com/fairlawn/images/7947a45a-939a-4c67-84aa-c3ec3a1b7f35/large.png",
           "https://images.cdn.appfolio.com/fairlawn/images/fd380412-f5a0-4a07-b31e-bc4f8efe7ea0/large.jpg",
-          "https://images.cdn.appfolio.com/fairlawn/images/8bf6df0e-c5bb-43da-90f5-6e06a7c2b242/large.png",
-          "https://images.cdn.appfolio.com/fairlawn/images/04f3fab1-9427-47cf-8c6c-60f71440e495/large.png",
-          "https://images.cdn.appfolio.com/fairlawn/images/7e1e4f1c-5ce4-406b-8281-03f5119c288e/large.jpg",
           "https://images.cdn.appfolio.com/fairlawn/images/21a58875-0089-43d7-99d4-fa5fe6d242f9/large.png",
-          "https://images.cdn.appfolio.com/fairlawn/images/b75b4048-8955-4bbe-86df-4df852cf66cd/large.png"
+          "https://images.cdn.appfolio.com/fairlawn/images/b75b4048-8955-4bbe-86df-4df852cf66cd/large.png",
+          "https://images.cdn.appfolio.com/fairlawn/images/2cab8db3-25ba-4c03-b623-42fc65daaf68/large.jpg"
         ]
       }
     },

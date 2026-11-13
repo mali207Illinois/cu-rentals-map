@@ -4,7 +4,7 @@
     "source": "JSM Living official public website",
     "availabilityUrl": "https://www.jsmliving.com/search-available-units",
     "directoryUrl": "https://www.jsmliving.com/buildings",
-    "capturedOn": "2026-11-10",
+    "capturedOn": "2026-11-13",
     "method": "Public building directory and availability cards; coordinates, photos and details from official building pages.",
     "buildingCount": 47,
     "advertisedBuildingCount": 29,
@@ -289,12 +289,12 @@
         "latitude": 40.111461413378,
         "longitude": -88.22026055,
         "source": "JSM property detail page latitude/longitude metadata",
-        "mapPointUnitId": "129492"
+        "mapPointUnitId": "129499"
       },
       "availabilityStatus": "advertised",
       "offers": [
         {
-          "unitTypeNodeId": "129492",
+          "unitTypeNodeId": "129499",
           "bedrooms": 1,
           "bathrooms": 1,
           "rent": {
@@ -311,7 +311,7 @@
         }
       ],
       "representativeFloorplan": {
-        "label": "A",
+        "label": "C",
         "bedrooms": 1,
         "bathrooms": 1,
         "availabilityRows": [],
@@ -327,7 +327,7 @@
           "JSM Fitness Center Access",
           "JSM Student Center Access"
         ],
-        "floorplanImage": "https://www.jsmliving.com/sites/default/files/2024-10/110G-1BR-A%20PLAN-COLOR.jpg",
+        "floorplanImage": "https://www.jsmliving.com/sites/default/files/2024-10/110G-1BR-C%20PLAN-COLOR_0.jpg",
         "photoSamples": [
           "https://www.jsmliving.com/sites/default/files/2021-07/110%20S%20Gregory%20St%203%20Urbana%20IL-large-001-004-Exterior-1500x1000-72dpi.jpg",
           "https://www.jsmliving.com/sites/default/files/2021-06/110%20S%20Gregory%20St%203%20Urbana%20IL-large-006-010-Exterior-1500x1000-72dpi.jpg",
@@ -1397,77 +1397,6 @@
       }
     },
     {
-      "name": "505 E. Clark",
-      "propertyNodeId": "130115",
-      "propertyUrl": "https://www.jsmliving.com/node/130115",
-      "sourceName": "JSM Living",
-      "sourceUrl": "https://www.jsmliving.com/",
-      "sourceLogoUrl": "https://www.jsmliving.com/themes/custom/custom/images/JSM-logo.png",
-      "address": {
-        "street": "505 E. Clark",
-        "locality": null,
-        "region": "IL",
-        "postalCode": null,
-        "source": "JSM listing title"
-      },
-      "mapPoint": {
-        "latitude": 40.11513216338,
-        "longitude": -88.2313849,
-        "source": "JSM property detail page latitude/longitude metadata",
-        "mapPointUnitId": "130130"
-      },
-      "availabilityStatus": "advertised",
-      "offers": [
-        {
-          "unitTypeNodeId": "130130",
-          "bedrooms": 0,
-          "bathrooms": 1,
-          "rent": {
-            "perUnitUsd": {
-              "min": 1075,
-              "max": 1095,
-              "display": "$1075-1095/Unit"
-            }
-          },
-          "availableTerms": [
-            "Fall 2027"
-          ],
-          "statusText": "Now Leasing for Fall 2027!"
-        }
-      ],
-      "representativeFloorplan": {
-        "label": "Suite A",
-        "bedrooms": 0,
-        "bathrooms": 1,
-        "availabilityRows": [],
-        "utilitiesIncludedInFee": [
-          "Water",
-          "Sewer",
-          "Recycling",
-          "and Internet"
-        ],
-        "amenities": [
-          "NEW Flooring",
-          "NEW Couch",
-          "Secure Entry with Intercom",
-          "Leased Parking",
-          "Laundry In Unit",
-          "JSM VIP Program Access",
-          "JSM Fitness Center Access",
-          "JSM Student Center Access"
-        ],
-        "floorplanImage": null,
-        "photoSamples": [
-          "https://www.jsmliving.com/sites/default/files/2022-09/505%20E%20Clark%20Unit%2036%20Champaign-large-004-013-Exterior-1500x999-72dpi.jpg",
-          "https://www.jsmliving.com/sites/default/files/2023-08/505%20E%20Clark%20Unit%2017%20Champaign-large-001-008-Exterior-1500x1000-72dpi.jpg",
-          "https://www.jsmliving.com/sites/default/files/2023-08/505%20E%20Clark%20Unit%2017%20Champaign-large-003-009-Exterior-1500x1000-72dpi.jpg",
-          "https://www.jsmliving.com/sites/default/files/2025-06/505C%20MID%20UNIT%20A.jpg",
-          "https://www.jsmliving.com/sites/default/files/2025-06/505C%20END%20UNIT%20A.jpg",
-          "https://www.jsmliving.com/sites/default/files/2025-07/505%20Clark%20Unit%2015%20Champaign%20IL-large-005-012-KitchenFamily%20Room-1500x1000-72dpi.jpg"
-        ]
-      }
-    },
-    {
       "name": "505 E. Healey",
       "propertyNodeId": "130144",
       "propertyUrl": "https://www.jsmliving.com/node/130144",
@@ -1628,6 +1557,77 @@
           "https://www.jsmliving.com/sites/default/files/2026-08/045-052-Common%20Area-1500x1000.jpg",
           "https://www.jsmliving.com/sites/default/files/2026-08/046-048-Common%20Area-1500x1000.jpg",
           "https://www.jsmliving.com/sites/default/files/2025-01/505F%20STUDIO-S1.jpg"
+        ]
+      }
+    },
+    {
+      "name": "505 E. Clark",
+      "propertyNodeId": "130115",
+      "propertyUrl": "https://www.jsmliving.com/node/130115",
+      "sourceName": "JSM Living",
+      "sourceUrl": "https://www.jsmliving.com/",
+      "sourceLogoUrl": "https://www.jsmliving.com/themes/custom/custom/images/JSM-logo.png",
+      "address": {
+        "street": "505 E. Clark",
+        "locality": null,
+        "region": "IL",
+        "postalCode": null,
+        "source": "JSM listing title"
+      },
+      "mapPoint": {
+        "latitude": 40.11513216338,
+        "longitude": -88.2313849,
+        "source": "JSM property detail page latitude/longitude metadata",
+        "mapPointUnitId": "130130"
+      },
+      "availabilityStatus": "advertised",
+      "offers": [
+        {
+          "unitTypeNodeId": "130130",
+          "bedrooms": 0,
+          "bathrooms": 1,
+          "rent": {
+            "perUnitUsd": {
+              "min": 1075,
+              "max": 1095,
+              "display": "$1075-1095/Unit"
+            }
+          },
+          "availableTerms": [
+            "Fall 2027"
+          ],
+          "statusText": "Now Leasing for Fall 2027!"
+        }
+      ],
+      "representativeFloorplan": {
+        "label": "Suite A",
+        "bedrooms": 0,
+        "bathrooms": 1,
+        "availabilityRows": [],
+        "utilitiesIncludedInFee": [
+          "Water",
+          "Sewer",
+          "Recycling",
+          "and Internet"
+        ],
+        "amenities": [
+          "NEW Flooring",
+          "NEW Couch",
+          "Secure Entry with Intercom",
+          "Leased Parking",
+          "Laundry In Unit",
+          "JSM VIP Program Access",
+          "JSM Fitness Center Access",
+          "JSM Student Center Access"
+        ],
+        "floorplanImage": null,
+        "photoSamples": [
+          "https://www.jsmliving.com/sites/default/files/2022-09/505%20E%20Clark%20Unit%2036%20Champaign-large-004-013-Exterior-1500x999-72dpi.jpg",
+          "https://www.jsmliving.com/sites/default/files/2023-08/505%20E%20Clark%20Unit%2017%20Champaign-large-001-008-Exterior-1500x1000-72dpi.jpg",
+          "https://www.jsmliving.com/sites/default/files/2023-08/505%20E%20Clark%20Unit%2017%20Champaign-large-003-009-Exterior-1500x1000-72dpi.jpg",
+          "https://www.jsmliving.com/sites/default/files/2025-06/505C%20MID%20UNIT%20A.jpg",
+          "https://www.jsmliving.com/sites/default/files/2025-06/505C%20END%20UNIT%20A.jpg",
+          "https://www.jsmliving.com/sites/default/files/2025-07/505%20Clark%20Unit%2015%20Champaign%20IL-large-005-012-KitchenFamily%20Room-1500x1000-72dpi.jpg"
         ]
       }
     },
@@ -2348,58 +2348,6 @@
       }
     },
     {
-      "name": "608 S. Sixth",
-      "propertyNodeId": "130564",
-      "propertyUrl": "https://www.jsmliving.com/node/130564",
-      "sourceName": "JSM Living",
-      "sourceUrl": "https://www.jsmliving.com/",
-      "sourceLogoUrl": "https://www.jsmliving.com/themes/custom/custom/images/JSM-logo.png",
-      "address": {
-        "street": "608 S. Sixth",
-        "locality": null,
-        "region": "IL",
-        "postalCode": null,
-        "source": "JSM listing title"
-      },
-      "mapPoint": {
-        "latitude": 40.110817413378,
-        "longitude": -88.2301846,
-        "source": "JSM property detail page latitude/longitude metadata",
-        "mapPointUnitId": null
-      },
-      "availabilityStatus": "not_advertised",
-      "offers": [],
-      "representativeFloorplan": {
-        "label": "Standard",
-        "bedrooms": 4,
-        "bathrooms": 2,
-        "availabilityRows": [],
-        "utilitiesIncludedInFee": [
-          "Water",
-          "Sewer",
-          "Internet",
-          "and Electricity"
-        ],
-        "amenities": [
-          "Secure Entry",
-          "Leased Parking",
-          "Laundry In Unit",
-          "JSM VIP Program Access",
-          "JSM Fitness Center Access",
-          "JSM Student Center Access"
-        ],
-        "floorplanImage": "https://www.jsmliving.com/sites/default/files/2021-07/608S%20FLOOR%20PLAN-COLOR.jpg",
-        "photoSamples": [
-          "https://www.jsmliving.com/sites/default/files/2022-10/608%20S%20Sixth%20Champaign%20IL%2061820-large-009-006-Exterior-1500x1000-72dpi.jpg",
-          "https://www.jsmliving.com/sites/default/files/2021-07/IMG_1028.jpg",
-          "https://www.jsmliving.com/sites/default/files/2021-07/IMG_1020.jpg",
-          "https://www.jsmliving.com/sites/default/files/2021-07/IMG_1061.jpg",
-          "https://www.jsmliving.com/sites/default/files/2021-07/IMG_1022.jpg",
-          "https://www.jsmliving.com/sites/default/files/2021-07/IMG_1040.jpg"
-        ]
-      }
-    },
-    {
       "name": "608 E. Green",
       "propertyNodeId": "130561",
       "propertyUrl": "https://www.jsmliving.com/node/130561",
@@ -2480,6 +2428,58 @@
       }
     },
     {
+      "name": "608 S. Sixth",
+      "propertyNodeId": "130564",
+      "propertyUrl": "https://www.jsmliving.com/node/130564",
+      "sourceName": "JSM Living",
+      "sourceUrl": "https://www.jsmliving.com/",
+      "sourceLogoUrl": "https://www.jsmliving.com/themes/custom/custom/images/JSM-logo.png",
+      "address": {
+        "street": "608 S. Sixth",
+        "locality": null,
+        "region": "IL",
+        "postalCode": null,
+        "source": "JSM listing title"
+      },
+      "mapPoint": {
+        "latitude": 40.110817413378,
+        "longitude": -88.2301846,
+        "source": "JSM property detail page latitude/longitude metadata",
+        "mapPointUnitId": null
+      },
+      "availabilityStatus": "not_advertised",
+      "offers": [],
+      "representativeFloorplan": {
+        "label": "Standard",
+        "bedrooms": 4,
+        "bathrooms": 2,
+        "availabilityRows": [],
+        "utilitiesIncludedInFee": [
+          "Water",
+          "Sewer",
+          "Internet",
+          "and Electricity"
+        ],
+        "amenities": [
+          "Secure Entry",
+          "Leased Parking",
+          "Laundry In Unit",
+          "JSM VIP Program Access",
+          "JSM Fitness Center Access",
+          "JSM Student Center Access"
+        ],
+        "floorplanImage": "https://www.jsmliving.com/sites/default/files/2021-07/608S%20FLOOR%20PLAN-COLOR.jpg",
+        "photoSamples": [
+          "https://www.jsmliving.com/sites/default/files/2022-10/608%20S%20Sixth%20Champaign%20IL%2061820-large-009-006-Exterior-1500x1000-72dpi.jpg",
+          "https://www.jsmliving.com/sites/default/files/2021-07/IMG_1028.jpg",
+          "https://www.jsmliving.com/sites/default/files/2021-07/IMG_1020.jpg",
+          "https://www.jsmliving.com/sites/default/files/2021-07/IMG_1061.jpg",
+          "https://www.jsmliving.com/sites/default/files/2021-07/IMG_1022.jpg",
+          "https://www.jsmliving.com/sites/default/files/2021-07/IMG_1040.jpg"
+        ]
+      }
+    },
+    {
       "name": "616 E. Green",
       "propertyNodeId": "130567",
       "propertyUrl": "https://www.jsmliving.com/node/130567",
@@ -2551,12 +2551,12 @@
         "latitude": 40.106509013376,
         "longitude": -88.221248,
         "source": "JSM property detail page latitude/longitude metadata",
-        "mapPointUnitId": "130774"
+        "mapPointUnitId": "130643"
       },
       "availabilityStatus": "advertised",
       "offers": [
         {
-          "unitTypeNodeId": "130774",
+          "unitTypeNodeId": "130643",
           "bedrooms": 1,
           "bathrooms": 1,
           "rent": {
@@ -2594,7 +2594,7 @@
         }
       ],
       "representativeFloorplan": {
-        "label": "Luxury",
+        "label": "Standard",
         "bedrooms": 1,
         "bathrooms": 1,
         "availabilityRows": [],
@@ -2607,9 +2607,6 @@
           "and Internet"
         ],
         "amenities": [
-          "NEW Flooring",
-          "NEW Bedroom Furniture",
-          "NEW Couch and Chair",
           "Secure Entry with Intercom",
           "Luxer One Secure Package Delivery System",
           "Leased Covered Parking",
@@ -2618,14 +2615,14 @@
           "JSM Fitness Center Access",
           "JSM Student Center Access"
         ],
-        "floorplanImage": "https://www.jsmliving.com/sites/default/files/2025-09/700G-1BR%20LUX%20PLAN%20color_0.jpg",
+        "floorplanImage": "https://www.jsmliving.com/sites/default/files/2021-07/700G-1BR%20PLAN%20color_0.jpg",
         "photoSamples": [
           "https://www.jsmliving.com/sites/default/files/2021-06/700%20S%20Gregory%20Urbana%20IL%2061801-large-003-055-Exterior-1500x1000-72dpi.jpg",
           "https://www.jsmliving.com/sites/default/files/2021-06/700%20S%20Gregory%20Urbana%20IL%2061801-large-005-056-Exterior-1500x1000-72dpi.jpg",
           "https://www.jsmliving.com/sites/default/files/2021-06/700%20S%20Gregory%20Urbana%20IL%2061801-large-008-048-Exterior-1500x1000-72dpi.jpg",
           "https://www.jsmliving.com/sites/default/files/2024-09/IMG_5387.jpg",
           "https://www.jsmliving.com/sites/default/files/2024-09/IMG_5401.jpg",
-          "https://www.jsmliving.com/sites/default/files/2025-09/700%20S%20Gregory%20Champaign%20IL%2061820-large-001-010-700%20Gregory-1500x1000-72dpi.jpg"
+          "https://www.jsmliving.com/sites/default/files/2022-09/700G-1BR-STUDY%20PLAN%20COLOR.jpg"
         ]
       }
     },

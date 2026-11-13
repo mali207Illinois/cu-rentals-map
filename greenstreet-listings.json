@@ -3,11 +3,11 @@
   "collection": {
     "source": "Green Street Realty official public website",
     "directoryUrl": "https://www.greenstrealty.com/properties",
-    "capturedOn": "2026-11-12",
+    "capturedOn": "2026-11-13",
     "method": "Embedded public property-info-json records on the property directory page.",
     "buildingCount": 248,
     "advertisedBuildingCount": 139,
-    "advertisedLayoutCount": 287,
+    "advertisedLayoutCount": 285,
     "limitations": "Directory plans are published floor-plan offers, not live unit inventory. Leased and past-dated plans are not marked available. Coordinates are realtor-provided pins, not verified footprint centroids.",
     "futureRefreshRequirement": {
       "cadenceHours": 24,
@@ -11105,23 +11105,6 @@
       "availabilityStatus": "advertised",
       "offers": [
         {
-          "unitTypeNodeId": "gsr:280:1",
-          "title": "1 Bedroom",
-          "bedrooms": 1,
-          "bathrooms": 1,
-          "rent": {
-            "perUnitUsd": {
-              "min": 1325,
-              "max": 1325,
-              "display": "$1,325"
-            }
-          },
-          "availableTerms": [
-            "August 2027"
-          ],
-          "statusText": ""
-        },
-        {
           "unitTypeNodeId": "gsr:280:2",
           "title": "2 Bedroom",
           "bedrooms": 2,
@@ -11189,8 +11172,8 @@
         }
       ],
       "representativeFloorplan": {
-        "label": "1 Bedroom",
-        "bedrooms": 1,
+        "label": "2 Bedroom",
+        "bedrooms": 2,
         "bathrooms": 1,
         "availabilityStatus": "August 2027",
         "availabilityRows": [],
@@ -12678,23 +12661,6 @@
       "availabilityStatus": "advertised",
       "offers": [
         {
-          "unitTypeNodeId": "gsr:63:1",
-          "title": "1 Bedroom",
-          "bedrooms": 1,
-          "bathrooms": 1,
-          "rent": {
-            "perUnitUsd": {
-              "min": 1295,
-              "max": 1295,
-              "display": "$1,295"
-            }
-          },
-          "availableTerms": [
-            "August 2027"
-          ],
-          "statusText": ""
-        },
-        {
           "unitTypeNodeId": "gsr:63:2",
           "title": "2 Bedroom",
           "bedrooms": 2,
@@ -12718,8 +12684,8 @@
         }
       ],
       "representativeFloorplan": {
-        "label": "1 Bedroom",
-        "bedrooms": 1,
+        "label": "2 Bedroom",
+        "bedrooms": 2,
         "bathrooms": 1,
         "availabilityStatus": "August 2027",
         "availabilityRows": [],
