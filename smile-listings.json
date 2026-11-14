@@ -3,12 +3,12 @@
   "collection": {
     "source": "Smile Student Living official public availability page",
     "directoryUrl": "https://www.smilestudentliving.com/availability",
-    "capturedOn": "2026-11-13",
+    "capturedOn": "2026-11-14",
     "method": "Paginated public Duda appfolio-listings collection, filtered by the availability widget's Smile UIUC property group; unit listables grouped by published property ID.",
-    "buildingCount": 55,
-    "advertisedBuildingCount": 55,
-    "advertisedLayoutCount": 137,
-    "sourceListableCount": 138,
+    "buildingCount": 54,
+    "advertisedBuildingCount": 54,
+    "advertisedLayoutCount": 136,
+    "sourceListableCount": 137,
     "limitations": "The public collection is an availability-only snapshot, not a full inventory of Smile's unlisted buildings. A zero-rent sublease application is not a rental offer. Published prices may be per person when explicitly stated; otherwise they are labeled monthly without inferring a per-unit basis. Photos are sampled from official URLs. Pins are Smile-provided, not verified footprint centroids.",
     "futureRefreshRequirement": {
       "cadenceHours": 24,
@@ -4985,87 +4985,6 @@
           "https://images.cdn.appfolio.com/fairlawn/images/1312f759-7015-4440-8e2f-2e2f09283810/large.png",
           "https://images.cdn.appfolio.com/fairlawn/images/e074699e-8f07-4629-9e3f-e5a60e772d7f/large.jpg",
           "https://images.cdn.appfolio.com/fairlawn/images/1e732b87-238f-4225-9dae-c345b0af0cd9/large.jpg"
-        ]
-      }
-    },
-    {
-      "name": "806 S Third",
-      "propertyNodeId": "smile:1631",
-      "propertyUrl": "https://www.smilestudentliving.com/listings/detail/c289a5c0-9c0b-4940-ab51-a26cd7bb53b1",
-      "sourceName": "Smile Student Living",
-      "sourceUrl": "https://www.smilestudentliving.com/",
-      "sourceLogoUrl": "https://images.cdn.appfolio.com/fairlawn/images/62ce98a0-f77b-4a49-83b5-b4472f7279f4/large.png",
-      "source": {
-        "assetHosts": [
-          "cdn.appfolio.com"
-        ]
-      },
-      "address": {
-        "street": "806 S Third",
-        "locality": "Champaign",
-        "region": "IL",
-        "postalCode": "61820",
-        "source": "Smile public AppFolio availability collection"
-      },
-      "mapPoint": {
-        "latitude": 40.1084743,
-        "longitude": -88.2349746,
-        "source": "Smile published property latitude/longitude"
-      },
-      "availabilityStatus": "advertised",
-      "offers": [
-        {
-          "unitTypeNodeId": "smile:c289a5c0-9c0b-4940-ab51-a26cd7bb53b1",
-          "title": "4 Bedroom 2 Bath - First Floor",
-          "bedrooms": 4,
-          "bathrooms": 2.0,
-          "rent": {
-            "perPersonUsd": {
-              "min": 709,
-              "max": 709,
-              "display": "$709"
-            }
-          },
-          "availableTerms": [
-            "Aug 16, 2027"
-          ],
-          "statusText": "August 2027-Individual Leasing Avaliblie! Four bed two bath apartment in Seniorland neighborhood, priced per person. Text to tour 2176871422"
-        }
-      ],
-      "representativeFloorplan": {
-        "label": "4 Bedroom 2 Bath - First Floor",
-        "bedrooms": 4,
-        "bathrooms": 2.0,
-        "availabilityStatus": "Available Aug 16, 2027",
-        "availabilityRows": [],
-        "utilitiesIncludedInFee": [
-          "Water",
-          "Sewer",
-          "Trash Service",
-          "Recycling",
-          "Internet",
-          "Electricity – See Utility Addendum – All-Inclusive"
-        ],
-        "amenities": [
-          "24-Hour Emergency Maintenance",
-          "In-Unit Washer/Dryer",
-          "Fully Remodeled",
-          "Leased Parking",
-          "Smart TV",
-          "Fully Furnished",
-          "Fiber Internet",
-          "Income Requirement Waived for UIUC Students",
-          "Co-Signer Not Required",
-          "Low admin fee or security deposit – you choose!",
-          "Pet-Friendly",
-          "Ground Floor",
-          "Access to The Flamingo (Smile's Fitness Center/Study Rooms/Resident Lounge)"
-        ],
-        "floorplanImage": null,
-        "photoSamples": [
-          "https://images.cdn.appfolio.com/fairlawn/images/b68eb776-2bb4-4067-8429-c664de374a59/large.png",
-          "https://images.cdn.appfolio.com/fairlawn/images/a352e6e2-ac39-4f51-8636-f2ed34215fc3/large.jpg",
-          "https://images.cdn.appfolio.com/fairlawn/images/61040548-d9b0-4c31-b50c-485720c98462/large.jpg"
         ]
       }
     },
